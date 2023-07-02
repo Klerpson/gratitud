@@ -1,0 +1,13 @@
+.buscador{
+  padding: 4em 1rem;
+}
+
+.buscador div{
+  display: grid;
+  place-items: center;
+}
+
+.buscador div input,
+.buscador div ul{
+  width: min(100%, 720px);
+}

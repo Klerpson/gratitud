@@ -1,0 +1,27 @@
+<header>
+  <div class="title flow">
+    {% if page.url == "/" %}
+    <h1>{{page.h1}}</h1>
+    {% include slider.html %}
+  </div>
+  <div class="card">
+    <div class="circle"></div>
+    <div class="circle"></div>
+    <div class="card-inner">
+      {% assign post1 = site.posts[0] %}
+      {{ post1.excerpt | truncate: 320 | markdownify}}
+      <a href="{{site.baseurl}}{{post1.url}}" title="{{page.boton_info_title}}">Analicemos su significado ⇾</a>
+    </div>
+  </div>
+  {% else %}
+  <h1>{{page.h1}}</h1>
+  {% if page.excerpt %}
+  {{page.excerpt|markdownify}}
+  {% if page.boton_info" %}
+  <div>
+    <a href="{{site.baseurl}}{{page.url}}#{{page.boton_mas}}" title="{{page.boton_mas_title}}" class="boton boton_1">{{page.boton_mas_title | capitalize}}</a>
+  </div>
+  {% endif %}
+  {% endif %}
+  {% endif %}
+</header>

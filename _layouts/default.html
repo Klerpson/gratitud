@@ -1,0 +1,21 @@
+---
+layout: compress
+---
+{% include head.html %}
+<body>
+  {% include nav.html %}
+  {% include header.html %}
+  {% if page.vertical %}
+  <main class="normas_contenido">
+    {{ content }}
+  </main>
+  {% include cta.html %}
+  {% include footer.html %}
+  {% else %}
+    {{ content }}
+  {% endif %}
+  <a href="#">{% include boton-up.html %}</a>
+  
+</body>
+
+</html>

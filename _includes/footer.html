@@ -1,0 +1,59 @@
+<footer>
+  <section>
+    <div>
+      <a href="{{site.baseurl}}/" title="Inicio">
+        <img src="{{'logotipo.webp'|relative_url}}" alt="Logo TrabajoEscrito.com" width="200" height="98" loading="lazy">
+      </a>
+      <p>¿Necesitas dominar las normas APA, ICONTEC y mejorar tus habilidades en trabajos escritos? En nuestra página aprende todo lo necesario.</p>
+    </div>
+    <div>
+      <h4>Normas</h4>
+      <a href="{{ site.baseurl }}/normas-apa">⇾ APA</a>
+      <a href="{{ site.baseurl }}/normas-icontec">⇾ Icontec</a>
+      <!-- <a href="{{ site.baseurl }}/#">⇾ IEEE</a>
+      <a href="{{ site.baseurl }}/#">⇾ Vancouver</a>
+      <a href="{{ site.baseurl }}/#">⇾ Chicago</a>
+      <a href="{{ site.baseurl }}/#">⇾ Harvard</a>
+      <a href="{{ site.baseurl }}/#">⇾ Upel</a> -->
+    </div>
+    <div>
+      <h4>Tipos</h4>
+      <a href="{{ site.baseurl }}/tesis-normas-apa">⇾ Tesis</a>
+      <a href="{{ site.baseurl }}/investigacion-con-normas-apa-icontec">⇾ Investigación</a>
+      <a href="{{ site.baseurl }}/ensayos-con-normas-tecnicas">⇾ Ensayo</a>
+      <a href="{{ site.baseurl }}/informes">⇾ Informe</a>
+      <a href="{{ site.baseurl }}/monografia">⇾ Monografía</a>
+      <a href="{{ site.baseurl }}/articulos-con-normas-apa">⇾ Artículo</a>
+      <a href="{{ site.baseurl }}/proyectos-academicos">⇾ Proyecto</a>
+    </div>
+    <div>
+      <h4>Blog</h4>
+      {% assign post1 = site.posts[0] %}
+      <a href="{{site.baseurl}}{{ post1.url }}" title="{{post1.title}}">⇾ {{ post1.h1 | truncate: 40}}</a>
+      {% assign post2 = site.posts[1] %}
+      <a href="{{site.baseurl}}{{ post2.url }}" title="{{post2.title}}">⇾ {{ post2.h1 | truncate: 40}}</a>
+      {% assign post3 = site.posts[2] %}
+      <a href="{{site.baseurl}}{{ post3.url }}" title="{{post3.title}}">⇾ {{ post3.h1 | truncate: 40}}</a>
+      {% assign post4 = site.posts[3] %}
+      <a href="{{site.baseurl}}{{ post4.url }}" title="{{post4.title}}">⇾ {{ post4.h1 | truncate: 40}}</a>
+      <a href="{{site.baseurl}}/tips-y-consejos">⇾ Ver más posts</a>
+    </div>
+    <div>
+      <h4>Consultas</h4>
+      <a href="{{site.baseurl}}/legal" rel="nofollow">⇾ Privacidad, términos y condiciones</a>
+      <a href="mailto:digitalizaresfacil@gmail.com" rel="nofollow">⇾ E-mail</a>
+      <a href="{{site.baseurl}}/contacto">⇾ Escríbenos</a>
+      <a href="{{site.baseurl}}/sitemap.xml">⇾ Sitemap</a>
+      <a href="{{site.baseurl}}/cursos-de-trabajos-escritos">⇾ CURSOS</a>
+    </div>
+    <!-- <div>
+      <h4>Síguenos</h4>
+      <a href="#">Instagram</a>
+      <a href="#">Facebook</a>
+      <a href="#">Pinterest</a>
+    </div> -->
+  </section>
+  <section>
+  <q>&copy; TrabajoEscrito.com - {{ "now" | date:"%Y"}} - Todos los derechos reservados</q>
+  </section>
+</footer>

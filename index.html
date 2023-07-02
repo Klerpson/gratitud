@@ -1,0 +1,111 @@
+---
+layout: default
+title: "Frases de agradecimiento para vivir feliz ↩"
+description: Las terminales de transporte te dan la seguridad que necesitas para viajar. Busca aquí la información oficial y completa de las terminales de Colombia
+h1: "Frases de agradecimiento para un día feliz. ¿Cuál deseas ver hoy?"
+intro: "Lorem asdfp anewa wenf fnwea wn sd nn eneuna nwan naw indsdv absd b vreb ibv a v bwevueb viuwaer bvuiwe baiwvcbiawu fb"
+boton_info: "partes"
+boton_info_title: "Partes de un trabajo escrito"
+boton_mas: "buscador"
+boton_mas_title: "Buscador"
+---
+{% include buscador.html %}
+<section class="parallax">
+  <div style="height: 150px; overflow: hidden; background-color: transparent;" ><svg viewBox="0 0 500 150" preserveAspectRatio="none" style="height: 100%; width: 100%;"><path d="M-48.24,-45.86 C113.15,193.92 217.55,-75.47 526.24,29.13 L504.79,-6.39 L-2.54,-9.36 Z" style="stroke: none; fill: #f2f2f8;"></path></svg></div>
+  <div>
+    <h2>Inspírate para compartir palabras de agradecimiento para ti o para quienes te rodean</h2>
+    <p>Esta página es un diario de gratitud real. Puedes <strong>entrar diariamente y encontrar frases de agradecimiento nuevas.</strong> Además, preparamos cada frase para que la puedas compartir por tus redes favoritas.</p>
+    <ol>
+      <li>Haz clic en el botón que acompaña cada frase para copiarla</li>
+      <li>Abre tus estados o tus redes sociales favoritas, tu editor de imágenes, etc.</li>
+      <li>¡Pega la frase que copiaste y comparte tu sentimiento de gratitud!</li>
+    </ol>
+  </div>
+</section>
+
+<main class="wrapper flow">
+  <h2>Ejemplos de frases para agradecer</h2>
+  <h3></h3>
+  {% include swiper.html %}
+</main>
+
+<section class="wrapper flow" >
+  <div>
+    <img src="{{'logotipo.webp'}}" alt="Logotipo de Frases de Agradecimiento">
+    <h2>Encuentra <i>Frases de agradecimiento</i> para...</h2>
+  </div>
+  <ul class="frases">
+    <li><a href="#" title="Lorem Ipsum">⇾ Tu Dios o en Versículos</a></li>
+    <li><a href="#" title="Lorem Ipsum">⇾ Tu Maestro o tu Clase</a></li>
+    <li><a href="#" title="Lorem Ipsum">⇾ Tu Amigo o Amiga</a></li>
+    <li><a href="#" title="Lorem Ipsum">⇾ Tu Mamá o Papá</a></li>
+    <li><a href="#" title="Lorem Ipsum">⇾ Tu Jefe o Compañeros</a></li>
+    <li><a href="#" title="Lorem Ipsum">⇾ Tus Invitados</a></li>
+    <li><a href="#" title="Lorem Ipsum">⇾ Tus Clientes</a></li>
+  </ul>
+</section>
+
+  <section class="wrapper flow entradas">
+    <h2 class="entrada1">Te damos más tips</h2>
+    <span class="entrada2"><img loading="lazy" src="{{'img/blog.svg'|relative_url}}" alt="Blog de TrabajoEscrito.com"></span>
+    <p class="entrada3">Aprende muchos tips, consejos y trucos con nuestro blog de TrabajoEscrito.com</p>
+    <h3 class="entrada4">para tu Trabajo Escrito</h3>
+    <div class="entradas-blog">
+      {% assign post1 = site.posts[0] %}
+      <article>
+        <img loading="lazy" src="{{ site.baseurl }}/img/{{ post1.webp }}" alt="{{ post1.alt }}" loading="lazy">
+        <a href="{{site.baseurl}}{{ post1.url }}" title="{{post1.title}}">
+          <h4>{{ post1.h1 }}</h4>
+        </a>
+        {{ post1.excerpt | truncate: 80 | markdownify}}
+      </article>
+      {% assign post2 = site.posts[1] %}
+      <article>
+        <img loading="lazy" src="{{ site.baseurl }}/img/{{ post2.webp }}" alt="{{ post2.alt }}" loading="lazy">
+        <a href="{{site.baseurl}}{{ post2.url }}" title="{{post2.title}}">
+          <h4>{{ post2.h1 }}</h4>
+        </a>
+        {{ post2.excerpt | truncate: 80 | markdownify}}
+      </article>
+      {% assign post3 = site.posts[2] %}
+      <article>
+        <img loading="lazy" src="{{ site.baseurl }}/img/{{ post3.webp }}" alt="{{ post3.alt }}" loading="lazy">
+        <a href="{{site.baseurl}}{{ post3.url }}" title="{{post3.title}}">
+          <h4>{{ post3.h1 }}</h4>
+        </a>
+        {{ post3.excerpt | truncate: 80 | markdownify}}
+      </article>
+      {% assign post4 = site.posts[3] %}
+      <article>
+        <img loading="lazy" src="{{ site.baseurl }}/img/{{ post4.webp }}" alt="{{ post4.alt }}" loading="lazy">
+        <a href="{{site.baseurl}}{{ post4.url }}" title="{{post4.title}}">
+          <h4>{{ post4.h1 }}</h4>
+        </a>
+        {{ post4.excerpt | truncate: 80 | markdownify}}
+      </article>
+      {% assign post5 = site.posts[4] %}
+      
+    </div>
+    <a href="{{'tips-y-consejos'|relative_url}}" class="boton">Más consejos en el blog</a>
+  </section>
+
+  {% include follow-buttons.html %}
+  {% include footer.html %}
+
+  <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-element-bundle.min.js" async></script>
+{% if page.url == "/" %}
+<!-- Script pointing to search-script.js -->
+<script src="{{site.baseurl}}/js/search-script.js" type="text/javascript" async></script>
+<!-- Configuration -->
+<script>
+  var sjs = SimpleJekyllSearch({
+  searchInput: document.getElementById('search-input'),
+  resultsContainer: document.getElementById('results-container'),
+   json: '/search.json',
+   noResultsText: 'No tenemos este texto aún',
+   fuzzy: false
+  })
+</script>
+{% endif %}
+<!-- Slider /js -->
+<script src="/js/slider.js" defer></script>

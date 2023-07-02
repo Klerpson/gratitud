@@ -1,0 +1,21 @@
+swiper-container {
+  height: 200px;
+  width: min(90%, 720px);
+}
+
+swiper-slide {
+  padding: 1em 4em;
+  text-align: center;
+  font-size: 18px;
+  background: rgb(242,242,248);
+  background: linear-gradient(120deg, rgba(242,242,248,1) 5%, rgba(233,217,36,1) 39%, rgba(53,224,255,1) 72%, rgba(242,242,248,1) 95%);;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: var(--radius);
+}
+
+swiper-container {
+  margin-left: auto;
+  margin-right: auto;
+}

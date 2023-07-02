@@ -1,0 +1,67 @@
+---
+layout: compress
+title: Tips y consejos para hacer tu Trabajo Escrito
+h1: Tips y consejos para hacer tu Trabajo Escrito
+description: ¿Qué Trabajo Escrito estás haciendo ahora? ¿📑 Tesis? ¿📃 Informes? ¿📄 Artículos? Aquí te damos los tips y consejos para presentar tu mejor resultado
+webp: tips.webp
+permalink: /reflexiones
+---
+{% include head.html %}
+<body>
+  {% include nav.html %}
+  <header>
+    <div class="title">
+      <h1>{{page.h1}}</h1>
+      <img src="{{site.baseurl}}/img/{{page.webp}}" alt="{{page.alt}}" title="{{page.title}}">
+    </div>
+  </header>
+  {% include buscador.html %}
+
+
+
+
+  <main class="blog-gallery">
+    <h2>¿Vamos al grano con esta opciones?</h2>
+    <div class="blog-tags">
+      <button data-name="all" class="active">Todos</button>
+      {% for tag in site.tags %}
+      <button data-name="{{ tag[0] }}">{{ tag[0] | capitalize }}</button>
+      {% endfor %}
+    </div>
+    <hr>
+    <h3>El contenido de nuestros expertos</h3>
+  <section class="posts">
+    {% for tag in site.tags %}
+    <div class="post" data-name="{{ tag[0] }}">
+      <span>{{ tag[0] | capitalize }}</span>
+      <div class="links">
+        {% for post in tag[1] %}
+        <article><a href="{{ post.url }}"><h4>{{ post.title }}</h4></a></article>
+        {% endfor %}
+      </div>
+      <hr>
+    </div>
+      {% endfor %}
+  </section>
+  </main>
+  {% include cta.html %}
+  {% include footer.html %}
+  <a href="#">{% include boton-up.html %}</a>
+  
+
+ <script async>
+  const filterButtons = document.querySelectorAll(".blog-tags button");
+  const filterPosts = document.querySelectorAll(".posts .post");
+
+  const filter = e => {
+    filterButtons.forEach(button => button.classList.toggle("active", button === e.target));
+
+    filterPosts.forEach(post => {
+      post.classList.toggle("hide", post.dataset.name !== e.target.dataset.name && e.target.dataset.name !== "all");
+    });
+  };
+
+  filterButtons.forEach(button => button.addEventListener("click", filter));
+  </script>
+  </body>
+</html>
