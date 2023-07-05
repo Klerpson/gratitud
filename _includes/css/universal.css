@@ -258,6 +258,7 @@ hr:after {
 .wrapper{
   width: min(100% - 2rem, 1024px);
   margin-inline: auto;
+  padding: 4em 2rem;
 }
 
 .flow > * + *{
@@ -298,6 +299,7 @@ hr:after {
   display: flex;
   flex-direction: column;
   gap: 1em;
+  align-items: center;
 }
 
 .parallax li {
