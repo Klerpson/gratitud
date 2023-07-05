@@ -15,13 +15,14 @@
   </div>
   {% else %}
   <h1>{{page.h1}}</h1>
-  {% if page.excerpt %}
-  {{page.excerpt|markdownify}}
-  {% if page.boton_info" %}
-  <div>
-    <a href="{{site.baseurl}}{{page.url}}#{{page.boton_mas}}" title="{{page.boton_mas_title}}" class="boton boton_1">{{page.boton_mas_title | capitalize}}</a>
+    {% if page.excerpt %}
+    {{page.excerpt|markdownify}}
   </div>
-  {% endif %}
-  {% endif %}
+      {% if page.boton" %}
+      <div>
+        <a href="{{site.baseurl}}{{page.url}}#{{page.boton_url}}" title="{{page.boton}}" class="boton boton_2">{{page.boton | capitalize}}</a>
+      </div>
+      {% endif %}
+    {% endif %}
   {% endif %}
 </header>
