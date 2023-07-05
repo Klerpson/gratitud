@@ -1,7 +1,3 @@
-.buscador{
-  padding: 4em 1rem;
-}
-
 .buscador div{
   display: grid;
   place-items: center;

@@ -258,7 +258,7 @@ hr:after {
 .wrapper{
   width: min(100% - 2rem, 1024px);
   margin-inline: auto;
-  padding: 4em 2rem;
+  padding: 6em 3em;
 }
 
 .flow > * + *{
