@@ -6,6 +6,7 @@
 .buscador div input,
 .buscador div ul{
   width: min(100%, 720px);
+  height: min-content;
 }
 
 .buscador div ul{

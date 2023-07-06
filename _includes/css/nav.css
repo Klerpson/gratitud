@@ -102,13 +102,11 @@ nav ul li:last-child{
   display: none;
 }
 
+nav .logo:hover,
+nav .logo:active {
+  text-decoration: none;
+}
 @media screen and (max-width: 992px) {
-  nav .logo {
-    float: none;
-    width: auto;
-    justify-content: center;
-    font-size: 1.2rem;
-  }
 
   nav ul {
     float: none;

@@ -12,12 +12,11 @@ permalink: /reflexiones
   <header>
     <div class="title">
       <h1>{{page.h1}}</h1>
-      <img src="{{site.baseurl}}/img/{{page.webp}}" alt="{{page.alt}}" title="{{page.title}}">
     </div>
+      <img src="{{site.baseurl}}/img/{{page.webp}}" alt="{{page.alt}}" title="{{page.title}}">
   </header>
-  {% include buscador.html %}
-
-
+  
+  
 
 
   <main class="blog-gallery">
@@ -41,12 +40,13 @@ permalink: /reflexiones
       </div>
       <hr>
     </div>
-      {% endfor %}
+    {% endfor %}
   </section>
-  </main>
-  {% include cta.html %}
-  {% include footer.html %}
-  <a href="#">{% include boton-up.html %}</a>
+</main>
+{% include buscador.html %}
+{% include cta.html %}
+{% include footer.html %}
+<a href="#">{% include boton-up.html %}</a>
   
 
  <script async>
@@ -63,5 +63,17 @@ permalink: /reflexiones
 
   filterButtons.forEach(button => button.addEventListener("click", filter));
   </script>
+  <!-- Script pointing to search-script.js -->
+<script src="{{site.baseurl}}/js/search-script.js" type="text/javascript"></script>
+<!-- Configuration -->
+<script>
+  var sjs = SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/search.json',
+    noResultsText: 'No tenemos este texto aún',
+    fuzzy: false
+  });
+</script>
   </body>
 </html>

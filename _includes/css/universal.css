@@ -256,9 +256,9 @@ hr:after {
 }
 
 .wrapper{
-  width: min(100% - 2rem, 1024px);
+  width: min((100% - 2rem), 1024px);
   margin-inline: auto;
-  padding: 6em 3em;
+  padding: 6em 0;
 }
 
 .flow > * + *{
@@ -294,7 +294,7 @@ hr:after {
 }
 
 .parallax div:last-child{
-  width: min(90%, 1024px);
+  width: min((100% - 2rem), 1024px);
   margin-inline: auto;
   display: flex;
   flex-direction: column;

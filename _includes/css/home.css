@@ -73,6 +73,11 @@
   margin: 0;
 }
 
+.categorias_home{
+  display: grid;
+  gap: 2em;
+}
+
 /* background-color: var(--secundario);
 box-shadow: 0 0 0 100vmax var(--secundario);
 clip-path: inset(0 -100vmax); */
