@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page-basic
 title: ¡Gracias por tu tiempo y atención! 🌟
 h1: ¡Gracias por tu tiempo y atención! 🌟
 description: Tu interés en nuestro blog de frases de gratitud nos llena de alegría y nos motiva a seguir compartiendo contenido que inspire y enriquezca tu vida.
@@ -37,15 +37,9 @@ Recuerda que la gratitud se multiplica cuando se comparte. Si encuentras una fra
 > [Compartir en Facebook](#)  
 > [Compartir en Twitter](#)
 
-----------
-
 Una vez más, gracias por tu tiempo y por ser parte de nuestra comunidad. ¡Esperamos verte de nuevo pronto!
 
-----------
-
 Con gratitud,  
-El equipo de [Nombre del Blog]
-
-----------
+El equipo de ***diariogratitud.com***
 
 > "La gratitud no sólo es la más grande de las virtudes, sino la madre de todas las demás." - Cicerón
