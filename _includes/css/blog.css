@@ -21,6 +21,7 @@
 #share-buttons {
   display: inline-block;
   vertical-align: middle;
+  margin: 0;
 }
 
 #share-buttons:after {

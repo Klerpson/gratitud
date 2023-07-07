@@ -19,7 +19,7 @@ permalink: /reflexiones
   
 
 
-  <main class="blog-gallery">
+  <main class="blog-gallery wrapper">
     <h2>¿Vamos al grano con esta opciones?</h2>
     <div class="blog-tags">
       <button data-name="all" class="active">Todos</button>
@@ -28,7 +28,6 @@ permalink: /reflexiones
       {% endfor %}
     </div>
     <hr>
-    <h3>El contenido de nuestros expertos</h3>
   <section class="posts">
     {% for tag in site.tags %}
     <div class="post" data-name="{{ tag[0] }}">
