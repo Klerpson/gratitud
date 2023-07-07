@@ -16,18 +16,18 @@
   grid-area: entrada1;
   margin: 0;
   text-align: right;
-  width: min(100%, 500px);
+  width: min(calc(100% - 1rem), 500px);
   justify-self: right;
 }
 
 .entradas .entrada2{
   grid-area: entrada2;
-  width: min(100%, 500px);
+  width: min(calc(100% - 1rem), 500px);
 }
 
 .entradas .entrada3{
   grid-area: entrada3;
-  width: min(100%, 500px);
+  width: min(calc(100% - 1rem), 500px);
   justify-self: right;
   margin: 0;
 }
@@ -36,7 +36,7 @@
   grid-area: entrada4;
   margin: 0;
   text-align: left;
-  width: min(100%, 500px);
+  width: min(calc(100% - 1rem), 500px);
 }
 
 .entradas .boton{
@@ -47,7 +47,7 @@
 }
 
 .entradas .entradas-blog{
-  width: min(90%, 1024px);
+  width: min(calc(100% - 2rem), 1024px);
   margin-inline: auto;
 }
 
@@ -75,7 +75,6 @@
 
 .categorias_home{
   display: grid;
-  gap: 2em;
 }
 
 /* background-color: var(--secundario);

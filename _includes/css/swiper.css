@@ -1,6 +1,6 @@
 swiper-container {
-  height: 200px;
-  width: min(90%, 720px);
+  height: min-content;
+  width: min(calc(100% - 2rem), 720px);
 }
 
 swiper-slide {
@@ -18,4 +18,5 @@ swiper-slide {
 swiper-container {
   margin-left: auto;
   margin-right: auto;
+  padding: 2em 1em;
 }
