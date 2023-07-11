@@ -129,6 +129,7 @@ input {
   border-radius: var(--radius);
   border: none;
   box-shadow: var(--shadow);
+  font-size: clamp(1rem, 1vw + 1rem, 1.125rem);
 }
 
 input::-webkit-input-placeholder {

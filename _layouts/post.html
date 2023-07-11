@@ -6,11 +6,11 @@ layout: default
     {% include breadcrumbs.html %}
     <div class="post-data">
       <span>
-        {{page.date | date: "%m-%d-%Y"}} ✓ 
+        {{page.date | date: "%m-%d-%Y"}} /
       </span>
       {% if page.autor %}
       <span>
-        Autor: {{page.autor}} ✓ 
+        Autor: {{page.autor}}
       </span>
       {% endif %}
       <span>
@@ -18,7 +18,7 @@ layout: default
         {{ content | number_of_words | minus: 180 }}
         {% endcapture %}
         {% unless words contains '-' %}
-        {{ words | plus: 150 | divided_by: 150 | append: ' minutos de lectura' }} ✓ 
+        {{ words | plus: 150 | divided_by: 150 | append: ' minutos de lectura' }}
         {% endunless %}
       </span>
     </div>
