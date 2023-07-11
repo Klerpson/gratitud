@@ -87,7 +87,7 @@
 
 #follow-buttons>div svg {
   height: 20px;
-  fill: #bbb;
+  fill: var(--gris1);
   margin-top: 10px;
 }
 
