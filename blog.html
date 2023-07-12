@@ -15,10 +15,6 @@ permalink: /reflexiones
     </div>
       <img src="{{site.baseurl}}/img/{{page.webp}}" alt="{{page.alt}}" title="{{page.title}}">
   </header>
-  
-  
-
-
   <main class="blog-gallery wrapper">
     <h2>¿Vamos al grano con esta opciones?</h2>
     <div class="blog-tags">
@@ -27,7 +23,6 @@ permalink: /reflexiones
       <button data-name="{{ tag[0] }}">{{ tag[0] | capitalize }}</button>
       {% endfor %}
     </div>
-    <hr>
   <section class="posts">
     {% for tag in site.tags %}
     <div class="post" data-name="{{ tag[0] }}">
