@@ -1,27 +1,16 @@
 :root {
   /*** COLORES ***/
-  --principal: #e9d924;
+  --principal: #231651;
   --accion: #DA4ABA;
-  --secundario: #35e0ff;
-  --blanco: #f2f2f8;
+  --secundario: #4DCCBD;
+  --complemento1: #2374AB;
+  --complemento2: #D6FFF6;
+  --blanco: #fefefe;
   --gris: #3d3834;
   --grisFuentes: hsl(0, 0%, 12%);
   --gris1: #bfbfbf;
   --gris2: #8c8c8c;
   --gris3: #595959;
-
-  --color1: #e9d924;
-  --color2: #DA4ABA;
-  --color3: #35e0ff;
-  --color4: #3be7a5;
-  --color5: #ff5f4a;
-  --color6: #c56dff;
-  --color7: #dad173;
-  --color8: #35ff50;
-  --color9: #9bbeff;
-  --color10: #e92497;
-  --color11: #DA4ABA;
-  --color12: #afff65;
 
   /*** FUENTES ***/
   --fuenteTitulos: "Marck Script", cursive;
@@ -77,6 +66,7 @@ h3,
 h4 {
   line-height: 1.1;
   font-weight: 900;
+  max-width: 100%;
 }
 
 h1 {
@@ -111,7 +101,7 @@ a {
 }
 
 a:hover:not(.boton) {
-  transform: scale(1.05);
+  transform: scale(1.04) rotate(-.8deg);
 }
 
 img {
@@ -237,50 +227,37 @@ table th {
 }
 
 hr {
-  overflow: visible;
-  /* For IE */
-  padding: 0;
-  border: none;
-  border-top: medium double #333;
-  color: #333;
-  text-align: center;
-}
-
-hr:after {
-  content: "§";
-  display: inline-block;
-  position: relative;
-  top: -0.7em;
-  font-size: 1.5em;
-  padding: 0 0.25em;
-  background: var(--blanco);
+  border: 0;
+  height: 0;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.3);
 }
 
 .wrapper{
   width: min((100% - 2rem), 1024px);
   margin-inline: auto;
-  padding: 6em 0;
+  padding: 6rem 0;
 }
 
-.flow > * + *{
+.flow > * + *:not(h1){
   margin-top: 1em;
 }
 
 .frases{
   display: flex;
-  gap: 1em 1.5em;
+  gap: 1em;
   flex-wrap: wrap;
   padding: 0;
 }
 
 .frases a{
-  font-size: 1.5rem;
+  font-size: 1.36rem;
 }
 
 .parallax{
   position: relative;
   background-image: url("/bg.png");
-  background-color: var(--secundario);
+  background-color: var(--complemento2);
   display: grid;
   place-content: center;
   padding-top: 8em;
@@ -308,10 +285,15 @@ hr:after {
 }
 
 .parallax li::marker{
-  color: white;
+  color: var(--principal);
   font-size: 2rem;
   font-weight: 900;
   font-family: var(--fuenteTitulos);
+}
+
+.cta h3{
+  width: min(100%, 540px);
+  text-align: center;
 }
 
   /* 

@@ -2,7 +2,6 @@
   position: relative;
   display: flex;
   align-items: center;
-  min-height: min-content;
   width: min(100%, 320px);
   border-radius: 8px;
 }
@@ -52,7 +51,6 @@
   border: 2px solid var(--principal);
   border-radius: 8px;
   box-shadow: var(--shadow);
-  padding: 8px 12px;
 }
 
 .slide-container a:active{
@@ -65,5 +63,5 @@
 
 .slide-container a p{
   margin: 0;
-  line-height: 1.6;
+  padding: 8px 12px;
 }

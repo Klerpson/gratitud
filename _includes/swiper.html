@@ -1,30 +1,8 @@
 <swiper-container class="mySwiper" pagination="true" pagination-clickable="true" navigation="true" space-between="32"
-    loop="true">
-    <swiper-slide>
-      <a href="#">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat libero totam atque, aliquam voluptates assumenda provident molestiae labore vero placeat delectus animi a qui!</a>
-    </swiper-slide>
-    <swiper-slide>
-      <a href="#">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat libero totam atque, aliquam voluptates assumenda provident molestiae labore vero placeat delectus animi a qui!</a>
-    </swiper-slide>
-    <swiper-slide>
-      <a href="#">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat libero totam atque, aliquam voluptates assumenda provident molestiae labore vero placeat delectus animi a qui!</a>
-    </swiper-slide>
-    <swiper-slide>
-      <a href="#">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat libero totam atque, aliquam voluptates assumenda provident molestiae labore vero placeat delectus animi a qui!</a>
-    </swiper-slide>
-    <swiper-slide>
-      <a href="#">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat libero totam atque, aliquam voluptates assumenda provident molestiae labore vero placeat delectus animi a qui!</a>
-    </swiper-slide>
-    <swiper-slide>
-      <a href="#">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat libero totam atque, aliquam voluptates assumenda provident molestiae labore vero placeat delectus animi a qui!</a>
-    </swiper-slide>
-    <swiper-slide>
-      <a href="#">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat libero totam atque, aliquam voluptates assumenda provident molestiae labore vero placeat delectus animi a qui!</a>
-    </swiper-slide>
-    <swiper-slide>
-      <a href="#">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat libero totam atque, aliquam voluptates assumenda provident molestiae labore vero placeat delectus animi a qui!</a>
-    </swiper-slide>
-    <swiper-slide>
-      <a href="#">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat libero totam atque, aliquam voluptates assumenda provident molestiae labore vero placeat delectus animi a qui!</a>
-    </swiper-slide>
-  </swiper-container>
+  loop="true">
+  {% for frase in site.data.frases %}
+  <swiper-slide>
+    <a href="{{frase.url}}" title="{{frase.title}}">{{frase.p}}</a>
+  </swiper-slide>
+  {% endfor %}
+</swiper-container>

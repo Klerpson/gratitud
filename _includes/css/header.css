@@ -1,4 +1,4 @@
-header{
+header {
   overflow: hidden;
   width: 100%;
   display: flex;
@@ -11,7 +11,7 @@ header{
   box-shadow: var(--shadow);
 }
 
-.title{
+.title {
   flex: 0 1 480px;
   width: min(100%, 480px);
   display: flex;
@@ -31,8 +31,8 @@ header{
 .card-inner {
   width: 100%;
   padding: 1em;
-  background: rgba(255,255,255,.05);
-  box-shadow: 0 0 10px rgba(0,0,0,0.25);
+  background: rgba(255, 255, 255, .05);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.25);
   backdrop-filter: blur(10px);
   border-radius: 8px;
   display: grid;
@@ -46,8 +46,8 @@ header{
 .circle {
   width: 100px;
   height: 100px;
-  background: rgb(233,217,36);
-  background: radial-gradient(circle, rgba(233,217,36,1) 47%, rgba(53,224,255,1) 72%, rgba(242,242,248,1) 83%);
+  background: rgb(233, 217, 36);
+  background: radial-gradient(circle, rgba(233, 217, 36, 1) 47%, rgba(53, 224, 255, 1) 72%, rgba(242, 242, 248, 1) 83%);
   border-radius: 50%;
   position: absolute;
   animation: move-up6 2s ease-in infinite alternate-reverse;
@@ -74,4 +74,15 @@ header{
   to {
     transform: translateY(10px);
   }
+}
+
+.hero{
+  width: min((100% - 2rem), 1024px);
+  margin-inline: auto;
+}
+
+header .hero img{
+  float: left;
+  vertical-align: middle;
+  margin-right: 1em;
 }

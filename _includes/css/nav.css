@@ -12,8 +12,19 @@ nav {
   max-height: 64px;
 }
 
-nav img {
+nav .logo{
+  display: flex;
+  gap: .5rem;
+  align-items: center;
+}
+
+nav .logo img {
   max-width: 180px;
+}
+
+nav .logo span{
+  font-family: var(--fuenteTitulos);
+  font-size: 1.2em;
 }
 
 nav ul {
@@ -84,16 +95,15 @@ nav .icono-nav .line {
 }
 
 nav .cursos_menu {
-  background-color: var(--principal);
-  color: var(--grisFuentes);
+  background-color: var(--secundario);
+  color: white;
   border-radius: var(--radius);
-  transition: all 0.2s ease-in;
-  border: 2px solid var(--grisFuentes);
+  transition: all 0.1s ease-in;
   padding: 6px 12px;
 }
 
 nav .cursos_menu:hover {
-  transform: scale(110%);
+  transform: scale(102%);
   box-shadow: var(--shadow);
   color: var(--blanco);
 }
@@ -105,6 +115,7 @@ nav ul li:last-child{
 nav .logo:hover,
 nav .logo:active {
   background-color: transparent;
+  color: var(--accion);
 }
 
 @media screen and (max-width: 992px) {
