@@ -15,6 +15,8 @@ excerpt: Encuentra la frase perfecta para agradecer a tus estudiantes. Reconoce 
 
 En el vasto universo de la educación, el **agradecimiento a los estudiantes** se erige como un acto de reconocimiento esencial. Es un gesto que va más allá de las palabras, es un sentimiento que se arraiga en el corazón de quien enseña y se refleja en la mirada de quien aprende.
 
+![{{page.alt}}]({{site.baseurl}}/img/{{page.webp}} "Gratitud estudiantes"){:width="320" height="320" loading="lazy"}
+
 ### ¿Por qué es Importante Agradecer a los Estudiantes?
 
 El agradecimiento a los estudiantes es una práctica que fortalece la relación entre maestro y alumno. No sólo se trata de reconocer el esfuerzo y la dedicación, sino también de valorar su presencia y su participación activa en el proceso de aprendizaje. Cuando un maestro agradece, está enviando un mensaje poderoso: "Tu presencia importa, tu esfuerzo es reconocido y tu aprendizaje es valioso".

@@ -1,6 +1,13 @@
 ---
 layout: default
 ---
-<main class="wrapper flow">
+<main class="wrapper flow vertical">
  {{ content }}
+ <div class="more">
+   <h3>Lleva más frases de agradecimiento contigo. Selecciona un tema</h3>
+   {% include slider.html %}
+ </div>
+
 </main>
+<!-- Slider /js -->
+<script src="/js/slider.js" defer></script>

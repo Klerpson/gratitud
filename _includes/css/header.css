@@ -79,10 +79,15 @@ header {
 .hero{
   width: min((100% - 2rem), 1024px);
   margin-inline: auto;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1em;
+  align-items: center;
+  justify-content: center;
 }
 
-header .hero img{
-  float: left;
-  vertical-align: middle;
-  margin-right: 1em;
+.hero p,
+.hero h1{
+  flex: 1 0 480px;
+  max-width: 100%;
 }

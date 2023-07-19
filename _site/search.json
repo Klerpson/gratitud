@@ -2,7 +2,7 @@
   
     {
       "title"    : "Lorem ipsum dolor sit, amet consectetur adipisicing.",
-      "category" : "apoyo",
+      "category" : "estudiantes",
       "url"      : "/ejemplo-7"
     } ,
   
@@ -62,6 +62,14 @@
   
    {
      
+        "title"    : "💌 Cartas de Agradecimiento: Cuándo y Cómo Enviarlas",
+        "category" : "",
+        "url"      : "/cartas-de-agradecimiento"
+     
+   } ,
+  
+   {
+     
         "title"    : "Resolvemos tus dudas sobre tus trabajos escritos",
         "category" : "",
         "url"      : "/contacto"
@@ -77,6 +85,14 @@
    } ,
   
    {
+     
+   } ,
+  
+   {
+     
+        "title"    : "🎓 Agradecimiento a Estudiantes: Inspira con Nuestras Frases",
+        "category" : "",
+        "url"      : "/frases-agradecimiento-dios"
      
    } ,
   

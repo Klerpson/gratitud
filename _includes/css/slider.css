@@ -48,7 +48,7 @@
   width: min-content;
   margin-left: 16px;
   text-decoration: none;
-  border: 2px solid var(--principal);
+  border: 2px solid var(--accion);
   border-radius: 8px;
   box-shadow: var(--shadow);
 }

@@ -98,17 +98,25 @@
   margin-top: 11px;
 }
 
+#markdown-toc {
+  padding: 0;
+}
+
 #markdown-toc a{
-  font-family: var(--fuenteTitulos);
+  font-weight: 400;
 }
 
 #markdown-toc a::before{
   content: "⇾";
-  margin-right: .5em;
+  margin-right: .24em;
+  font-weight: 700;
 }
 
-#markdown-toc li ul li{
-  margin-left: 2em;
+#markdown-toc li ul {
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0 1em;
 }
 
 /* Contenido de la página blog */
@@ -175,6 +183,8 @@
   padding-bottom: 1em;
 }
 
-.post-content{
-  margin-top: 0;
+.related{
+  width: min((100% - 2rem), 1024px);
+  margin-inline: auto;
+  padding: 0 0 2em;
 }
