@@ -39,6 +39,12 @@ header {
   gap: 1em;
 }
 
+.card-inner small{
+  font-size: 1rem;
+  color: var(--principal);
+  font-weight: bolder;
+}
+
 .card:hover {
   transform: scale(1.04) rotate(1deg);
 }

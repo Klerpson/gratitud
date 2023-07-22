@@ -1,5 +1,5 @@
 <aside class="related">
-
+<h3>Inspírate con más frases de gratitud</h3>
   {% assign maxRelated = 4 %}
   {% assign minCommonTags =  1 %}
   {% assign maxRelatedCounter = 0 %}
@@ -23,11 +23,9 @@
 
     {% if sameTagCount >= minCommonTags %}
 
-          <a href="{{ site.baseurl }}{{ post.url }}">
-              <div class="rel">
-                <img width="100%" src="{{site.baseurl}}/img/{{post.webp}}">
-                <h5>{{ post.title }}</h5>
-              </div>
+          <a href="{{ site.baseurl }}{{ post.url }}" class="flow">
+            <img src="{{site.baseurl}}/img/blog/{{post.img}}" alt="{{post.alt}}" loading="lazy">
+            <h5>{{ post.title }}</h5>
           </a>
 
       {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}

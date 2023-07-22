@@ -18,6 +18,18 @@
 }
 
 /* SHARE */
+
+.share{
+  background-color: var(--secundario);
+  padding: 1em;
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+}
+
+.share span{
+  color: var(--complemento2);
+}
+
 #share-buttons {
   display: inline-block;
   vertical-align: middle;
@@ -33,69 +45,26 @@
 #share-buttons>div {
   position: relative;
   text-align: left;
-  height: 36px;
-  width: 32px;
+  height: 40px;
+  width: 40px;
   float: left;
   text-align: center;
 }
 
 #share-buttons>div>svg {
-  height: 16px;
-  fill: #bebebe;
+  height: 20px;
+  fill: white;
   margin-top: 10px;
+  transition: all .3s cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+
+#share-buttons>div>svg:hover {
+  fill: var(--accion);
+  transform: scale(1.5);
 }
 
 #share-buttons>div:hover {
   cursor: pointer;
-}
-
-#share-buttons>div.facebook:hover>svg {
-  fill: #3B5998;
-}
-
-#share-buttons>div.twitter:hover>svg {
-  fill: #55ACEE;
-}
-
-#share-buttons>div.linkedin:hover>svg {
-  fill: #0077b5;
-}
-
-#share-buttons>div.pinterest:hover>svg {
-  fill: #CB2027;
-}
-
-#share-buttons>div.mail:hover>svg {
-  fill: #7D7D7D;
-}
-
-#share-buttons>div.instagram:hover>svg {
-  fill: #C73B92;
-}
-
-#share-buttons>div.facebook>svg {
-  height: 18px;
-  margin-top: 9px;
-}
-
-#share-buttons>div.twitter>svg {
-  height: 20px;
-  margin-top: 8px;
-}
-
-#share-buttons>div.linkedin>svg {
-  height: 19px;
-  margin-top: 7px;
-}
-
-#share-buttons>div.pinterest>svg {
-  height: 20px;
-  margin-top: 9px;
-}
-
-#share-buttons>div.mail>svg {
-  height: 14px;
-  margin-top: 11px;
 }
 
 #markdown-toc {
@@ -170,6 +139,10 @@
   margin: 1em 0;
   font-weight: bolder;
   font-family: var(--fuenteTitulos);
+  background-color: var(--complemento2);
+  padding: 8px 12px;
+  width: 100%;
+  border-radius: var(--radius);
 }
 
 .post .links{
@@ -187,4 +160,37 @@
   width: min((100% - 2rem), 1024px);
   margin-inline: auto;
   padding: 0 0 2em;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  gap: 1em;
+}
+
+.related a{
+  max-width: 100%;
+  width: min(100%, 440px);
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  border: 2px solid var(--complemento2);
+  border-radius: var(--radius);
+  text-decoration: none;
+  padding: 8px 12px;
+}
+
+.related a:hover{
+  box-shadow: var(--shadow);
+}
+
+.related a img{
+  display: inline-block;
+  max-width: 80px;
+  max-height: 80px;
+  aspect-ratio: 1 / 1;
+}
+
+.reflexion img{
+  float: right;
+  margin-left: 1em;
+  margin-bottom: 1em;
 }

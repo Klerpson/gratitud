@@ -2,7 +2,7 @@
 layout: default
 ---
 <main>
-  <article class="wrapper flow">
+  <article class="wrapper flow reflexion">
     {% include breadcrumbs.html %}
     <div class="post-data">
       <span>
@@ -23,7 +23,7 @@ layout: default
       </span>
     </div>
     {{ content }}
-    <div>
+    <div class="share">
       {% include share.html %}
     </div>
 
@@ -34,3 +34,5 @@ layout: default
 {% include cta.html %}
 {% include footer.html %}
 {% include follow-buttons.html %}
+
+<script src="/js/copy.js"></script>

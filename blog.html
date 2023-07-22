@@ -26,7 +26,7 @@ permalink: /reflexiones
   <section class="posts">
     {% for tag in site.tags %}
     <div class="post" data-name="{{ tag[0] }}">
-      <span>{{ tag[0] | capitalize }}</span>
+      <span>Frases para {{ tag[0] | capitalize }}</span>
       <div class="links">
         {% for post in tag[1] %}
         <article><a href="{{ post.url }}"><h4>{{ post.title }}</h4></a></article>
