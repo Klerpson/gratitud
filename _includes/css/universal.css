@@ -154,8 +154,8 @@ input:active {
   border: none;
 }
 
-li {
-  list-style: none;
+ul li {
+  list-style: disc;
 }
 
 ol li{
@@ -247,10 +247,23 @@ table th {
 }
 
 hr {
-  border: 0;
-  height: 0;
-  border-top: 1px solid rgba(0, 0, 0, 0.1);
-  border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+  overflow: visible; 
+  height: 30px;
+  border-style: solid;
+  border-width: 1px 0 0 0;
+  border-radius: 20px;
+  border-color: var(--principal);
+}
+
+hr:before { 
+  display: block;
+  content: "";
+  height: 30px;
+  margin-top: -31px;
+  border-style: solid;
+  border-color: var(--principal);
+  border-width: 0 0 1px 0;
+  border-radius: 20px;
 }
 
 .wrapper{
