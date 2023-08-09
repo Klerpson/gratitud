@@ -1,8 +1,8 @@
 ---
 layout: verticales
-title: "🎓 Agradecimiento a Estudiantes: Inspira con Nuestras Frases"
-h1: "Frases de Agradecimiento para Alumnos: ¡Motiva e Inspira!"
-description: Ya tenemos tu información. La trataremos siguiendo nuestra política de privacidad. Te escribiremos prontamente.
+title: "Reconocimiento y Gratitud: Frases para Estudiantes"
+h1: "Frases de agradecimientos para alumnos: palabras que marcan la diferencia"
+description: Encuentra las frases perfectas para agradecer a tus estudiantes su dedicación y esfuerzo. ¡Haz que se sientan especiales!
 webp: estudiantes.webp
 jpg: estudiantes.jpg
 alt: Frases agradecimiento estudiantes

@@ -90,7 +90,15 @@
   
    {
      
-        "title"    : "🎓 Agradecimiento a Estudiantes: Inspira con Nuestras Frases",
+        "title"    : "Agradece a tus Amigos: Palabras que Tocan el Corazón",
+        "category" : "",
+        "url"      : "/frases-agradecimiento-amigos"
+     
+   } ,
+  
+   {
+     
+        "title"    : "Agradecimiento a Dios: frases para el corazón y el espíritu",
         "category" : "",
         "url"      : "/frases-agradecimiento-dios"
      
@@ -98,7 +106,7 @@
   
    {
      
-        "title"    : "🎓 Agradecimiento a Estudiantes: Inspira con Nuestras Frases",
+        "title"    : "Reconocimiento y Gratitud: Frases para Estudiantes",
         "category" : "",
         "url"      : "/frases-agradecimiento-estudiantes"
      

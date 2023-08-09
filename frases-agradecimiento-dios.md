@@ -1,12 +1,12 @@
 ---
 layout: verticales
-title: "🎓 Agradecimiento a Estudiantes: Inspira con Nuestras Frases"
-h1: "Frases de Agradecimiento para Alumnos: ¡Motiva e Inspira!"
-description: Ya tenemos tu información. La trataremos siguiendo nuestra política de privacidad. Te escribiremos prontamente.
-webp: estudiantes.webp
-jpg: estudiantes.jpg
+title: "Agradecimiento a Dios: frases para el corazón y el espíritu"
+h1: "Reconoce sus bendiciones: frases de agradecimiento y devoción a Dios"
+description: Encuentra las frases más inspiradoras para agradecer a Dios. ¡Reflexiona y fortalece tu espíritu! Haz clic aquí.
+webp: gratitud-a-dios.webp
+jpg: gratitud-a-dios.jpg
 alt: Frases agradecimiento estudiantes
-boton: Mira las frases aquí
+boton: Mira frases aquí
 boton_url: "frases"
 vertical: true
 excerpt: Encuentra la frase perfecta para agradecer a tus estudiantes. Reconoce su esfuerzo y dedicación.
@@ -18,6 +18,8 @@ Bienvenido a este espacio de reflexión y gratitud hacia Dios. Aquí encontrará
 En nuestra vida cotidiana, **a veces olvidamos dar gracias por las bendiciones que recibimos, por la salud, la familia, la vida y la felicidad**.
 
 Esta sección te invita a hacer una pausa, a reflexionar y a agradecer. Te prometemos que al final de este recorrido, te sentirás más conectado con tu espiritualidad y tendrás a tu disposición un arsenal de frases y mensajes para expresar tu gratitud a Dios.
+
+![{{page.alt}}]({{site.baseurl}}/img/{{page.webp}} "Gratitud Dios"){:width="320" height="320" loading="lazy"}
 
 ## Las frases para expresar gratitud a Dios
 
@@ -59,6 +61,7 @@ Además, es importante recordar que las bendiciones no siempre son materiales. L
 Reconocer las bendiciones que nos envuelven, incluso en momentos de dificultad y angustia, es una poderosa demostración de gratitud.
 
 Es fácil enfocarse en lo que nos falta en la vida, pero es importante recordar valorar y agradecer lo que ya tenemos.
+{:id="frases"}
 
 ### Frases de agradecimiento por las bendiciones de Dios
 
