@@ -8,8 +8,8 @@ jpg: gratitud-amigos.jpg
 alt: Frases agradecimiento amigos
 boton: Mira las frases aquí
 boton_url: "frases"
-vertical: true
 excerpt: La gratitud es una herramienta poderosa que puede transformar tus amistades y llevarlas a un nivel más profundo.
+vertical: true
 ---
 La amistad es un tesoro invaluable que todos tenemos el privilegio de disfrutar. Pero, ¿alguna vez te has detenido a pensar en cómo puedes fortalecer y enriquecer esas relaciones?
 
@@ -17,7 +17,7 @@ En esta sección, te ofrecemos una **colección completa de frases, imágenes, y
 
 ## La Importancia del agradecimiento en la amistad
 
-![{{page.alt}}]({{site.baseurl}}/img/{{page.webp}} "Gratitud amigos"){:width="320" height="320" loading="lazy"}
+![{{page.alt}}]({{site.baseurl}}/img/{{page.webp}} "Palabras de agradecimiento amigos"){:width="320" height="320" loading="lazy"}
 
 ### ¿Por qué agradecer fortalece los lazos?
 
@@ -27,7 +27,10 @@ Esta es la mejor manera de crear un vínculo más fuerte y una conexión más pr
 
 ### Beneficios Emocionales del Agradecimiento
 
-La gratitud tiene un impacto positivo en nuestras emociones. Nos hace sentir más felices, más conectados y más satisfechos con nuestras vidas. Además, el agradecimiento puede reducir el estrés y aumentar la empatía hacia los demás. En la amistad, esto se traduce en una relación más saludable y armoniosa.
+La gratitud tiene un impacto positivo en nuestras emociones. Nos hace sentir más felices, más conectados y más satisfechos con nuestras vidas.
+
+El agradecimiento puede reducir el estrés y aumentar la empatía hacia los demás. En la amistad, esto se traduce en una relación más saludable y armoniosa.
+{:id="frases"}
 
 ## Frases de Agradecimiento para Amigos
 
@@ -107,9 +110,7 @@ La gratitud en la amistad no es solo acerca de decir "gracias". Es una actitud y
 
 ## Videos y Multimedia para Expresar Agradecimiento
 
-### Videos con Mens
-
-ajes de Agradecimiento
+### Videos con Mensajes de Agradecimiento
 
 Los videos son una forma dinámica y emocional de expresar gratitud. Puedes encontrar videos con mensajes de agradecimiento en plataformas como YouTube y compartirlos con tus amigos.
 
