@@ -330,6 +330,7 @@ hr:before {
   display: grid;
   place-content: center;
   padding: 4em;
+  color: white;
 }
 
 .vertical img{
