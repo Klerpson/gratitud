@@ -95,7 +95,7 @@ nav .icono-nav .line {
 }
 
 nav .cursos_menu {
-  background-color: var(--secundario);
+  background-color: var(--principal);
   color: white;
   border-radius: var(--radius);
   transition: all 0.1s ease-in;

@@ -1,14 +1,15 @@
 ---
 layout: verticales
+vertical: true
+boton_url: "enlace"
 title: "💌 Cartas de Agradecimiento: Cuándo y Cómo Enviarlas"
-h1: "Cartas de agradecimiento: un arte que fortalece relaciones"
 description: "¿Necesitas ayuda para escribir una carta de agradecimiento? Tenemos los consejos y ejemplos que necesitas. ¡Haz clic aquí para aprender más!"
+h1: "Cartas de agradecimiento: un arte que fortalece relaciones"
 webp: cartas-agradecimiento.webp
 jpg: cartas-agradecimiento.jpg
 alt: Dibujo de una carta de agradecimiento
 boton: Mira algunos modelos
-boton_url: "cartas"
-vertical: true
+permalink: cartas-de-agradecimiento
 excerpt: "En la era digital de hoy, la gratitud ha tomado un lugar central en nuestras interacciones. ¿Y qué mejor manera de **expresar tu agradecimiento que a través de una carta de agradecimiento** bien redactada?"
 ---
 **Atajos:**

@@ -3,8 +3,9 @@
 backend:
   name: git-gateway
   branch: main # Branch to update (optional; defaults to master)
-media_folder: '/img/blog'
-public_folder: 'blog/'
+publish_mode: editorial_workflow
+media_folder: 'blog'
+public_folder: 'blog'
 collections:
   - name: 'blog'
     label: 'Blog'
@@ -15,13 +16,38 @@ collections:
       preview: false
     fields:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Description', name: 'description', widget: 'string' }
-      - { label: 'Categoría', name: 'category', widget: 'string', default: 'Blog' }
-      - { label: 'Etiquetas', name: 'tags', widget: 'string' }
+      - { label: 'J-son', name: 'json-post', widget: 'hidden', default: 'true' }
+      - { label: 'Fecha', name: 'date', widget: 'datetime' }
+      - { label: 'Meta Title', name: 'title', widget: 'string' }
+      - { label: 'Meta Description', name: 'description', widget: 'string' }
+      - { label: 'Autor', name: 'autor', widget: 'string' }
       - { label: 'H1', name: 'h1', widget: 'string' }
-      - { label: 'Imagen', name: 'webp', widget: 'image' }
-      - { label: 'Descripción', name: 'alt', widget: 'string' }
+      - { label: 'JPGx600', name: 'jpg', widget: 'image' }
+      - { label: 'Mediumx600', name: 'webpm', widget: 'image' }
+      - { label: 'Smallx376', name: 'webps', widget: 'image' }
+      - { label: 'Alt', name: 'alt', widget: 'string' }
+      - { label: 'URL', name: 'permalink', widget: 'string' }
+      - { label: 'Intro', name: 'excerpt', widget: 'string' }
+      - { label: 'Content', name: 'body', widget: 'markdown' }
+  - name: 'verticales'
+    label: 'Verticales'
+    folder: '/'
+    create: true
+    slug: '{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'verticales' }
+      - { label: 'Vertical', name: 'vertical', widget: 'hidden', default: 'true' }
+      - { label: 'Enlace', name: 'boton_url', widget: 'hidden', default: 'enlace' }
+      - { label: 'Fecha', name: 'date', widget: 'datetime' }
+      - { label: 'Meta Title', name: 'title', widget: 'string' }
+      - { label: 'Meta Description', name: 'description', widget: 'string' }
+      - { label: 'H1', name: 'h1', widget: 'string' }
+      - { label: 'jpg320x320', name: 'jpg', widget: 'image' }
+      - { label: 'webp320x320', name: 'webp', widget: 'image' }
+      - { label: 'Descripción imagen con KW', name: 'alt', widget: 'string' }
+      - { label: 'CTA botón', name: 'boton', widget: 'string' }
       - { label: 'Introducción', name: 'excerpt', widget: 'string' }
-      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - { label: 'Contenido', name: 'body', widget: 'markdown' }
+      - { label: 'URL', name: 'permalink', widget: 'string' }
+      - { label: 'Content', name: 'body', widget: 'markdown' }

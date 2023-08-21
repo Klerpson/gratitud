@@ -1,10 +1,10 @@
 :root {
   /*** COLORES ***/
-  --principal: #231651;
-  --accion: #DA4ABA;
-  --secundario: #4DCCBD;
-  --complemento1: #2374AB;
-  --complemento2: #D6FFF6;
+  --principal: #783F8E;
+  --accion: #4F1271;
+  --secundario: #FFE381;
+  --complemento1: #783F8E;
+  --complemento2: #783F8E;
   --blanco: #fefefe;
   --gris: #3d3834;
   --grisFuentes: hsl(0, 0%, 12%);
@@ -22,17 +22,6 @@
   /* SOMBRA */
   --shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1),
     0 10px 10px -5px rgba(0, 0, 0, 0.04);
-}
-
-@media (prefers-color-scheme: dark){
-  :root{
-    --principal: #e9d924;
-    --accion: #DA4ABA;
-    --secundario: #35e0ff;
-    --blanco: #1F1F1F;
-    --gris: #3d3834;
-    --grisFuentes: #f2f2f8;
-  }
 }
 
 *,
@@ -67,7 +56,6 @@ h4 {
   line-height: 1.1;
   font-weight: 900;
   max-width: 100%;
-  color: var(--principal);
 }
 
 h1 {
@@ -98,7 +86,7 @@ a {
   text-decoration-thickness: 2.6px;
   font-weight: 900;
   transition: all .1s ease-out;
-  color: var(--accion);
+  color: var(--principal);
 }
 
 a:hover:not(.boton) {
@@ -287,6 +275,10 @@ hr:before {
   font-size: 1.36rem;
 }
 
+.frases li{
+  list-style: none;
+}
+
 .parallax{
   position: relative;
   background-image: url("/bg.png");
@@ -295,6 +287,7 @@ hr:before {
   place-content: center;
   padding-top: 8em;
   padding-bottom: 4em;
+  color: white;
 }
 
 .parallax div:first-child{
@@ -318,7 +311,7 @@ hr:before {
 }
 
 .parallax li::marker{
-  color: var(--principal);
+  color: var(--secundario);
   font-size: 2rem;
   font-weight: 900;
   font-family: var(--fuenteTitulos);
