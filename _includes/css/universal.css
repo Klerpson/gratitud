@@ -161,12 +161,13 @@ blockquote {
   border-left: var(--complemento1);
   border-left-width: 1em;
   border-left-style: double;
+  padding: 1em 2em;
 }
 
 blockquote p{
   font-weight: bolder;
   font-family: var(--fuenteTitulos);
-  font-size: 2em;
+  font-size: 1.6em;
   line-height: 1;
 }
 
