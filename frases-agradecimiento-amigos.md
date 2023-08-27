@@ -30,7 +30,6 @@ Esta es la mejor manera de crear un vínculo más fuerte y una conexión más pr
 La gratitud tiene un impacto positivo en nuestras emociones. Nos hace sentir más felices, más conectados y más satisfechos con nuestras vidas.
 
 El agradecimiento puede reducir el estrés y aumentar la empatía hacia los demás. En la amistad, esto se traduce en una relación más saludable y armoniosa.
-{:id="frases"}
 
 ## Frases de Agradecimiento para Amigos
 
@@ -67,6 +66,7 @@ Las imágenes con mensajes de agradecimiento son una forma creativa y visual de 
 ### Imágenes de Agradecimiento para Redes Sociales
 
 Compartir imágenes de agradecimiento en redes sociales como Facebook o Instagram es una forma pública de reconocer y agradecer a tus amigos. Puedes etiquetarlos o simplemente compartir la imagen en tu perfil para que todos vean cuánto valoras sus amistades.
+{:id="frases"}
 
 ## Mensajes de Agradecimiento para Amigos
 
