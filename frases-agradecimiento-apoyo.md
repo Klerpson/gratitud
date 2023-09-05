@@ -18,6 +18,7 @@ vertical: true
 El agradecimiento es una de las emociones más poderosas que podemos experimentar. No solo nos hace sentir bien, sino que también tiene un impacto positivo en quienes nos rodean.
 
 Pero, ¿cómo podemos expresar agradecimiento de manera efectiva, especialmente cuando se trata de apoyo? En este artículo, exploraremos diversas **frases de agradecimiento por apoyo** que puedes usar en diferentes contextos para fortalecer tus relaciones.
+{:id="frases"}
 
 ## Frases de agradecimiento por apoyo familiar
 
@@ -103,4 +104,3 @@ Si aún no has incorporado el agradecimiento en tu vida diaria, este es el momen
 Utiliza estas frases de agradecimiento por apoyo para mostrar tu aprecio y verás cómo se transforman tus relaciones y tu bienestar emocional.
 
 ¿Y si utilizas más frases de agradecimiento? Sigue navegando en [diariogratitud.com](/) para obtener muchas más.
-

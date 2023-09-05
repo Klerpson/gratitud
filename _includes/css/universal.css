@@ -339,6 +339,7 @@ hr:before {
   filter: drop-shadow(2px 2px 8px #22222250);
   width: min(100%, 320px);
   float: right;
+  margin: 1.5em 0 2em 1.5em;
 }
 
 .more{

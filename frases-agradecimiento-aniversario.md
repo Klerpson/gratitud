@@ -69,6 +69,7 @@ Si estás celebrando el aniversario de tu colegio o de alguna institución que h
 ## Frases y Palabras para Agradecer en Cualquier Aniversario
 
 >Si las frases no son lo tuyo, a veces una sola palabra puede transmitir un mundo de emociones: "Gracias", "Amor", "Juntos".
+{:id="frases"}
 
 ### Frases con palabras cortas pero significativas
 
