@@ -101,8 +101,6 @@ Ese compañero realmente notará que tu interés personal va más allá de los i
 
 ## Mensajes de agradecimiento para reconocer el esfuerzo y la dedicación de tus compañeros
 
-### Frases de agradecimiento para reuniones de equipo
-
 - **"Tu dedicación es lo que hace que este equipo sea excelente"**
 - **"Gracias por convertir los desafíos en oportunidades"**
 
