@@ -334,7 +334,7 @@ hr:before {
   color: white;
 }
 
-.vertical img{
+.vertical img:not(span img){
   -webkit-filter: drop-shadow(2px 2px 8px #22222250);
   filter: drop-shadow(2px 2px 8px #22222250);
   width: min(100%, 320px);
@@ -357,7 +357,7 @@ hr:before {
 }
 
 .more .gallery-slider{
-  width: min(100%, 440px);
+  width: min(100%, 620px);
 }
 
   /* 

@@ -94,7 +94,7 @@ Ese compañero realmente notará que tu interés personal va más allá de los i
 
 ## Citas inspiradoras para fomentar la gratitud en el trabajo
 
-### Citas que Incluyen Palabras de agradecimiento para colegas
+### Citas que incluyen palabras de agradecimiento para colegas
 
 - "La gratitud no solo es la más grande de las virtudes, sino la madre de todas las demás." - Cicerón
 - "Nada es más honorable que un corazón agradecido." - Séneca

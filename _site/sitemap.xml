@@ -49,6 +49,14 @@
   
   
       <url>
+        <loc>http://localhost:4000/frases-agradecimiento-aniversario%20copy</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+      <url>
         <loc>http://localhost:4000/frases-agradecimiento-aniversario</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
