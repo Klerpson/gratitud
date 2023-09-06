@@ -1,32 +1,53 @@
 ---
-layout: post
-title: Resolvemos tus dudas sobre tus trabajos escritos
-h1: Resolvemos tus dudas sobre tus trabajos escritos
+layout: verticales
+title: 🎀 Transforma Tu Vida con el Poder de la Gratitud
+h1: Transforma Tu vida con el poder de la gratitud
 description: En TrabajosEscritos.com estamos aquí para responder todas tus preguntas y brindarte el apoyo que necesitas para realizar tus trabajos escritos con éxito.
-noindex: true
+boton: ¡Comienza Ahora!
+boton_url: "frases"
+excerpt: "¿Listo para un cambio radical? Descubre cómo la gratitud puede ser tu superpoder."
 ---
-En TrabajosEscritos.com estamos aquí para responder todas tus preguntas y brindarte el apoyo que necesitas para realizar tus trabajos escritos con éxito. Ya seas estudiante o profesional, entendemos la importancia de conocer y aplicar las normas adecuadas en diferentes tipos de trabajos escritos en todo el mundo. ¡Estamos aquí para ayudarte en ese proceso!
+## Te invitamos a apoyar nuestra misión
 
-Si tienes alguna consulta, comentario o sugerencia, no dudes en ponerte en contacto con nosotros. Nuestro equipo de expertos en redacción y normas académicas estará encantado de asistirte y brindarte la orientación que necesitas.
+### "Tu Pequeño Acto, Un Gran Cambio"
 
-¿Necesitas ayuda para comprender **cómo aplicar las normas APA, MLA, Harvard o cualquier otro estilo de citación**? ¿Quieres saber **cómo estructurar tu tesis, ensayo, informe o artículo de manera adecuada**? ¿Deseas recibir consejos y recomendaciones para mejorar tus habilidades de escritura académica?
+Imagina a **Sara**, una mujer que ha pasado por momentos difíciles en su vida. Un día, **descubre DiarioGratitud.com y comienza a leer sobre el poder de la gratitud**. Al principio, es escéptica, pero decide probarlo.
 
-No importa cuál sea tu pregunta o inquietud, estamos aquí para ayudarte en cada paso del camino. Nuestro objetivo es proporcionarte información clara, precisa y confiable para que puedas crear trabajos escritos de alta calidad y cumplir con los estándares académicos.
+Empieza a practicar la gratitud diariamente, y poco a poco, nota un cambio. *Se siente más feliz, más en paz y más conectada con los demás*. Sara se convierte en una persona transformada, todo gracias a la gratitud.
 
-Puedes comunicarte con nosotros a través de cualquiera de los siguientes medios:
+Ahora, imagina que hay miles de 'Saras' ahí fuera, esperando descubrir este poder transformador. Pero **no podemos llegar a ellas sin tu ayuda**.
 
-Formulario de contacto: Completa nuestro formulario en línea y asegúrate de incluir todos los detalles relevantes. Nos comprometemos a responder a tu consulta en el menor tiempo posible.
+Tu donación no es solo un acto de generosidad; es una inversión en la felicidad y el bienestar de personas como Sara. **Con tu apoyo, podemos seguir creando contenido que transforma vidas y expandir nuestro alcance** para tocar más corazones.
+{:id="frases"}
+
+[🌟 "Haz un Cambio, Dona Ahora" 🌟](https://www.buymeacoffee.com/julifranco){:class="boton boton_2" rel="nofollow noopener noreferrer" target="_blank"}
+
+>A ti te expresamos nuestra gratitud. **Por tí podemos seguir ayudando** a muchos con el contenido de nuestro blog
+
+### Cursos de Gratitud
+
+#### Desde principiantes hasta expertos, tenemos el curso perfecto para ti
+
+1. [Libro ESTIMULA TU GRATITUD](https://go.hotmart.com/J86509288K){:rel="nofollow noopener sponsored" target="_blank"}
+2. [Mini curso EL PODER DE LA GRATITUD](https://go.hotmart.com/E86509322U){:rel="nofollow noopener sponsored" target="_blank"}
+3. [Curso intermedio El PODER DE LA GRATITUD](https://go.hotmart.com/E86509352B){:rel="nofollow noopener sponsored" target="_blank"}
+
+----
+
+## Nuestro recomendado premium 🥇
+
+Experimenta un **cambio transformador** en tu vida con este **Diario de 90 días de Agradecimiento y Visualización**. Practica la gratitud diaria, visualiza tus sueños con claridad y eleva tu vibración para atraer lo que deseas. ¡Comienza tu viaje de transformación ahora!
+
+[🌟 Consíguelo hoy 🌟](https://go.hotmart.com/W86509368E){:class="boton boton_2" rel="nofollow noopener sponsored" target="_blank"}
+
+----
+
+### ¿Qué más podemos hacer por ti?
+
+Escríbenos para sugerirnos cómo podemos seguir aportándote más valor. Además, puedes dejarnos tus inquietudes también.
 
 {% include formulario.html %}
 
-Correo electrónico: Envíanos un correo electrónico a [info@trabajosescritos.com](mailto:digitalizaresfacil@gmail.com). Nuestro equipo revisará tu mensaje y te responderá lo antes posible.
-
-Además, te invitamos a explorar nuestra sección de Preguntas Frecuentes, donde encontrarás respuestas a las consultas más comunes sobre trabajos escritos y normas académicas. También te recomendamos suscribirte a nuestro boletín informativo para recibir consejos y recursos útiles directamente en tu bandeja de entrada.
-
-En TrabajosEscritos.com nos enorgullece ser tu recurso confiable en el mundo de los trabajos escritos. Nos esforzamos por proporcionarte la información precisa y actualizada que necesitas para alcanzar tus metas académicas y profesionales. ¡Estamos ansiosos por ayudarte y ser parte de tu éxito!
-
-¡No esperes más! Ponte en contacto con nosotros hoy mismo y déjanos ser tu guía en el apasionante mundo de los trabajos escritos y las normas académicas.
-
 ¡Esperamos escuchar de ti pronto!
 
-El equipo de TrabajosEscritos.com
+El equipo de diariogratitud.com

@@ -20,10 +20,16 @@
   
   
   
+      <url>
+        <loc>http://localhost:4000/contacto</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
   
   
       <url>
-        <loc>http://localhost:4000/cursos-de-trabajos-escritos</loc>
+        <loc>http://localhost:4000/diarios</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>
@@ -82,6 +88,14 @@
   
       <url>
         <loc>http://localhost:4000/frases-agradecimiento-condolencias</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+      <url>
+        <loc>http://localhost:4000/frases-agradecimiento-despedida</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>

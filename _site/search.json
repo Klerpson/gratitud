@@ -70,7 +70,7 @@
   
    {
      
-        "title"    : "Resolvemos tus dudas sobre tus trabajos escritos",
+        "title"    : "🎀 Transforma Tu Vida con el Poder de la Gratitud",
         "category" : "",
         "url"      : "/contacto"
      
@@ -80,7 +80,7 @@
      
         "title"    : "Cursos de normas APA, Icontec y otras más",
         "category" : "",
-        "url"      : "/cursos-de-trabajos-escritos"
+        "url"      : "/diarios"
      
    } ,
   
@@ -141,6 +141,14 @@
         "title"    : "Frases y Plantillas para Agradecer las Condolencias",
         "category" : "",
         "url"      : "/frases-agradecimiento-condolencias"
+     
+   } ,
+  
+   {
+     
+        "title"    : "Cómo Agradecer en Despedidas: Frases que Dejan Huella",
+        "category" : "",
+        "url"      : "/frases-agradecimiento-despedida"
      
    } ,
   
