@@ -17,10 +17,10 @@ Empieza a practicar la gratitud diariamente, y poco a poco, nota un cambio. *Se 
 
 Ahora, imagina que hay miles de 'Saras' ahí fuera, esperando descubrir este poder transformador. Pero **no podemos llegar a ellas sin tu ayuda**.
 
-Tu donación no es solo un acto de generosidad; es una inversión en la felicidad y el bienestar de personas como Sara. **Con tu apoyo, podemos seguir creando contenido que transforma vidas y expandir nuestro alcance** para tocar más corazones.
+Suscribirte a nuestra newsletter no es solo un acto de generosidad; es una inversión en la felicidad y el bienestar de personas como Sara. **Con tu apoyo, podemos seguir creando contenido que transforma vidas y expandir nuestro alcance** para tocar más corazones.
 {:id="frases"}
 
-[🌟 "Haz un Cambio, Dona Ahora" 🌟](https://www.buymeacoffee.com/julifranco){:class="boton boton_2" rel="nofollow noopener noreferrer" target="_blank"}
+{% include suscripcion.html %}
 
 >A ti te expresamos nuestra gratitud. **Por tí podemos seguir ayudando** a muchos con el contenido de nuestro blog
 
@@ -28,9 +28,9 @@ Tu donación no es solo un acto de generosidad; es una inversión en la felicida
 
 #### Desde principiantes hasta expertos, tenemos el curso perfecto para ti
 
-1. [Libro ESTIMULA TU GRATITUD](https://go.hotmart.com/J86509288K){:rel="nofollow noopener sponsored" target="_blank"}
-2. [Mini curso EL PODER DE LA GRATITUD](https://go.hotmart.com/E86509322U){:rel="nofollow noopener sponsored" target="_blank"}
-3. [Curso intermedio El PODER DE LA GRATITUD](https://go.hotmart.com/E86509352B){:rel="nofollow noopener sponsored" target="_blank"}
+- 🎀 [Libro ESTIMULA TU GRATITUD](https://go.hotmart.com/J86509288K){:rel="nofollow noopener sponsored" target="_blank"}
+- 🎀 [Mini curso EL PODER DE LA GRATITUD](https://go.hotmart.com/E86509322U){:rel="nofollow noopener sponsored" target="_blank"}
+- 🎀 [Curso intermedio El PODER DE LA GRATITUD](https://go.hotmart.com/E86509352B){:rel="nofollow noopener sponsored" target="_blank"}
 
 ----
 
