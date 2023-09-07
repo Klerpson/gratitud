@@ -70,14 +70,6 @@
   
    {
      
-        "title"    : "🎀 Transforma Tu Vida con el Poder de la Gratitud",
-        "category" : "",
-        "url"      : "/contacto"
-     
-   } ,
-  
-   {
-     
         "title"    : "Cursos de normas APA, Icontec y otras más",
         "category" : "",
         "url"      : "/diarios"
@@ -162,6 +154,14 @@
   
    {
      
+        "title"    : "Cómo Agradecer Donaciones y Fomentar Más Apoyo",
+        "category" : "",
+        "url"      : "/frases-agradecimiento-donaciones"
+     
+   } ,
+  
+   {
+     
         "title"    : "Reconocimiento y Gratitud: Frases para Estudiantes",
         "category" : "",
         "url"      : "/frases-agradecimiento-estudiantes"
@@ -197,6 +197,14 @@
         "title"    : "Términos y Codiciones de Uso | trabajoescrito.com",
         "category" : "",
         "url"      : "/legal"
+     
+   } ,
+  
+   {
+     
+        "title"    : "🎀 Transforma Tu Vida con el Poder de la Gratitud",
+        "category" : "",
+        "url"      : "/muchas-gracias-por-tu-apoyo"
      
    } ,
   
