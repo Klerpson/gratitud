@@ -335,6 +335,10 @@ hr:before {
   color: white;
 }
 
+.seccion a{
+  color: var(--secundario);
+}
+
 .vertical img:not(span img){
   -webkit-filter: drop-shadow(2px 2px 8px #22222250);
   filter: drop-shadow(2px 2px 8px #22222250);
