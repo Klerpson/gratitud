@@ -28,7 +28,7 @@ footer section{
   display: flex;
   gap: 2rem;
   flex-wrap: wrap;
-  align-items: flex-start;
+  align-items: flex-end;
 }
 
 footer div{

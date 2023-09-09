@@ -3,9 +3,7 @@ layout: default
 ---
 <main>
   <article class="wrapper flow reflexion">
-    {% if page.excerpt %}
     {{page.excerpt|markdownify}}
-    {% endif %}
     {{ content }}
     <div class="share">
       {% include share.html %}
