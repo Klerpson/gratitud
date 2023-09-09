@@ -6,7 +6,7 @@ description: Encuentra frases de agradecimiento que fortalecerán tu matrimonio.
 webp: agradecimiento-esposos.webp
 jpg: agradecimiento-esposos.jpg
 alt: Frases agradecimiento esposos
-boton: Mira las frases aquí
+boton: Ir a las frases directamente
 boton_url: "frases"
 vertical: true
 excerpt: ¿Buscas las palabras perfectas para agradecer a tu esposo o a tu esposa? Encuentra frases que van directo al corazón. Agradece a tu esposo con frases que valen su peso en oro. O a tu esposa con palabras que enamoran.

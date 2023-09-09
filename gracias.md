@@ -18,7 +18,7 @@ Cada mensaje, cada comentario, cada interacción es importante para nosotros. Tu
 
 Mientras procesamos tu mensaje, te invitamos a **seguir explorando nuestro blog**. Tenemos una gran cantidad de frases de gratitud que pueden iluminar tu día o el de alguien más.
 
-### Algunas publicaciones que podrían interesarte
+<!-- ### Algunas publicaciones que podrían interesarte
 
 * [10 frases de gratitud para comenzar el día](#)
 * [Cómo la gratitud puede transformar tu vida](#)
@@ -35,7 +35,7 @@ Si aún no lo has hecho, te invitamos a suscribirte a nuestro boletín para reci
 Recuerda que la gratitud se multiplica cuando se comparte. Si encuentras una frase o un artículo que te gusta, no dudes en compartirlo con tus seres queridos.
 
 > [Compartir en Facebook](#)  
-> [Compartir en Twitter](#)
+> [Compartir en Twitter](#) -->
 
 Una vez más, gracias por tu tiempo y por ser parte de nuestra comunidad. ¡Esperamos verte de nuevo pronto!
 

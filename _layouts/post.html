@@ -3,25 +3,9 @@ layout: default
 ---
 <main>
   <article class="wrapper flow reflexion">
-    {% include breadcrumbs.html %}
-    <div class="post-data">
-      <span>
-        {{page.date | date: "%m-%d-%Y"}} /
-      </span>
-      {% if page.autor %}
-      <span>
-        Autor: {{page.autor}}
-      </span>
-      {% endif %}
-      <span>
-        {% capture words %}
-        {{ content | number_of_words | minus: 180 }}
-        {% endcapture %}
-        {% unless words contains '-' %}
-        {{ words | plus: 150 | divided_by: 150 | append: ' minutos de lectura' }}
-        {% endunless %}
-      </span>
-    </div>
+    {% if page.excerpt %}
+    {{page.excerpt|markdownify}}
+    {% endif %}
     {{ content }}
     <div class="share">
       {% include share.html %}
@@ -34,5 +18,3 @@ layout: default
 {% include cta.html %}
 {% include footer.html %}
 {% include follow-buttons.html %}
-
-<script src="/js/copy.js"></script>

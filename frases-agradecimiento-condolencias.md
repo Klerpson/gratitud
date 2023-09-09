@@ -6,7 +6,7 @@ description: ¿Buscas la forma correcta de agradecer condolencias? Encuentra fra
 webp: agradecimiento-condolencias.webp
 jpg: agradecimiento-condolencias.jpg
 alt: Frases agradecimiento condolencias por fallecimiento
-boton: Mira las frases aquí
+boton: Ir directo a las frases
 boton_url: "frases"
 excerpt: Encuentra la mejor manera de agradecer su presencia y las condolencias recibidas en momentos difíciles. Descubre frases, plantillas y consejos.
 vertical: true

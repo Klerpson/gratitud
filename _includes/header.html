@@ -17,9 +17,6 @@
   {% else %}
   <div class="hero flow">
     <h1>{{page.h1}}</h1>
-    {% if page.excerpt %}
-    {{page.excerpt|markdownify}}
-    {% endif %}
     {% if page.boton" %}
     <a href="#{{page.boton_url}}" title="{{page.boton}}" class="boton boton_2">{{page.boton | capitalize}}</a>
     {% endif %}
