@@ -14,11 +14,11 @@ Queremos agradecerte por tomarte el tiempo de llenar nuestro formulario de conta
 
 Cada mensaje, cada comentario, cada interacción es importante para nosotros. Tu voz es esencial en esta comunidad que estamos construyendo juntos. Así que, ¡gracias por ser parte de ella!
 
-## ¿Qué sigue?
+## ¿Qué sigue en tu camino de gratitud?
 
 Mientras procesamos tu mensaje, te invitamos a **seguir explorando nuestro blog**. Tenemos una gran cantidad de frases de gratitud que pueden iluminar tu día o el de alguien más.
 
-### Algunas publicaciones que podrían interesarte:
+### Algunas publicaciones que podrían interesarte
 
 * [10 frases de gratitud para comenzar el día](#)
 * [Cómo la gratitud puede transformar tu vida](#)
@@ -39,7 +39,8 @@ Recuerda que la gratitud se multiplica cuando se comparte. Si encuentras una fra
 
 Una vez más, gracias por tu tiempo y por ser parte de nuestra comunidad. ¡Esperamos verte de nuevo pronto!
 
-Con gratitud,  
+Con gratitud,
+
 El equipo de ***diariogratitud.com***
 
 > "La gratitud no sólo es la más grande de las virtudes, sino la madre de todas las demás." - Cicerón

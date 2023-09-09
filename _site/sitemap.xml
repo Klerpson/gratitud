@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
-  
-  
-  
       <url>
         <loc>http://localhost:4000/reflexiones</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>
-  
-  
   
       <url>
         <loc>http://localhost:4000/cartas-de-agradecimiento</loc>
@@ -18,17 +13,11 @@
         <priority>1.0</priority>
        </url>
   
-  
-  
       <url>
         <loc>http://localhost:4000/diarios</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>
-  
-  
-  
-  
   
       <url>
         <loc>http://localhost:4000/frases-agradecimiento-amigos</loc>
@@ -36,15 +25,11 @@
         <priority>1.0</priority>
        </url>
   
-  
-  
       <url>
         <loc>http://localhost:4000/frases-agradecimiento-amor</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>
-  
-  
   
       <url>
         <loc>http://localhost:4000/frases-agradecimiento-aniversario</loc>
@@ -52,15 +37,11 @@
         <priority>1.0</priority>
        </url>
   
-  
-  
       <url>
         <loc>http://localhost:4000/frases-agradecimiento-apoyo</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>
-  
-  
   
       <url>
         <loc>http://localhost:4000/frases-agradecimiento-clientes</loc>
@@ -68,15 +49,11 @@
         <priority>1.0</priority>
        </url>
   
-  
-  
       <url>
         <loc>http://localhost:4000/frases-agradecimiento-companeros</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>
-  
-  
   
       <url>
         <loc>http://localhost:4000/frases-agradecimiento-condolencias</loc>
@@ -84,15 +61,11 @@
         <priority>1.0</priority>
        </url>
   
-  
-  
       <url>
         <loc>http://localhost:4000/frases-agradecimiento-despedida</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>
-  
-  
   
       <url>
         <loc>http://localhost:4000/frases-agradecimiento-dios</loc>
@@ -100,15 +73,11 @@
         <priority>1.0</priority>
        </url>
   
-  
-  
       <url>
         <loc>http://localhost:4000/frases-agradecimiento-donaciones</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>
-  
-  
   
       <url>
         <loc>http://localhost:4000/frases-agradecimiento-esposos</loc>
@@ -116,15 +85,11 @@
         <priority>1.0</priority>
        </url>
   
-  
-  
       <url>
         <loc>http://localhost:4000/frases-agradecimiento-estudiantes</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>
-  
-  
   
       <url>
         <loc>http://localhost:4000/frases-agradecimiento-eventos</loc>
@@ -132,15 +97,11 @@
         <priority>1.0</priority>
        </url>
   
-  
-  
       <url>
         <loc>http://localhost:4000/frases-agradecimiento-familia</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>
-  
-  
   
       <url>
         <loc>http://localhost:4000/frases-agradecimiento-versiculos</loc>
@@ -148,32 +109,17 @@
         <priority>1.0</priority>
        </url>
   
-  
-  
-  
-  
       <url>
         <loc>http://localhost:4000/</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>
   
-  
-  
-  
-  
       <url>
         <loc>http://localhost:4000/muchas-gracias-por-tu-apoyo</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>
-  
-  
-  
-  
-  
-  
-  
   
   
       <url>
