@@ -31,9 +31,9 @@ La gratitud tiene un impacto positivo en nuestras emociones. Nos hace sentir má
 
 El agradecimiento puede reducir el estrés y aumentar la empatía hacia los demás. En la amistad, esto se traduce en una relación más saludable y armoniosa.
 
-## Frases de Agradecimiento para Amigos
+## Frases de agradecimiento para amigos
 
-### Frases Cortas para Agradecer a un Amigo
+### Frases cortas para agradecer a un amigo
 
 1. **"[Tu amistad es un regalo que atesoro cada día.]({{'frases-agradecimiento-amigos/tu-amistad-es-un-regalo-que-atesoro-cada-dia'|relative_url}})"**
 2. **"[Gracias por estar siempre allí cuando te necesito.]({{'frases-agradecimiento-amigos/gracias-por-estar-cuando-te-necesito'|relative_url}})"**
@@ -41,7 +41,7 @@ El agradecimiento puede reducir el estrés y aumentar la empatía hacia los dem�
 
 Estas frases son perfectas para enviar un mensaje rápido pero significativo a tus amigos.
 
-### Frases de Agradecimiento para Amigos Especiales
+### Frases de agradecimiento para amigos especiales
 
 - **"Tu amistad ilumina mi vida, gracias por ser tan especial."**
 - **"En los momentos más oscuros, tu amistad es mi luz. Gracias."**
@@ -49,7 +49,7 @@ Estas frases son perfectas para enviar un mensaje rápido pero significativo a t
 
 Estas frases reflejan un nivel más profundo de conexión y son ideales para aquellos amigos que ocupan un lugar especial en tu corazón.
 
-### Frases de Agradecimiento a Dios por los Amigos
+### [Frases de agradecimiento a Dios]({{'frases-agradecimiento-dios'|relative_url}} "Gratitud Dios") por los amigos
 
 1. **"Dios me bendijo con tu amistad, y por eso le doy gracias cada día."**
 2. **"Gracias, Señor, por darme amigos que enriquecen mi vida."**
