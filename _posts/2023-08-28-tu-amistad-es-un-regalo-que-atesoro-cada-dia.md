@@ -4,6 +4,7 @@ title: "'Tu Amistad es un Regalo': Un Análisis para Practicar hoy"
 description: "Frase: 'Tu amistad es un regalo que atesoro cada día' ¿Quieres saber cómo una simple frase puede hacer que tus días sean más brillantes?"
 category: "amigos"
 h1: '"Tu amistad es un regalo que atesoro cada día"'
+jpg: tu-amistad-es-un-tesoro.jpg
 permalink: frases-agradecimiento-amigos/tu-amistad-es-un-regalo-que-atesoro-cada-dia
 ---
 ![La amistad es un tesoro]({{'img/blog/tu-amistad-es-un-tesoro.webp'|relative_url}}){:width="320" height="320" loading="lazy"}
