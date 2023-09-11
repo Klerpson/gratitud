@@ -35,9 +35,9 @@ El agradecimiento puede reducir el estrés y aumentar la empatía hacia los dem�
 
 ### Frases Cortas para Agradecer a un Amigo
 
-1. **"Tu amistad es un regalo que atesoro cada día."**
-2. **"Gracias por estar siempre allí cuando te necesito."**
-3. **"Tu apoyo incondicional significa el mundo para mí."**
+1. **"[Tu amistad es un regalo que atesoro cada día.]({{'frases-agradecimiento-amigos/tu-amistad-es-un-regalo-que-atesoro-cada-dia'|relative_url}})"**
+2. **"[Gracias por estar siempre allí cuando te necesito.]({{'frases-agradecimiento-amigos/gracias-por-estar-cuando-te-necesito'|relative_url}})"**
+3. **"[Tu apoyo incondicional significa el mundo para mí.]({{'frases-agradecimiento-amigos/tu-apoyo-incondicional-significa-el-mundo-para-mi'|relative_url}})"**
 
 Estas frases son perfectas para enviar un mensaje rápido pero significativo a tus amigos.
 

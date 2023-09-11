@@ -1,6 +1,6 @@
 ---
 layout: verticales
-title: "Agradece y Vive: Frases que Cambiarán Tu Perspectiva de la Vida"
+title: "Agradece y Vive: Frases que Cambiarán Tu perspectiva de Vida"
 h1: "Las frases de agradecimiento a la vida que cambiarán tu perspectiva"
 description: Frases que te inspirarán a agradecer cada día. ¡Haz clic y empieza a vivir con más gratitud ahora!
 webp: agradecimiento-vida.webp

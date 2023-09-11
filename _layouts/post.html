@@ -3,16 +3,23 @@ layout: default
 ---
 <main>
   <article class="wrapper flow reflexion">
-    {{page.excerpt|markdownify}}
-    {{ content }}
-    <div class="share">
+    <section class="share">
       {% include share.html %}
-    </div>
-
-    {% include comentarios.html %}
+    </section>
+    <section class="copiar">
+      <h2>Copia la frase y pégala en tu red favorita</h2>
+      <span id="mensaje">{{page.h1}}</span>
+      <a id="copiar" onclick="copiarUrl()" class="boton boton_2" >💌 Copiar</a>
+    </section>
+    {{ content }}
   </article>
   {% include related.html %}
+  {% include comentarios.html %}
 </main>
 {% include cta.html %}
 {% include footer.html %}
 {% include follow-buttons.html %}
+<script src="/js/copy.js" async></script>
+<script id="dsq-count-scr" src="//julidigital.disqus.com/count.js" async></script>
+
+<!-- Realiza 2 dibujos con estilo aesthetic en tonos pastel. Estos deben expresar el significado de la siguiente frase -->

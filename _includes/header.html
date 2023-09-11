@@ -2,18 +2,18 @@
 {% if page.url == "/" %}
   <div class="title flow">
     <h1>{{page.h1}}</h1>
-    {% include slider.html %}
   </div>
   <div class="card">
     <div class="circle"></div>
     <div class="circle"></div>
     <div class="card-inner">
       {% assign post1 = site.posts[0] %}
-      <small>{{post1.date|date: "%d-%m-%Y"}}</small>
-      {{ post1.excerpt | truncate: 320 | markdownify}}
+      <small>Frase del {{ "now" |date: "%d-%m"}}</small>
+      {{ post1.h1 | markdownify}}
       <a href="{{site.baseurl}}{{post1.url}}" title="{{page.boton_info_title}}">Analicemos su significado ⇾</a>
     </div>
   </div>
+  {% include slider.html %}
   {% else %}
   <div class="hero flow">
     <h1>{{page.h1}}</h1>

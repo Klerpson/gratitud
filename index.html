@@ -9,13 +9,13 @@ intro: "El agradecimiento es un arte, una danza delicada de palabras y emociones
 <section class="parallax">
   <div style="height: 150px; overflow: hidden; background-color: transparent;" ><svg viewBox="0 0 500 150" preserveAspectRatio="none" style="height: 100%; width: 100%;"><path d="M-48.24,-45.86 C113.15,193.92 217.55,-75.47 526.24,29.13 L504.79,-6.39 L-2.54,-9.36 Z" style="stroke: none; fill: #fdfdfd;"></path></svg></div>
   <div>
-    <h2>Inspírate y regala palabras de agradecimiento para ti o para alguien más</h2>
-    <p>Las palabras tienen el poder de mover montañas, de cambiar vidas. <strong>Las palabras de agradecimiento no son la excepción.</strong> Cuando decimos "gracias", estamos reconociendo el valor de alguien o algo en nuestras vidas.</p>
+    <h2>Regala frases de agradecimiento para ti o para alguien más</h2>
+    <p>Las palabras de gratitud tienen el poder de mover montañas, de cambiar vidas. Cuando decimos "gracias", estamos reconociendo el valor de alguien o algo en nuestras vidas.</p>
     <p>Esta página es un diario de gratitud real. Puedes <strong>entrar diariamente y encontrar frases de agradecimiento nuevas</strong> y compartirlas por tus redes favoritas.</p>
     <ol>
-      <li>Haz clic en el botón que acompaña cada frase de agradecimiento para copiarla</li>
-      <li>Abre tus estados o tus redes sociales favoritas, tu editor de imágenes, etc.</li>
-      <li>¡Pega la frase de gratitud que copiaste y comparte tu agradecimiento!</li>
+      <li><b>Haz clic en el botón "COPIAR" que acompaña cada frase de agradecimiento para copiarla</b></li>
+      <li><b>Abre tus estados o tus redes sociales favoritas, tu editor de imágenes, etc.</b></li>
+      <li><b>¡Pega la frase de agradeciemiento que copiaste y comparte tu agradecimiento!</b></li>
     </ol>
   </div>
 </section>
@@ -37,7 +37,7 @@ intro: "El agradecimiento es un arte, una danza delicada de palabras y emociones
   <ul class="frases">
     <li><a href="{{'frases-agradecimiento-familia'|relative_url}}" title="Agradecimiento familia">⇾ Para familiares</a></li>
     <!-- <li><a href="#" title="Lorem Ipsum">⇾ Para novios</a></li> -->
-    <li><a href="{{'frases-agradecimiento-dios'|relative_url}}" title="Agradecimiento amigos">⇾ Para amigos</a></li>
+    <li><a href="{{'frases-agradecimiento-amigos'|relative_url}}" title="Agradecimiento amigos">⇾ Para amigos</a></li>
     <li><a href="{{'frases-agradecimiento-esposos'|relative_url}}" title="Agradecimiento esposos">⇾ Para esposos</a></li>
     <!-- <li><a href="#" title="Lorem Ipsum">⇾ Para niños</a></li> -->
     <li><a href="{{'frases-agradecimiento-amor'|relative_url}}" title="Agradecimiento al amor">⇾ Por amor</a></li>
@@ -86,38 +86,26 @@ intro: "El agradecimiento es un arte, una danza delicada de palabras y emociones
   </div>
   <div class="entradas-blog flow">
     <h3>Lee nuestras últimas reflexiones y llena tu corazón de agradecimiento</h3>
-    {% assign post1 = site.posts[0] %}
-    <article class="flow">
-      <img loading="lazy" src="{{ site.baseurl }}/img/{{ post1.webp }}" alt="{{ post1.alt }}" loading="lazy">
-      <h4>{{ post1.h1 }}</h4>
-      {{ post1.excerpt | truncate: 80 | markdownify}}
-      <a href="{{site.baseurl}}{{ post1.url }}" title="{{post1.title}}">Leer más...</a>
+    {% for post in site.posts limit:7 %}
+      <article class="flow">
+      {% assign foundImage = 0 %}
+      {% assign images = post.content | split:"<img " %}
+      {% for image in images %}
+        {% if image contains 'src' %}
+            {% if foundImage == 0 %}
+                {% assign html = image | split:"/>" | first %}
+                <img {{ html }} loading="lazy"/>
+                {% assign foundImage = 1 %}
+            {% endif %}
+        {% endif %}
+      {% endfor %}
+      <a href="{{site.baseurl}}{{ post.url }}" title="{{post.title}}">
+        <h4>{{ post.h1 }}</h4>
+      </a>
     </article>
-    {% assign post2 = site.posts[1] %}
-    <article class="flow">
-      <img loading="lazy" src="{{ site.baseurl }}/img/{{ post2.webp }}" alt="{{ post2.alt }}" loading="lazy">
-      <h4>{{ post2.h1 }}</h4>
-      {{ post2.excerpt | truncate: 80 | markdownify}}
-      <a href="{{site.baseurl}}{{ post2.url }}" title="{{post2.title}}">Leer más...</a>
-    </article>
-    {% assign post3 = site.posts[2] %}
-    <article class="flow">
-      <img loading="lazy" src="{{ site.baseurl }}/img/{{ post3.webp }}" alt="{{ post3.alt }}" loading="lazy">
-      <h4>{{ post3.h1 }}</h4>
-      {{ post3.excerpt | truncate: 80 | markdownify}}
-      <a href="{{site.baseurl}}{{ post3.url }}" title="{{post3.title}}">Leer más...</a>
-    </article>
-    {% assign post4 = site.posts[3] %}
-    <article class="flow">
-      <img loading="lazy" src="{{ site.baseurl }}/img/{{ post4.webp }}" alt="{{ post4.alt }}" loading="lazy">
-      <h4>{{ post4.h1 }}</h4>
-      {{ post4.excerpt | truncate: 80 | markdownify}}
-      <a href="{{site.baseurl}}{{ post4.url }}" title="{{post4.title}}">Leer más...</a>
-    </article>
-    {% assign post5 = site.posts[4] %}
-    
+  {% endfor %}
   </div>
-  <a href="{{'reflexiones'|relative_url}}" class="boton boton_2" title="Blog de gratitud">Lee más frases de gratitud</a>
+  <a href="{{'reflexiones'|relative_url}}" class="boton boton_2" title="Blog de gratitud" style="margin-bottom: 2em;">Lee más frases de gratitud</a>
 </section>
 
 {% include cta.html %}

@@ -35,6 +35,7 @@
   box-shadow: var(--shadow);
   border-radius: var(--radius);
   flex: 1 0 300px;
+  width: min(100%, 320px);
 }
 
 .entradas-blog article h4{
