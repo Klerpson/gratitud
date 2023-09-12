@@ -10,7 +10,7 @@ permalink: frases-agradecimiento-amigos/gracias-por-estar-cuando-te-necesito
 ---
 ¿Recuerdas a ese amigo que siempre ha estado a tu lado, desde los días de recreo hasta las reuniones de profesores?
 
-![La amistad es un tesoro]({{'img/blog/gracias-por-estar-siempre-alli.webp'|relative_url}}){:width="320" height="320" loading="lazy"}
+![La amistad es oportuna]({{'img/blog/gracias-por-estar-siempre-alli.webp'|relative_url}}){:width="320" height="320" loading="lazy"}
 
 Hoy vamos a interiorizar la frase "**Gracias por estar siempre allí cuando te necesito**", y haremos que esta simple expresión fortalezca una amistad que ha resistido la prueba del tiempo.
 

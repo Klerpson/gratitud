@@ -44,7 +44,7 @@ Estas frases son perfectas para enviar un mensaje rápido pero significativo a t
 ### Frases de agradecimiento para amigos especiales
 
 - **"[Tu amistad ilumina mi vida, gracias por ser tan especial.]({{'frases-agradecimiento-amigos/tu-amistad-ilumina-mi-vida'|relative_url}})"**
-- **"En los momentos más oscuros, tu amistad es mi luz. Gracias."**
+- **"[En los momentos más oscuros, tu amistad es mi luz. Gracias.]({{'frases-agradecimiento-amigos/en-los-momentos-mas-oscuros-tu-amistad-es-luz'|relative_url}})"**
 - **"Gracias por ser el amigo que siempre soñé tener."**
 
 Estas frases reflejan un nivel más profundo de conexión y son ideales para aquellos amigos que ocupan un lugar especial en tu corazón.

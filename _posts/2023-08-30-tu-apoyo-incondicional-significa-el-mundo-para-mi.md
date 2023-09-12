@@ -14,7 +14,7 @@ permalink: frases-agradecimiento-amigos/tu-apoyo-incondicional-significa-el-mund
 
 **"Tu apoyo incondicional significa el mundo para mí"**. Wow, ¿no te parece que esta frase tiene un peso emocional tremendo?
 
-![La amistad es un tesoro]({{'img/blog/tu-apoyo-incondicional-significa-el-mundo-para-mi.webp'|relative_url}}){:width="320" height="320" loading="lazy"}
+![La amistad es el mundo]({{'img/blog/tu-apoyo-incondicional-significa-el-mundo-para-mi.webp'|relative_url}}){:width="320" height="320" loading="lazy"}
 
 No es una frase que se diga a la ligera. Aquí hay **tres elementos clave** que la hacen tan poderosa:
 
