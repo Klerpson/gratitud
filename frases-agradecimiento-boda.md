@@ -17,6 +17,8 @@ excerpt: Cuando se trata de bodas, cada detalle cuenta, y las palabras de
   encontrarás todo lo que es necesario que sepas.
 permalink: frases-agradecimiento-boda
 ---
+![{{page.alt}}]({{site.baseurl}}/img/{{page.webp}} "{{page.alt}}"){:width="320" height="320" loading="lazy"}
+
 Cuando se trata de bodas, cada detalle cuenta, y las palabras de agradecimiento no son la excepción. No es solo un "gracias" lo que se necesita; es un mensaje que llegue al corazón de cada invitado. Aquí encontrarás todo lo que es necesario que sepas.
 
 ## Tipos de agradecimientos en bodas
