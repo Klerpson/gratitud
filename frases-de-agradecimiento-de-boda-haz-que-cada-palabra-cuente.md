@@ -23,21 +23,23 @@ Cuando se trata de bodas, cada detalle cuenta, y las palabras de agradecimiento 
 
 ### Verbales
 
-El agradecimiento verbal es quizás la forma más directa y personal de expresar gratitud. Este tipo de agradecimiento suele darse durante el evento mismo, ya sea en el altar, durante el brindis o en cualquier otro momento apropiado. 
+El agradecimiento verbal es quizás la forma más directa y personal de expresar gratitud. Este tipo de agradecimiento suele darse durante el evento mismo, ya sea en el altar, durante el brindis o en cualquier otro momento apropiado.
+
 Es crucial **ser sincero y hablar desde el corazón**; un agradecimiento verbal que suena forzado o ensayado puede perder su impacto. Puedes mirar a los ojos de la persona a la que agradeces, y eso tendrá un valor incalculable.
 
 ### Escritos
 
 Lo bueno de los agradecimientos escritos es que son un recuerdo tangible que los invitados pueden guardar y les permite revivir los sentimientos de amor del día de la boda cada vez que leen tu mensaje.
+
 Pueden tomar la forma de tarjetas de agradecimiento, mensajes en redes sociales o incluso una sección dedicada en el programa de la boda. Además, escribir permite revisar y ajustar tus palabras hasta que sientas que has capturado plenamente tus sentimientos.
 
 ### Regalos y detalles
 
 Los regalos y detalles son otra forma popular de agradecer a los invitados, padrinos y damas de honor. Estos pueden variar desde pequeños recuerdos como imanes o velas personalizadas hasta regalos más significativos como joyas o una experiencia compartida después de la boda.
+
 **Lo que más vale es la intención detrás del regalo**. Debe ser algo que refleje tu aprecio y que tenga un significado especial para la persona que lo recibe. No tiene que ser caro o lujoso, pero sí debe ser considerado y personal.
 
 Cada uno de estos métodos de agradecimiento tiene sus propias ventajas y desventajas, y la mejor estrategia podría ser utilizar una combinación de los tres. Siempre y cuando elijas el método o los métodos que te permitan expresar tu gratitud de la manera más sincera y significativa posible.
-
 {:id="enlace1"}
 
 ## Frases emotivas que tocan el corazón en las bodas
