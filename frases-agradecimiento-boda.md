@@ -3,7 +3,7 @@ layout: verticales
 vertical: "true"
 boton_url: enlace
 date: 2023-09-18T18:29:28.258Z
-title: "Frases de agradecimiento de boda: Haz que cada palabra cuente"
+title: "Frases de agradecimiento de boda: Que cada palabra cuente"
 description: Haz que tus palabras de agradecimiento en bodas sean inolvidables.
   Encuentra frases, consejos y ejemplos que te ayudarán.
 h1: "Cómo expresar agradecimiento en bodas: Palabras y frases que dejarán huella"
