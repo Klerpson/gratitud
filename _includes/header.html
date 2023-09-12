@@ -8,7 +8,7 @@
     <div class="circle"></div>
     <div class="card-inner">
       {% assign post1 = site.posts[0] %}
-      <small>Frase del {{ "now" |date: "%d-%m"}}</small>
+      <small>Frase de agradecimiento del {{ "now" |date: "%d-%m"}}</small>
       {{ post1.h1 | markdownify}}
       <a href="{{site.baseurl}}{{post1.url}}" title="{{page.boton_info_title}}">Analicemos su significado ⇾</a>
     </div>

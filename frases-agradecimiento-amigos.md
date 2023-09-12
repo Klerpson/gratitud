@@ -45,13 +45,13 @@ Estas frases son perfectas para enviar un mensaje rápido pero significativo a t
 
 - **"[Tu amistad ilumina mi vida, gracias por ser tan especial.]({{'frases-agradecimiento-amigos/tu-amistad-ilumina-mi-vida'|relative_url}})"**
 - **"[En los momentos más oscuros, tu amistad es mi luz. Gracias.]({{'frases-agradecimiento-amigos/en-los-momentos-mas-oscuros-tu-amistad-es-luz'|relative_url}})"**
-- **"Gracias por ser el amigo que siempre soñé tener."**
+- **"[Gracias por ser el amigo que siempre soñé tener.]({{'frases-agradecimiento-amigos/gracias-por-ser-el-amigo-que-siempre-sone-tener'|relative_url}})"**
 
 Estas frases reflejan un nivel más profundo de conexión y son ideales para aquellos amigos que ocupan un lugar especial en tu corazón.
 
 ### [Frases de agradecimiento a Dios]({{'frases-agradecimiento-dios'|relative_url}} "Gratitud Dios") por los amigos
 
-1. **"Dios me bendijo con tu amistad, y por eso le doy gracias cada día."**
+1. **"[Dios me bendijo con tu amistad, y por eso le doy gracias cada día.]({{'frases-agradecimiento-amigos/dios-me-bendijo-con-tu-amistad'|relative_url}})"**
 2. **"Gracias, Señor, por darme amigos que enriquecen mi vida."**
 3. **"Tu amistad es una bendición divina, y estoy eternamente agradecido."**
 

@@ -5,7 +5,7 @@ description: "Frase: 'Tu amistad ilumina mi vida, gracias por ser tan especial':
 category: "amigos"
 tags: [especial, vida]
 jpg: tu-amistad-ilumina-mi-vida.jpg
-h1: Tu amistad ilumina mi vida, gracias por ser tan especial
+h1: "'Tu amistad ilumina mi vida, gracias por ser tan especial'"
 permalink: frases-agradecimiento-amigos/tu-amistad-ilumina-mi-vida
 ---
 ![La amistad ilumina la vida]({{'img/blog/tu-amistad-ilumina-mi-vida.webp'|relative_url}}){:width="320" height="320" loading="lazy"}
