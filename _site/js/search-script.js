@@ -180,7 +180,7 @@
         resultsContainer: null,
         json: [],
         success: Function.prototype,
-        searchResultTemplate: '<div><a href="{url}"><h4>{title}</h4></a><a href="{url-cat}"><span>{category}</span></a></div>',
+        searchResultTemplate: '<div><a href="{url}"><h4>{title}</h4></a></div>',
         templateMiddleware: Function.prototype,
         sortMiddleware: function () {
             return 0

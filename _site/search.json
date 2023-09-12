@@ -2,50 +2,36 @@
   
     {
       "title"    : "&#39;Dios me bendijo con tu amistad | Amigos que bendicen",
-      "category" : "Amigos",
-      "url-cat"  : "/reflexiones",
       "url"      : "/frases-agradecimiento-amigos/dios-me-bendijo-con-tu-amistad"
       } ,
   
     {
       "title"    : "&#39;Gracias por ser el amigo que siempre soñé tener&#39;",
-      "category" : "Amigos",
-      "url-cat"  : "/reflexiones",
       "url"      : "/frases-agradecimiento-amigos/gracias-por-ser-el-amigo-que-siempre-sone-tener"
       } ,
   
     {
       "title"    : "&#39;En los momentos más oscuros, tu amistad es mi luz&#39;",
-      "category" : "Amigos",
-      "url-cat"  : "/reflexiones",
       "url"      : "/frases-agradecimiento-amigos/en-los-momentos-mas-oscuros-tu-amistad-es-luz"
       } ,
   
     {
       "title"    : "&#39;Tu amistad ilumina mi vida, gracias por ser tan especial&#39;",
-      "category" : "Amigos",
-      "url-cat"  : "/reflexiones",
       "url"      : "/frases-agradecimiento-amigos/tu-amistad-ilumina-mi-vida"
       } ,
   
     {
       "title"    : "Frase:&#39;Tu apoyo incondicional significa el mundo para mí&#39;",
-      "category" : "Amigos",
-      "url-cat"  : "/reflexiones",
       "url"      : "/frases-agradecimiento-amigos/tu-apoyo-incondicional-significa-el-mundo-para-mi"
       } ,
   
     {
       "title"    : "&#39;Gracias por estar siempre allí cuando te necesito&#39;",
-      "category" : "Amigos",
-      "url-cat"  : "/reflexiones",
       "url"      : "/frases-agradecimiento-amigos/gracias-por-estar-cuando-te-necesito"
       } ,
   
     {
       "title"    : "&#39;Tu Amistad es un Regalo&#39;: Un Análisis para Practicar hoy",
-      "category" : "Amigos",
-      "url-cat"  : "/reflexiones",
       "url"      : "/frases-agradecimiento-amigos/tu-amistad-es-un-regalo-que-atesoro-cada-dia"
       } 
   
@@ -54,8 +40,6 @@
    {
      
         "title"    : "Página 404 de Diario de Gratitud",
-        "category" : "",
-        "url-cat"  : "/reflexiones",
         "url"      : "/404"
      
    } ,
@@ -63,8 +47,6 @@
    {
      
         "title"    : "✨ Agradecimiento: un sentimiento que transforma vidas",
-        "category" : "",
-        "url-cat"  : "/reflexiones",
         "url"      : "/reflexiones"
      
    } ,
@@ -72,8 +54,6 @@
    {
      
         "title"    : "💌 Cartas de Agradecimiento: Cuándo y Cómo Enviarlas",
-        "category" : "",
-        "url-cat"  : "/reflexiones",
         "url"      : "/cartas-de-agradecimiento"
      
    } ,
@@ -85,8 +65,6 @@
    {
      
         "title"    : "Agradece a tus Amigos: Palabras que Tocan el Corazón",
-        "category" : "",
-        "url-cat"  : "/reflexiones",
         "url"      : "/frases-agradecimiento-amigos"
      
    } ,
@@ -94,8 +72,6 @@
    {
      
         "title"    : "Gratitud en el Amor: Más que Palabras, un Estilo de Vida",
-        "category" : "",
-        "url-cat"  : "/reflexiones",
         "url"      : "/frases-agradecimiento-amor"
      
    } ,
@@ -103,8 +79,6 @@
    {
      
         "title"    : "Frases y Acciones para Agradecer en Cada Aniversario",
-        "category" : "",
-        "url-cat"  : "/reflexiones",
         "url"      : "/frases-agradecimiento-aniversario"
      
    } ,
@@ -112,8 +86,6 @@
    {
      
         "title"    : "Frases de Agradecimiento por Apoyo: Fortalece tus Relaciones",
-        "category" : "",
-        "url-cat"  : "/reflexiones",
         "url"      : "/frases-agradecimiento-apoyo"
      
    } ,
@@ -121,8 +93,6 @@
    {
      
         "title"    : "Frases de agradecimiento de boda: Que cada palabra cuente",
-        "category" : "",
-        "url-cat"  : "/reflexiones",
         "url"      : "/frases-agradecimiento-boda"
      
    } ,
@@ -130,8 +100,6 @@
    {
      
         "title"    : "Frases de Agradecimiento al cliente: ¿Cómo Fidelizarlos?",
-        "category" : "",
-        "url-cat"  : "/reflexiones",
         "url"      : "/frases-agradecimiento-clientes"
      
    } ,
@@ -139,8 +107,6 @@
    {
      
         "title"    : "Frases de Agradecimiento Laboral que Debes Conocer ¡Úsalas!",
-        "category" : "",
-        "url-cat"  : "/reflexiones",
         "url"      : "/frases-agradecimiento-companeros"
      
    } ,
@@ -148,8 +114,6 @@
    {
      
         "title"    : "Frases y Plantillas para Agradecer las Condolencias",
-        "category" : "",
-        "url-cat"  : "/reflexiones",
         "url"      : "/frases-agradecimiento-condolencias"
      
    } ,
@@ -157,8 +121,6 @@
    {
      
         "title"    : "Cómo Agradecer en Despedidas: Frases que Dejan Huella",
-        "category" : "",
-        "url-cat"  : "/reflexiones",
         "url"      : "/frases-agradecimiento-despedida"
      
    } ,
@@ -166,8 +128,6 @@
    {
      
         "title"    : "Agradecimiento a Dios: frases para el corazón y el espíritu",
-        "category" : "",
-        "url-cat"  : "/reflexiones",
         "url"      : "/frases-agradecimiento-dios"
      
    } ,
@@ -175,8 +135,6 @@
    {
      
         "title"    : "Cómo Agradecer Donaciones y Fomentar Más Apoyo",
-        "category" : "",
-        "url-cat"  : "/reflexiones",
         "url"      : "/frases-agradecimiento-donaciones"
      
    } ,
@@ -184,8 +142,6 @@
    {
      
         "title"    : "Frases de Agradecimiento para Tu Esposo: un Abrazo del Alma",
-        "category" : "",
-        "url-cat"  : "/reflexiones",
         "url"      : "/frases-agradecimiento-esposos"
      
    } ,
@@ -193,8 +149,6 @@
    {
      
         "title"    : "Reconocimiento y Gratitud: Frases para Estudiantes",
-        "category" : "",
-        "url-cat"  : "/reflexiones",
         "url"      : "/frases-agradecimiento-estudiantes"
      
    } ,
@@ -202,8 +156,6 @@
    {
      
         "title"    : "Agradecimientos en Eventos: • Psicología • Frases • Técnicas",
-        "category" : "",
-        "url-cat"  : "/reflexiones",
         "url"      : "/frases-agradecimiento-eventos"
      
    } ,
@@ -211,8 +163,6 @@
    {
      
         "title"    : "Frases de Agradecimiento al cliente: ¿Cómo Fidelizarlos?",
-        "category" : "",
-        "url-cat"  : "/reflexiones",
         "url"      : "/frases-agradecimiento-familia"
      
    } ,
@@ -220,8 +170,6 @@
    {
      
         "title"    : "Frases de Agradecimiento al cliente: ¿Cómo Fidelizarlos?",
-        "category" : "",
-        "url-cat"  : "/reflexiones",
         "url"      : "/frases-agradecimiento-maestros"
      
    } ,
@@ -229,8 +177,6 @@
    {
      
         "title"    : "Versículos de Agradecimiento: Paz y Gratitud en la Biblia",
-        "category" : "",
-        "url-cat"  : "/reflexiones",
         "url"      : "/frases-agradecimiento-versiculos"
      
    } ,
@@ -238,8 +184,6 @@
    {
      
         "title"    : "Agradece y Vive: Frases que Cambiarán Tu perspectiva de Vida",
-        "category" : "",
-        "url-cat"  : "/reflexiones",
         "url"      : "/frases-agradecimiento-vida"
      
    } ,
@@ -247,8 +191,6 @@
    {
      
         "title"    : "¡Gracias por tu tiempo y atención! 🌟",
-        "category" : "",
-        "url-cat"  : "/reflexiones",
         "url"      : "/gracias"
      
    } ,
@@ -256,8 +198,6 @@
    {
      
         "title"    : "Frases de Agradecimiento que transforman vidas | DiarioGratitud.com",
-        "category" : "",
-        "url-cat"  : "/reflexiones",
         "url"      : "/"
      
    } ,
@@ -265,8 +205,6 @@
    {
      
         "title"    : "Términos y Codiciones de Uso | trabajoescrito.com",
-        "category" : "",
-        "url-cat"  : "/reflexiones",
         "url"      : "/legal"
      
    } ,
@@ -274,8 +212,6 @@
    {
      
         "title"    : "🎀 Transforma Tu Vida con el Poder de la Gratitud",
-        "category" : "",
-        "url-cat"  : "/reflexiones",
         "url"      : "/muchas-gracias-por-tu-apoyo"
      
    } ,
