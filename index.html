@@ -15,7 +15,7 @@ intro: "El agradecimiento es un arte, una danza delicada de palabras y emociones
     <ol>
       <li><b>Haz clic en el botón "COPIAR" que acompaña cada frase de agradecimiento para copiarla</b></li>
       <li><b>Abre tus estados o tus redes sociales favoritas, tu editor de imágenes, etc.</b></li>
-      <li><b>¡Pega la frase de agradeciemiento que copiaste y comparte tu agradecimiento!</b></li>
+      <li><b>¡Pega la frase de agradecimiento que copiaste y comparte tu agradecimiento!</b></li>
     </ol>
   </div>
 </section>
@@ -65,7 +65,7 @@ intro: "El agradecimiento es un arte, una danza delicada de palabras y emociones
   </ul>
   <h3>Frases de gratitud para profesionales y compañeros</h3>
   <ul class="frases">
-    <!-- <li><a href="#" title="Lorem Ipsum">⇾ Para maestros</a></li> -->
+    <li><a href="{{'frases-agradecimiento-maestros'|relative_url}}" title="Frases agradecimiento maestros">⇾ Para maestros</a></li>
     <li><a href="{{'frases-agradecimiento-estudiantes'|relative_url}}" title="Frases gratitud estudiantes">⇾ Para estudiantes</a></li>
     <!-- <li><a href="#" title="Lorem Ipsum">⇾ Para médicos</a></li> -->
     <!-- <li><a href="#" title="Lorem Ipsum">⇾ Para las autoridades</a></li> -->
@@ -111,9 +111,8 @@ intro: "El agradecimiento es un arte, una danza delicada de palabras y emociones
 {% include cta.html %}
 {% include follow-buttons.html %}
 {% include footer.html %}
-{% if page.url == "/" %}
 <!-- Script pointing to search-script.js -->
-<script src="{{site.baseurl}}/js/search-script.js" type="text/javascript" async></script>
+<script src="{{site.baseurl}}/js/search-script.js" type="text/javascript"></script>
 <!-- Configuration -->
 <script>
   var sjs = SimpleJekyllSearch({
@@ -124,6 +123,6 @@ intro: "El agradecimiento es un arte, una danza delicada de palabras y emociones
     fuzzy: false
   });
 </script>
-{% endif %}
-<!-- Slider /js -->
-<script src="/js/slider.js" defer></script>
+ <!-- Slider /js -->
+ <script src="/js/slider.js" defer></script>
+ <!-- Google tag (gtag.js) -->
