@@ -49,7 +49,7 @@ Cuando admiramos la belleza de la naturaleza, la bondad de los demás y los mila
 
 Cada día es un regalo, una nueva oportunidad para disfrutar de la vida y de las bendiciones que Dios nos ha entregado.
 
-1. "Gracias Dios por el nuevo día. Gracias por el tesoro que tengo: mi vida.
+1. "Gracias Dios por el nuevo día. Gracias por el tesoro que tengo: mi vida."
 2. "Gracias Creador por permitirme seguir disfrutando mi vida. Ayúdame a mí y a mis seres queridos para salir hoy adelante."
 
 Esta es una de las muchas frases de agradecimiento a Dios que puedes usar para expresar tu gratitud por las bendiciones recibidas.
@@ -71,7 +71,7 @@ Es fácil enfocarse en lo que nos falta en la vida, pero es importante recordar 
 
 1. "Gracias Dios por el nuevo día. Gracias por el tesoro que tengo: mi vida. Gracias por permitirme seguir disfrutándola. Ayúdame a mí y a mis seres queridos para salir hoy adelante."
 2. "Cada mañana al despertar solo di tres cosas: Gracias, Gracias, Gracias y ponte a disfrutar del regalo más hermoso que Dios te entregó: El Don de la Vida."
-3. "El amanecer es la parte más bella del día, porque es cuando Dios nos dice: "Levántate te regalo una nueva oportunidad de vivir y de caminar de nuevo a mi lado"."
+3. "El amanecer es la parte más bella del día, porque es cuando Dios nos dice: "Levántate te regalo una nueva oportunidad de vivir y de caminar de nuevo a mi lado."
 4. "Las personas que más reciben bendiciones, son aquellas que saben que TODO ES UNA BENDICIÓN."
 
 Esta frase nos recuerda que debemos **apreciar cada aspecto de nuestra vida, incluso los desafíos, como bendiciones**.

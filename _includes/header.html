@@ -7,10 +7,15 @@
     <div class="circle"></div>
     <div class="circle"></div>
     <div class="card-inner">
-      {% assign post1 = site.posts[0] %}
-      <small>Frase de agradecimiento del {{ "now" |date: "%d-%m"}}</small>
-      {{ post1.h1 | markdownify}}
-      <a href="{{site.baseurl}}{{post1.url}}" title="{{page.boton_info_title}}">Analicemos su significado ⇾</a>
+      {% capture now %}{{'now' | date: "%d-%m" | plus: 0 }}{% endcapture %}
+      {% for post in site.posts %}
+        {% capture date %}{{post.date | date: "%d-%m" | plus: 0 }}{% endcapture %}
+        {% if post.date == now %}
+        <small>Frase de agradecimiento del {{ "now" | date: "%d-%m" }}</small>
+        {{ post.h1 | markdownify}}
+      <a href="{{site.baseurl}}{{post.url}}" title="{{post.title}}">Analicemos su significado ⇾</a>
+      {% endif %}
+    {% endfor %}
     </div>
   </div>
   {% include slider.html %}
