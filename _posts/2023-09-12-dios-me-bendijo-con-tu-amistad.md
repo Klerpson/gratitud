@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "'Dios me bendijo con tu amistad | Amigos que bendicen"
+date: 2023-09-13
 description: "Frase: 'Tu amistad es un regalo que atesoro cada día' ¿Sientes que tu amistad es una bendición divina? Agradécelo"
 category: "amigos"
 jpg: dios-me-bendijo-con-tu-amistad.jpg

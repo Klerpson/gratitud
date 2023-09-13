@@ -1,11 +1,9 @@
 ---
 layout: post
 json-post: "true"
-date: 2023-09-13T21:02:44.929Z
+date: 2023-09-13
 title: '"Las personas que más reciben bendiciones, saben que TODO ES UNA BENDICIÓN"'
-description: 'Frase: "Las personas que más reciben bendiciones, saben que TODO
-  ES UNA BENDICIÓN". ¿Quieres saber cómo una frase puede cambiar tu
-  perspectiva?'
+description: 'Frase: "Las personas que más reciben bendiciones, saben que TODO ES UNA BENDICIÓN". ¿Quieres saber cómo una frase puede cambiar tu perspectiva?'
 h1: '"Las personas que más reciben bendiciones, saben que TODO ES UNA BENDICIÓN"'
 jpg: blog/las-personas-que-mas-reciben-bendiciones.jpg
 webp: blog/las-personas-que-mas-reciben-bendiciones.webp
