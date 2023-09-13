@@ -1,17 +1,21 @@
 ---
 layout: verticales
+vertical: true
+boton_url: frases
+date: 2023-09-13T02:23:56.328Z
 title: "Agradecimiento a Dios: frases para el corazón y el espíritu"
+description: Encuentra las frases más inspiradoras para agradecer a Dios.
+  ¡Reflexiona y fortalece tu espíritu! Haz clic aquí.
 h1: "Reconoce sus bendiciones: frases de agradecimiento y devoción a Dios"
-description: Encuentra las frases más inspiradoras para agradecer a Dios. ¡Reflexiona y fortalece tu espíritu! Haz clic aquí.
-webp: gratitud-a-dios.webp
 jpg: gratitud-a-dios.jpg
+webp: gratitud-a-dios.webp
 alt: Frases agradecimiento estudiantes
 boton: Mira frases aquí
-boton_url: "frases"
-vertical: true
-excerpt: Encuentra la frase perfecta para agradecer a tus estudiantes. Reconoce su esfuerzo y dedicación.
+excerpt: Encuentra la frase perfecta para agradecer a tus estudiantes. Reconoce
+  su esfuerzo y dedicación.
+permalink: frases-agradecimiento-dios
 ---
->Me siento humilde ante la oportunidad de expresar mi gratitud a la presencia divina que guía y bendice nuestras vidas.
+> Me siento humilde ante la oportunidad de expresar mi gratitud a la presencia divina que guía y bendice nuestras vidas.
 
 Bienvenido a este espacio de reflexión y gratitud hacia Dios. Aquí encontrarás un oasis de palabras y pensamientos que te ayudarán a expresar tu agradecimiento al Todopoderoso.
 
@@ -29,7 +33,7 @@ Reflexionar sobre la bondad que existe en nuestro mundo nos da una sensación de
 
 ### Frases para valorar y agradecer lo que Dios me ha entregado
 
-1. "Las personas que más reciben bendiciones, son aquellas que saben que TODO ES UNA BENDICIÓN."
+1. "[Las personas que más reciben bendiciones, son aquellas que saben que TODO ES UNA BENDICIÓN](https://diariogratitud.com/frases-agradecimiento-dios/las-personas-que-mas-reciben-bendiciones)."
 2. "Sonrío y soy feliz, no porque mi vida sea perfecta, sino porque aprecio mucho lo que Dios me ha dado, porque valoro a quien tengo a mi lado y agradezco al Señor todos los días por ello. Por eso trato que mi felicidad viaje conmigo..."
 3. "Puedes nacer con suerte en la vida y lograr algo. Puedes tener apoyo, ayuda y lograr bastante. Puedes poner Tu Vida delante de DIOS y lograrlo TODO."
 
@@ -54,7 +58,7 @@ Esta es una de las muchas frases de agradecimiento a Dios que puedes usar para e
 
 Además, es importante recordar que las bendiciones no siempre son materiales. La compañía de nuestros seres queridos, la capacidad de disfrutar de la belleza del mundo, la oportunidad de despertar cada día, son todas bendiciones que a veces damos por sentado.
 
->Agradece contemplar cosas bellas, respirar, sentir melodías, agradece la compañía, agradece poder despertar, agradece vivir.
+> Agradece contemplar cosas bellas, respirar, sentir melodías, agradece la compañía, agradece poder despertar, agradece vivir.
 
 ## Agradeciendo cada bendición que Dios nos ha entregado
 
@@ -104,7 +108,7 @@ Además, es importante recordar que Dios está siempre con nosotros, incluso cua
 
 * "Dios es maravilloso, llega cuando menos lo esperamos y nos sorprende con sus bendiciones. No llega nunca temprano ni tarde, llega justo cuando más lo necesitamos."
 
-----
+- - -
 
 ### Las escrituras y nuestro agradecimiento a Dios
 
@@ -125,7 +129,7 @@ Por tanto, dedica tiempo y esfuerzo concienzudo a la sabiduría de estas escritu
 
 La potencia del agradecimiento es una fuerza espectacular que puede revolucionar nuestras vidas y nuestra relación con lo divino.
 
->Cuando tomamos la iniciativa de agradecer de verdad todos los dones de nuestra vida, nos abrimos a experimentar un profundo nivel de alegría y agradecimiento.
+> Cuando tomamos la iniciativa de agradecer de verdad todos los dones de nuestra vida, nos abrimos a experimentar un profundo nivel de alegría y agradecimiento.
 
 Mediante el agradecimiento, podemos **cultivar un corazón lleno de amor y satisfacción**. Al expresar nuestro agradecimiento al Dios verdadero Jehová, reconocemos Su bondad y Su misericordia, e invitamos Su presencia a nuestras vidas.
 
@@ -147,7 +151,7 @@ Una de las mayores bendiciones de Dios es el regalo del amor. El amor es un pode
 
 Es a través de la adoración como encontramos la alegría genuina y la asociación con los demás.
 
->En el momento en que abrimos nuestros corazones para dar y recibir amor, nos abrimos a los dones que proceden del ilimitado esfuerzo de Dios.
+> En el momento en que abrimos nuestros corazones para dar y recibir amor, nos abrimos a los dones que proceden del ilimitado esfuerzo de Dios.
 
 **Las palabras de agradecimiento a Dios nos recuerdan que nunca estamos solos**, que somos una parte de algo más allá de nosotros mismos. Es un manantial incesante de motivación y calidad, que nos guía en nuestra excursión por la vida:
 
@@ -165,7 +169,7 @@ Al **dar frases de gracias en todas las circunstancias**, no sólo manifestamos 
 
 Esta práctica también nos permite entrar en comunión con lo divino, reconocer el poder de algo mayor que nosotros mismos y confiar en el propósito de Dios.
 
-----
+- - -
 
 ## Citas y refranes de agradecimiento a Dios
 
