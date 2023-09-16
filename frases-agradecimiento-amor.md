@@ -34,7 +34,7 @@ Las palabras tienen el poder de construir o destruir, y en el contexto de una re
 
 Aquí te presento algunas **frases de agradecimiento que puedes usar para expresar tu amor y gratitud** hacia tu pareja:
 
-- "Gracias por estar siempre a mi lado, en los buenos y malos momentos."
+- "[Gracias por estar siempre a mi lado, en los buenos y malos momentos.]({% post_url 2023-09-16-gracias-por-estar-siempre-a-mi-lado-en-buenos-malos-momentos %})"
 - "Tu amor ha iluminado mi vida, gracias por ser mi faro."
 - "Aprecio cada pequeño gesto de amor que haces por mí, gracias por hacerme sentir especial."
 {:class="seccion"}
