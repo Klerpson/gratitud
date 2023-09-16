@@ -3,7 +3,10 @@ layout: post
 title: "'En los momentos más oscuros, tu amistad es mi luz'"
 description: "Frase: 'En los momentos más oscuros, tu amistad es mi luz' ¿Quieres saber cómo una simple frase puede hacer que tus días sean más brillantes?"
 category: "amigos"
+tags: [apoyar, soportar]
 h1: "'En los momentos más oscuros, tu amistad es mi luz'"
+boton: Cómo aplicarlo hoy
+boton_url: "aplicación-práctica-la-amistad-como-terapia-emocional"
 jpg: en-los-momentos-mas-oscuros.jpg
 permalink: frases-agradecimiento-amigos/en-los-momentos-mas-oscuros-tu-amistad-es-luz
 ---

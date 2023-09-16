@@ -5,6 +5,8 @@ description: "Frase: 'Tu amistad es un regalo que atesoro cada día' ¿Quieres s
 category: "amigos"
 h1: "'Gracias por ser el amigo que siempre soñé tener'"
 jpg: gracias-por-ser-el-amigo-que-siempre-sone-tener.jpg
+boton: Cómo aplicarlo hoy
+boton_url: "cómo-aplicar-este-análisis-en-tu-vida"
 permalink: frases-agradecimiento-amigos/gracias-por-ser-el-amigo-que-siempre-sone-tener
 ---
 ## Análisis de la frase

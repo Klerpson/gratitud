@@ -6,6 +6,8 @@ description: "Frase: 'Tu amistad es un regalo que atesoro cada día' ¿Sientes q
 category: "amigos"
 jpg: dios-me-bendijo-con-tu-amistad.jpg
 h1: '"Dios me bendijo con tu amistad, y por eso le doy gracias cada día"'
+boton: Cómo aplicarlo hoy
+boton_url: "cómo-aplicar-este-análisis-en-tu-vida"
 permalink: frases-agradecimiento-amigos/dios-me-bendijo-con-tu-amistad
 ---
 ![La amistad es un tesoro]({{'img/blog/dios-me-bendijo-con-tu-amistad.webp'|relative_url}}){:width="320" height="320" loading="lazy"}

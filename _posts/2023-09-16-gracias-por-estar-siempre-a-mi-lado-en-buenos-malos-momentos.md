@@ -4,15 +4,18 @@ json-post: "true"
 date: 2023-09-16T09:00:00.000Z
 title: 'Frase: "Gracias por estar siempre a mi lado" | Compártela'
 description: 'Frase: "Gracias por estar siempre a mi lado, en los buenos y malos momentos". ¡No esperes más y agradece el amor incondicional!'
+category: amor
 h1: '"Gracias por estar siempre a mi lado, en los buenos y malos momentos"'
 jpg: blog/gracias-por-estar-siempre-a-mi-lado-en-buenos-malos-momentos.jpg
 webp: blog/gracias-por-estar-siempre-a-mi-lado-en-buenos-malos-momentos.webp
 alt: Esposos agradecidos
+boton: Cómo aplicarlo hoy
+boton_url: "aplicación-práctica-el-poder-del-agradecimiento-en-la-relación-de-pareja"
 permalink: frases-agradecimiento-dios/gracias-por-estar-siempre-a-mi-lado-en-buenos-malos-momentos
 ---
 ## Análisis de la frase
 
-![La amistad es un tesoro]({{'img/blog/gracias-por-estar-siempre-a-mi-lado-en-buenos-malos-momentos.webp'|relative_url}}){:width="320" height="320" loading="lazy"}
+![{{page.alt}}]({{site.baseurl}}/img/{{page.webp}}){:width="320" height="320" loading="lazy"}
 
 Esta frase es como un abrazo en palabras, ¿verdad? **Amor**, ese es el núcleo de esta expresión.
 

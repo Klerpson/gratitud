@@ -2,19 +2,20 @@
 layout: post
 json-post: "true"
 date: 2023-09-13T09:00:00.000Z
-title: '"Las personas que más reciben bendiciones, saben que TODO ES UNA BENDICIÓN"'
-description: 'Frase: "Las personas que más reciben bendiciones, saben que TODO
-  ES UNA BENDICIÓN". ¿Quieres saber cómo una frase puede cambiar tu
-  perspectiva?'
+title: 'Frase: "Las personas que más reciben bendiciones". Análisis'
+description: 'Frase: "Las personas que más reciben bendiciones, saben que TODO ES UNA BENDICIÓN". ¿Quieres saber cómo una frase puede cambiar tu perspectiva?'
 h1: '"Las personas que más reciben bendiciones, saben que TODO ES UNA BENDICIÓN"'
 jpg: blog/las-personas-que-mas-reciben-bendiciones.jpg
 webp: blog/las-personas-que-mas-reciben-bendiciones.webp
+category: dios
+boton: Cómo aplicarlo hoy
+boton_url: "aporte-práctico"
 alt: Personas que reciben bendiciones
 permalink: frases-agradecimiento-dios/las-personas-que-mas-reciben-bendiciones
 ---
 ## Análisis de la frase
 
-![La amistad es un tesoro]({{'img/blog/las-personas-que-mas-reciben-bendiciones.webp'|relative_url}}){:width="320" height="320" loading="lazy"}
+![La amistad es un tesoro]({{site.baseurl}}/img/{{page.webp}}){:width="320" height="320" loading="lazy"}
 
 Al igual que tú, posiblemente, trabajo como obrero por mi familia. Tengo hijos y cada día al levantarme y ver a mi familia, sé que estoy bendecido.
 
@@ -43,7 +44,7 @@ Cuando expresas gratitud, no solo te sientes mejor contigo mismo, sino que tambi
 
 ## ¿Quieres más?
 
-Si te ha gustado este análisis y te ha ayudado a ver las bendiciones en tu vida, te invito a que sigas explorando más frases en nuestra página.
+Si te ha gustado este análisis y te ha ayudado a ver las bendiciones en tu vida, te invito a que [sigas explorando más frases]({{'reflexiones'|relative_url}}) en nuestra página.
 
 Cada frase tiene su propia magia y quién sabe, quizás encuentres la que resuene contigo.
 
