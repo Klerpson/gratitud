@@ -135,6 +135,24 @@
   
   
       <url>
+        <loc>http://localhost:4000/frases-agradecimiento-dios/gracias-por-estar-siempre-a-mi-lado-en-buenos-malos-momentos</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+      <url>
+        <loc>http://localhost:4000/frases-agradecimiento-dios/las-personas-que-mas-reciben-bendiciones</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+      <url>
+        <loc>http://localhost:4000/frases-agradecimiento-amigos/dios-me-bendijo-con-tu-amistad</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+      <url>
         <loc>http://localhost:4000/frases-agradecimiento-amigos/gracias-por-ser-el-amigo-que-siempre-sone-tener</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
