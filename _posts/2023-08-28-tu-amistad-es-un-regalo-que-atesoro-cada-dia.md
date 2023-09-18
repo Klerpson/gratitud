@@ -3,7 +3,7 @@ layout: post
 title: "'Tu Amistad es un Regalo': Un Análisis para Practicar hoy"
 description: "Frase: 'Tu amistad es un regalo que atesoro cada día' ¿Quieres saber cómo una simple frase puede hacer que tus días sean más brillantes?"
 category: "amigos"
-h1: '"Tu amistad es un regalo que atesoro cada día"'
+h1: "'Tu amistad es un regalo que atesoro cada día'"
 jpg: tu-amistad-es-un-tesoro.jpg
 boton: Aplicar con un amigo
 boton_url: "aplicación-práctica-un-tesoro-en-el-trabajo"

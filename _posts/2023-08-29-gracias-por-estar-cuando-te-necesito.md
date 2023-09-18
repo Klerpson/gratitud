@@ -5,7 +5,7 @@ description: "Frase: 'Gracias por estar siempre allí cuando te necesito' Aprend
 category: "amigos"
 jpg: gracias-por-estar-siempre-alli.jpg
 tags: [apoyar, ayudar]
-h1: '"Gracias por estar siempre allí cuando te necesito"'
+h1: "'Gracias por estar siempre allí cuando te necesito'"
 boton: Cómo aplicarlo hoy
 boton_url: "aplicación-práctica-en-el-mundo-de-la-amistad-en-la-docencia"
 permalink: frases-agradecimiento-amigos/gracias-por-estar-cuando-te-necesito

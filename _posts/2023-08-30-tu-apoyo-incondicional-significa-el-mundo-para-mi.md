@@ -5,7 +5,7 @@ description: "Frase: 'Tu apoyo incondicional significa el mundo para mí' ¿Por 
 category: "amigos"
 tags: [apoyar, incondicional]
 jpg: gracias-por-estar-siempre-alli.jpg
-h1: '"Tu apoyo incondicional significa el mundo para mí"'
+h1: "'Tu apoyo incondicional significa el mundo para mí'"
 boton: Cómo aplicarlo hoy
 boton_url: "cómo-aplicar-esta-frase-en-tu-vida"
 permalink: frases-agradecimiento-amigos/tu-apoyo-incondicional-significa-el-mundo-para-mi

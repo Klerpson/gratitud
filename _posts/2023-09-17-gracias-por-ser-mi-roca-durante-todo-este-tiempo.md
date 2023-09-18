@@ -5,7 +5,7 @@ date: 2023-09-17
 title: '"Gracias por ser mi roca durante todo este tiempo"'
 description: 'Frase: "Gracias por ser mi roca durante todo este tiempo". Descubre cómo una simple frase de agradecimiento puede cambiar tu aniversario'
 category: aniversarios
-h1: '"Gracias por ser mi roca durante todo este tiempo"'
+h1: "'Gracias por ser mi roca durante todo este tiempo'"
 jpg: blog/gracias-por-ser-mi-roca-durante-todo-este-tiempo.jpg
 webp: blog/gracias-por-ser-mi-roca-durante-todo-este-tiempo.webp
 alt: Corazones de aniversario

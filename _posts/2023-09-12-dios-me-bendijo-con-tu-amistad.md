@@ -5,7 +5,7 @@ date: 2023-09-12
 description: "Frase: 'Tu amistad es un regalo que atesoro cada día' ¿Sientes que tu amistad es una bendición divina? Agradécelo"
 category: "amigos"
 jpg: dios-me-bendijo-con-tu-amistad.jpg
-h1: '"Dios me bendijo con tu amistad, y por eso le doy gracias cada día"'
+h1: "'Dios me bendijo con tu amistad, y por eso le doy gracias cada día'"
 boton: Cómo aplicarlo hoy
 boton_url: "cómo-aplicar-este-análisis-en-tu-vida"
 permalink: frases-agradecimiento-amigos/dios-me-bendijo-con-tu-amistad
