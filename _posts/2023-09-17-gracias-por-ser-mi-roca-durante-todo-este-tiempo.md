@@ -2,8 +2,8 @@
 layout: post
 json-post: "true"
 date: 2023-09-17
-title: '"Gracias por ser mi roca durante todo este tiempo"'
-description: 'Frase: "Gracias por ser mi roca durante todo este tiempo". Descubre cómo una simple frase de agradecimiento puede cambiar tu aniversario'
+title: "'Gracias por ser mi roca durante todo este tiempo'"
+description: "Frase: 'Gracias por ser mi roca durante todo este tiempo'. Descubre cómo una simple frase de agradecimiento puede cambiar tu aniversario"
 category: aniversarios
 h1: "'Gracias por ser mi roca durante todo este tiempo'"
 jpg: blog/gracias-por-ser-mi-roca-durante-todo-este-tiempo.jpg

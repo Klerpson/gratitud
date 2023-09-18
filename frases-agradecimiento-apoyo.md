@@ -24,7 +24,7 @@ Pero, ¿cómo podemos expresar agradecimiento de manera efectiva, especialmente 
 
 ### Agradecimiento a los padres
 
-- **"Gracias, mamá y papá, por siempre estar allí para mí."**
+- **["Gracias, mamá y papá, por siempre estar allí para mí."]()**
 - **"Su apoyo incondicional me ha hecho quien soy hoy. Gracias."**
 
 ### Agradecimiento a los hermanos
