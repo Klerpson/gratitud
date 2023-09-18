@@ -135,6 +135,12 @@
   
   
       <url>
+        <loc>http://localhost:4000/frases-agradecimiento-dios/gracias-por-ser-mi-roca-durante-todo-este-tiempo</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+      <url>
         <loc>http://localhost:4000/frases-agradecimiento-dios/gracias-por-estar-siempre-a-mi-lado-en-buenos-malos-momentos</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
