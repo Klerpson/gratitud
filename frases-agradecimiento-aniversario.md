@@ -31,7 +31,7 @@ Agradecer a tu pareja en el aniversario de bodas puede hacerse de muchas maneras
 
 Si te cuesta encontrar las palabras adecuadas, aquí hay algunas frases que podrían ayudarte:
 
-- **"[Gracias por ser mi roca durante todo este tiempo]({{'frases-agradecimiento-dios/gracias-por-ser-mi-roca-durante-todo-este-tiempo'|relative_url}})."**
+- **"[Gracias por ser mi roca durante todo este tiempo]({% post_url 2023-09-17-gracias-por-ser-mi-roca-durante-todo-este-tiempo %})."**
 - "Tu amor ha hecho de cada día un regalo."
 - "Otro año juntos y cada día te agradezco más."
 {:class="seccion"}
