@@ -248,4 +248,4 @@ Una de las preguntas más comunes es si es necesario responder a todas las condo
 
 El tiempo puede ser un factor a considerar al agradecer las condolencias. Descubre aquí **cuánto tiempo tienes para agradecer**, y por qué es importante hacerlo en un plazo razonable para mostrar tu aprecio y respeto hacia los demás.
 
-Finalmente, te invitamos a seguir explorando [cómo el agradecimiento puede ser un aliado en tu vida]({{'frases-agradecmiento-vida'|relative_url}}), incluso en los momentos más difíciles.
+Finalmente, te invitamos a seguir explorando [cómo el agradecimiento puede ser un aliado en tu vida]({{'frases-agradecimiento-vida'|relative_url}}), incluso en los momentos más difíciles.

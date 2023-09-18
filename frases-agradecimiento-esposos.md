@@ -91,7 +91,7 @@ Los aniversarios son una celebración de amor, compromiso y todos los pequeños 
 Perder a un esposo es uno de los momentos más difíciles en la vida de cualquier persona. **El agradecimiento en este contexto es una forma de honrar su memoria y encontrar un poco de paz en medio del dolor.**
 
 - **Ritual de despedida**: Realiza un pequeño ritual donde puedas *expresar tu agradecimiento por los momentos vividos*.
-- **[Diario de gratitud]({{'diarios'|relative_url}})**: *Escribe tus sentimientos y agradecimientos* en un diario como una forma de terapia.
+- **[Diario de gratitud]({{'muchas-gracias-por-tu-apoyo'|relative_url}})**: *Escribe tus sentimientos y agradecimientos* en un diario como una forma de terapia.
 - **Charlas con seres queridos**: Compartir tus sentimientos de agradecimiento con amigos y familiares puede ser una forma de mantener viva su memoria.
 {:class="seccion"}
 

@@ -68,7 +68,7 @@ Ser agradecido también puede abrir la puerta a más bendiciones. *La gratitud a
 
 ### 1. Mantener un diario de gratitud
 
-Una forma práctica de practicar el agradecimiento es [mantener un diario de gratitud]({{'diarios'|relative_url}}). **Anote diariamente tres cosas por las que está agradecido**.
+Una forma práctica de practicar el agradecimiento es [mantener un diario de gratitud]({{'muchas-gracias-por-tu-apoyo'|relative_url}} "Apóyanos"). **Anote diariamente tres cosas por las que está agradecido**.
 
 ### 2. Oraciones de agradecimiento
 

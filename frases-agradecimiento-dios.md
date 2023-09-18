@@ -1,18 +1,16 @@
 ---
 layout: verticales
 vertical: true
-boton_url: frases
 date: 2023-09-13T02:23:56.328Z
 title: "Agradecimiento a Dios: frases para el corazón y el espíritu"
-description: Encuentra las frases más inspiradoras para agradecer a Dios.
-  ¡Reflexiona y fortalece tu espíritu! Haz clic aquí.
+description: Encuentra las frases más inspiradoras para agradecer a Dios. ¡Reflexiona y fortalece tu espíritu! Haz clic aquí.
 h1: "Reconoce sus bendiciones: frases de agradecimiento y devoción a Dios"
 jpg: gratitud-a-dios.jpg
 webp: gratitud-a-dios.webp
 alt: Frases agradecimiento estudiantes
 boton: Mira frases aquí
-excerpt: Encuentra la frase perfecta para agradecer a tus estudiantes. Reconoce
-  su esfuerzo y dedicación.
+boton_url: frases
+excerpt: Encuentra la frase perfecta para agradecer a tus estudiantes. Reconoce su esfuerzo y dedicación.
 permalink: frases-agradecimiento-dios
 ---
 > Me siento humilde ante la oportunidad de expresar mi gratitud a la presencia divina que guía y bendice nuestras vidas.
@@ -30,10 +28,11 @@ Esta sección te invita a hacer una pausa, a reflexionar y a agradecer. Te prome
 Ofrecer agradecimiento al Todopoderoso es una forma poderosa de **reconocer las innumerables bendiciones de nuestra vida**. Es una oportunidad para entrar en comunión con lo divino y expresar nuestro agradecimiento por todo lo que tenemos.
 
 Reflexionar sobre la bondad que existe en nuestro mundo nos da una sensación de satisfacción y alegría.
+{:id="frases"}
 
 ### Frases para valorar y agradecer lo que Dios me ha entregado
 
-1. "[Las personas que más reciben bendiciones, son aquellas que saben que TODO ES UNA BENDICIÓN](https://diariogratitud.com/frases-agradecimiento-dios/las-personas-que-mas-reciben-bendiciones)."
+1. "[Las personas que más reciben bendiciones, son aquellas que saben que TODO ES UNA BENDICIÓN]({% post_url 2023-09-13-las-personas-que-mas-reciben-bendiciones %})."
 2. "Sonrío y soy feliz, no porque mi vida sea perfecta, sino porque aprecio mucho lo que Dios me ha dado, porque valoro a quien tengo a mi lado y agradezco al Señor todos los días por ello. Por eso trato que mi felicidad viaje conmigo..."
 3. "Puedes nacer con suerte en la vida y lograr algo. Puedes tener apoyo, ayuda y lograr bastante. Puedes poner Tu Vida delante de DIOS y lograrlo TODO."
 
@@ -65,7 +64,6 @@ Además, es importante recordar que las bendiciones no siempre son materiales. L
 Reconocer las bendiciones que nos envuelven, incluso en momentos de dificultad y angustia, es una poderosa demostración de gratitud.
 
 Es fácil enfocarse en lo que nos falta en la vida, pero es importante recordar valorar y agradecer lo que ya tenemos.
-{:id="frases"}
 
 ### Frases de agradecimiento por las bendiciones de Dios
 
