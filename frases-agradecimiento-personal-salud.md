@@ -2,7 +2,7 @@
 layout: verticales
 vertical: "true"
 date: 2023-09-20T16:18:33.586Z
-title: Frases y Mensajes de Agradecimiento para Profesionales de la Salud
+title: "Frases de Agradecimiento: Profesionales de la Salud"
 description: Encuentra frases de agradecimiento únicas para médicos y enfermeras. ¡Haz clic para mostrar tu gratitud de manera significativa!
 h1: "Agradecer a médicos y enfermeras: Frases y mensajes únicos que cambian vidas"
 jpg: blog/frases-agradecimiento-medicos.jpg
