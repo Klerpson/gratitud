@@ -32,9 +32,9 @@ Además, el reconocimiento puede actuar como un motivador para que otros emplead
 ## Frases de agradecimiento para los médicos
 
 Las palabras tienen poder, y una frase bien elegida puede expresar exactamente lo que sientes. Aquí te presento algunas frases que podrían ser de utilidad.
-{﻿:id="frases"}
+{:id="frases"}
 
-### P﻿alabras de agradecimiento para médicos generales
+### Palabras de agradecimiento para médicos generales
 
 * **"Tu atención y cuidado hicieron toda la diferencia durante mi recuperación. Gracias por ser tan meticuloso y atento en cada consulta."**
 
@@ -58,7 +58,7 @@ Las enfermeras son a menudo los héroes no reconocidos en el ámbito de la atenc
 
 * **"Gracias por hacer que mi hijo se sintiera seguro y cuidado durante su estancia en el hospital. Tu paciencia y amabilidad hicieron que la experiencia fuera mucho menos aterradora para él."**
 
-### M﻿ensajes de agradecimiento para enfermeras de urgencias
+### Mensajes de agradecimiento para enfermeras de urgencias
 
 * **"Tu respuesta rápida y eficiente en una situación de emergencia salvó vidas. Eres un héroe. Tu capacidad para tomar decisiones rápidas en momentos críticos es asombrosa."**
 
@@ -73,6 +73,8 @@ A diario se pone a prueba a los sistemas de atención médica de todo el mundo. 
 ### Agradecimientos para enfermeras en catástofres
 
 * **"Gracias por ser la primera línea de defensa. Eres un verdadero héroe. Tu resistencia y fuerza son una inspiración para todos nosotros."**
+
+----
 
 ## Mensajes de agradecimiento para equipos médicos
 
@@ -102,6 +104,8 @@ Hay momentos en la vida en que un agradecimiento específico es necesario.
 
 * **"Tu generosidad ha hecho posible que muchos niños reciban la atención médica que necesitan. Gracias por tu donación, que ha tenido un impacto directo en la vida de estos niños."**
 
+----
+
 ## Cómo entregar tus mensajes de agradecimiento al personal de salud
 
 ### Entregar un mensaje escrito
@@ -116,8 +120,8 @@ En la era digital, un mensaje de agradecimiento en línea también puede ser muy
 
 Si las circunstancias lo permiten, expresar tu gratitud en persona puede ser la forma más impactante de agradecer. Un simple apretón de manos o un abrazo pueden transmitir más que cualquier palabra.
 
-- - -
+----
 
-Esperamos que esta página te sirva para encontrar la frase de agradecimiento que buscabas para entregar a tu enfermera o a tu doctor favoritos.
+Esperamos que esta página te sirva para [encontrar la frase de agradecimiento que buscabas]({{'reflexiones'|relative_url}}) para entregar a tu enfermera o a tu doctor favoritos.
 
 Si te ha gustado y quieres saber más, no dudes en seguir explorando nuestro sitio web para más contenido relevante.
