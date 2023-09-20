@@ -1,20 +1,17 @@
 ---
 layout: verticales
 vertical: "true"
-boton_url: enlace
 date: 2023-09-20T16:18:33.586Z
 title: Frases y Mensajes de Agradecimiento para Profesionales de la Salud
-description: Encuentra frases de agradecimiento únicas para médicos y
-  enfermeras. ¡Haz clic para mostrar tu gratitud de manera significativa!
+description: Encuentra frases de agradecimiento únicas para médicos y enfermeras. ¡Haz clic para mostrar tu gratitud de manera significativa!
 h1: "Agradecer a médicos y enfermeras: Frases y mensajes únicos que cambian vidas"
 jpg: blog/frases-agradecimiento-medicos.jpg
 webp: blog/frases-agradecimiento-medicos.webp
 alt: Mensajes agradecimiento enfermeras y doctores
 boton: Encuentras tus frases favoritas
-excerpt: La gratitud es más que un simple "gracias". Es un reconocimiento del
-  esfuerzo y la dedicación que los profesionales de la salud ponen en su trabajo
-  cada día.
-permalink: frases-agradecimiento-pesonal-salud
+boton_url: enlace
+excerpt: La gratitud es más que un simple "gracias". Es un reconocimiento del esfuerzo y la dedicación que los profesionales de la salud ponen en su trabajo cada día.
+permalink: frases-agradecimiento-personal-salud
 ---
 En un mundo donde la atención médica es esencial, un simple gesto de agradecimiento puede marcar una gran diferencia.
 
