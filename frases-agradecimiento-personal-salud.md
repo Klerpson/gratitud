@@ -15,13 +15,15 @@ permalink: frases-agradecimiento-personal-salud
 ---
 En un mundo donde la atención médica es esencial, un simple gesto de agradecimiento puede marcar una gran diferencia.
 
-## El impacto emocional de las frases de agradecimiento a médicos y enfermeras
+![{{page.alt}}]({{site.baseurl}}/img/{{page.webp}} "Agradecimiento enfermeros y doctores"){:width="320" height="320" loading="lazy"}
+
+## Impacta emocionalmente con frases de agradecimiento a médicos y enfermeras
 
 Los profesionales de la salud a menudo trabajan en condiciones estresantes y emocionalmente agotadoras. *Un simple gesto de agradecimiento puede tener un impacto emocional significativo en ellos*.
 
 La **gratitud** puede actuar como un antídoto para el agotamiento y el estrés que a menudo experimentan. Puede mejorar su bienestar emocional, lo que a su vez puede llevar a una mejor atención al paciente.
 
-### La importancia del reconocimiento en el ámbito hospitalario
+### También debes agradecer la labor de doctores y enfermeros colegas
 
 Un ambiente donde se valora y se reconoce el buen trabajo conduce a una atención al paciente de mayor calidad.
 
@@ -29,7 +31,7 @@ Además, el reconocimiento puede actuar como un motivador para que otros emplead
 
 > El reconocimiento no solo beneficia al individuo sino que también crea una **cultura positiva** en el entorno hospitalario.
 
-## Frases de agradecimiento para los médicos
+## Comparte estas frases de agradecimiento para los médicos
 
 Las palabras tienen poder, y una frase bien elegida puede expresar exactamente lo que sientes. Aquí te presento algunas frases que podrían ser de utilidad.
 {:id="frases"}
@@ -62,7 +64,7 @@ Las enfermeras son a menudo los héroes no reconocidos en el ámbito de la atenc
 
 * **"Tu respuesta rápida y eficiente en una situación de emergencia salvó vidas. Eres un héroe. Tu capacidad para tomar decisiones rápidas en momentos críticos es asombrosa."**
 
-## Palabras de agradecimiento para personal de salud
+## Más palabras de agradecimiento para personal de salud en situaciones extremas
 
 A diario se pone a prueba a los sistemas de atención médica de todo el mundo. Aquí hay algunas formas de mostrar tu agradecimiento.
 
@@ -76,7 +78,7 @@ A diario se pone a prueba a los sistemas de atención médica de todo el mundo. 
 
 ----
 
-## Mensajes de agradecimiento para equipos médicos
+## Mensajes de agradecimiento para equipos médicos completos
 
 A veces, el agradecimiento va más allá de un individuo y se extiende a todo un equipo.
 
@@ -88,7 +90,9 @@ A veces, el agradecimiento va más allá de un individuo y se extiende a todo un
 
 * **"La eficiencia y la coordinación de todo el equipo de urgencias fueron excepcionales. Gracias por su servicio. En un momento en que cada segundo cuenta, ustedes actuaron con rapidez y eficacia."**
 
-## Agradecimientos específicos para situaciones particulares
+-----
+
+## Agradecimientos específicos para personal del hospital en situaciones particulares
 
 Hay momentos en la vida en que un agradecimiento específico es necesario.
 
@@ -106,7 +110,7 @@ Hay momentos en la vida en que un agradecimiento específico es necesario.
 
 ----
 
-## Cómo entregar tus mensajes de agradecimiento al personal de salud
+## Cómo puedes entregar tus mensajes de agradecimiento a enfermeras y doctores
 
 ### Entregar un mensaje escrito
 
