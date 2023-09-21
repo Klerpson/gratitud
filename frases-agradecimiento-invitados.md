@@ -17,12 +17,15 @@ excerpt: Un buen agradecimiento no solo es cortesía, sino que también crea
 permalink: frases-agradecimientos-invitados
 ---
 ## Agradecer a Tus Invitados:La Psicología Detrás del Agradecimiento
+
 ![{{page.alt}}]({{site.baseurl}}/img/{{page.webp}} "{{page.alt}}"){:width="320" height="320" loading="lazy"}
+
 Agradecer activa el **circuito de recompensa** en nuestro cerebro. Es más que palabras; es una forma de mostrar respeto y aprecio.
 
-¿﻿Ahora imaginas **el efecto que puede tener agradecer a los invitados**, que además, ya disfrutaron de un buen acontecimiento?
+¿Ahora imaginas **el efecto que puede tener agradecer a los invitados**, que además, ya disfrutaron de un buen acontecimiento?
+{id="frases"}
 
--﻿---
+----
 
 ## Tipos de Eventos y Cómo Agradecer en Cada Uno
 
@@ -42,7 +45,7 @@ Un simple **"Gracias por considerarme para esta reunión"** puede ser muy podero
 
 **"Tu presencia hizo la diferencia"** es una frase que resuena en cualquier evento social. Es cortica, pero es un tiro directo al corazón de quien se siente valorado.
 
--﻿---
+----
 
 ## Palabras de Agradecimiento: El Arte de Decirlo Bien
 
@@ -58,7 +61,7 @@ Aquí es donde puedes ser creativo. Desde un **"Eres la vida de la fiesta"** has
 
 **"Tu presencia fue el mejor regalo"** es una frase que no solo agradece sino que también valora al invitado.
 
--﻿---
+----
 
 ## Frases de Agradecimiento por Invitación: ¿Cómo Responder?
 
@@ -78,9 +81,9 @@ Evita clichés como "Gracias por venir" sin añadir algo más personalizado. Rec
 
 ### Cómo No Sonar Falso al Agradecer
 
-La clave está en ser genuino. Si vas a agradecer, que sea de corazón. No utilices métodos o palabras que solo quieren dejar una buena impresión. Haz que el agradecimiento expresado sea un reflejo de un sentimiento sincero, así sea con palabras muy sencillas.
+La clave está en ser genuino. Si vas a agradecer, que sea de corazón. No utilices métodos o palabras que solo quieren dejar una buena impresión.
 
--﻿---
+>Haz que el agradecimiento expresado sea un reflejo de un sentimiento sincero, así sea con palabras muy sencillas.
 
 ## Ejemplos Prácticos de Agradecimiento
 
@@ -98,7 +101,9 @@ El mejor momento para agradecer es justo cuando sientes la gratitud. No esperes 
 ### ¿Es Necesario Dar un Regalo Como Agradecimiento?
 
 Un regalo es opcional, pero un agradecimiento genuino es obligatorio. Así que si decides utilizar un regalo, este también debe ser parte de un detalle honesto.
--﻿---
-T﻿odo lo que hagas por compartir frases de agradecimiento por la compañía de tus invitados, será un gesto que hará más memorable tu evento especial.
 
-S﻿igue practicando la gratitud con todo lo que podemos ofrecerte en nuestro sitio web. ¡Te invitamos a ver más palabras para agradecer a quienes amas y te acompañan!
+----
+
+Todo lo que hagas por compartir frases de agradecimiento por la compañía de tus invitados, será un gesto que hará más memorable tu evento especial.
+
+Sigue practicando la gratitud con todo lo que podemos ofrecerte en nuestro sitio web. ¡Te invitamos a ver más palabras para agradecer a quienes amas y te acompañan!

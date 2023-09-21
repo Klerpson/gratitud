@@ -50,6 +50,7 @@ No tiene que ser algo caro. Un dibujo, una planta o incluso una simple taza de c
 ### Reconocimiento público
 
 Agradecer a tu profesor frente a tus compañeros o en un evento escolar puede ser una forma poderosa de reconocimiento. **Este acto no solo valida su duro trabajo sino que también puede inspirar a otros a mostrar su gratitud.**
+{id="frases"}
 
 ## Consejos prácticos para expresar gratitud
 
@@ -57,9 +58,7 @@ Agradecer a tu profesor frente a tus compañeros o en un evento escolar puede se
 - **Sé sincero**: La autenticidad siempre brilla.
 - **No esperes**: No dejes el agradecimiento para el último día del semestre; hazlo cuando sientas que es el momento adecuado.
 - **Revisa y corrige**: Antes de entregar tu mensaje, asegúrate de que esté bien escrito. Un mensaje descuidado podría desviar la atención del contenido emocional.
-
-Genial, sigamos con la siguiente sección: "Frases de agradecimiento para diferentes ocasiones".
-{:id="frases" class="seccion"}
+{:class="seccion"}
 
 ## Frases de agradecimiento para profesores de preescolar
 
