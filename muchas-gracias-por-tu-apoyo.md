@@ -16,7 +16,7 @@ excerpt: "¿Listo para un cambio radical? Descubre cómo la gratitud puede ser t
 
 ![{{page.alt}}]({{site.baseurl}}/img/{{page.webp}} "Palabras de agradecimiento amigos"){:width="320" height="320" loading="lazy"}
 
-### "Tu Pequeño Acto, Un Gran Cambio"
+### "Tu pequeño acto, un gran cambio"
 
 Imagina a **Sara, una mujer que ha pasado por momentos difíciles en su vida**. Un día, descubre DiarioGratitud.com y comienza a leer sobre el poder de la gratitud:
 
