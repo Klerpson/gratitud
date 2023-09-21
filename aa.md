@@ -43,7 +43,7 @@ Agradéceles de manera que *refleje el impacto que han tenido en tu vida*. Puede
 Los amigos son la familia que elegimos. Han estado contigo en las buenas y en las malas, y la graduación es el momento perfecto para celebrar esa amistad.
 
 **Haz que tu agradecimiento de graduación sea memorable** al compartir anécdotas o momentos que solo ustedes entienden.
-
+{﻿:id="frases"}
 - - -
 
 ## Frases de agradecimiento listas para usar el día de tu grado
