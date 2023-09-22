@@ -1,7 +1,7 @@
 ---
 layout: post
 json-post: "true"
-date: 2023-09-16T02:21:48.048Z
+date: 2023-09-22T06:21:48.048Z
 title: “Tu presencia añadió alegría a nuestro día especial.”
 description: Frase:“Tu presencia añadió alegría a nuestro día especial.”Aprende
   cómo una simple frase de agradecimiento puede cambiar la dinámica de tu
