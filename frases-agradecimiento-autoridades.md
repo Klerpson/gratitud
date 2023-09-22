@@ -3,18 +3,14 @@ layout: verticales
 vertical: "true"
 boton_url: enlace
 date: 2023-09-22T02:57:27.472Z
-title: "Agradecer a Autoridades: Frases para Bomberos y hasta Soldados"
-description: Desde bomberos hasta soldados 🪖, aprende cómo agradecer a las
-  autoridades que hacen la diferencia. 🚒 ¡Haz clic ahora!
+title: "Agradecer a Autoridades: Frases para Bomberos y más"
+description: Desde bomberos hasta soldados 🪖, aprende cómo agradecer a las autoridades que hacen la diferencia. 🚒 ¡Haz clic ahora!
 h1: "Agradecer con frases: Honra a autoridades como bomberos, soldados, y más"
 jpg: blog/palabras-gratitud-autoridades.jpg
 webp: blog/palabras-gratitud-autoridades.webp
 alt: Gratitud autoridades
 boton: Mira más frases
-excerpt: Si alguna vez te has preguntado cómo agradecer a las autoridades de una
-  manera que deje huella, estás en el lugar correcto. Aquí encontrarás una guía
-  completa para expresar tu gratitud de forma impactante y memorable. Sigue
-  leyendo y descubre cómo hacerlo.
+excerpt: Si alguna vez te has preguntado cómo agradecer a las autoridades de una manera que deje huella, estás en el lugar correcto. Aquí encontrarás una guía completa para expresar tu gratitud de forma impactante y memorable. Sigue leyendo y descubre cómo hacerlo.
 permalink: frases-agradecimiento-autoridades
 ---
 ## ¿Por qué es importante agradecer a las autoridades?
