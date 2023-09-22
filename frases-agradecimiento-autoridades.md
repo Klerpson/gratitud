@@ -24,22 +24,7 @@ Un agradecimiento bien hecho es una forma de **reconocimiento mutuo**. No solo e
 ### Crea una impresión duradera
 
 Un buen agradecimiento puede **marcar la diferencia** entre ser recordado o pasar desapercibido. Es una oportunidad para dejar una **impresión duradera**.
-
-## Elementos clave para un agradecimiento efectivo
-
-Para que tu agradecimiento sea efectivo, hay ciertos **elementos clave** que debes tener en cuenta.
-
-### Sinceridad
-
-La **sinceridad** es crucial. Un agradecimiento que no viene del corazón se nota a kilómetros de distancia.
-
-### Claridad y concisión
-
-Sé claro y conciso. No es necesario un discurso largo; a veces, unas pocas palabras bien elegidas son suficientes.
-
-### Temporalidad
-
-El **momento adecuado** es crucial. No dejes pasar demasiado tiempo antes de expresar tu agradecimiento.
+{:id="frases"}
 
 ## Ejemplos prácticos de agradecimientos a autoridades
 
@@ -48,10 +33,11 @@ Aquí te dejo algunos ejemplos que puedes usar como inspiración o adaptar a tu 
 1. **Agradecimiento a un profesor**: "Gracias por su dedicación y por inspirarme a ser mejor cada día."
 2. **A un jefe o supervisor**: "Aprecio su liderazgo y la oportunidad de crecer en este equipo."
 3. **A un político o funcionario público**: "Su trabajo ha hecho una diferencia en nuestra comunidad, gracias."
+{:class="seccion"}
 
 Claro, vamos a continuar con el artículo siguiendo la estructura original. Prepárate para un artículo bien jugoso y lleno de valor. 😊
 
-- - -
+----
 
 ## Cómo agradecer a autoridades municipales
 
@@ -165,7 +151,7 @@ Los soldados y veteranos han hecho sacrificios inimaginables. Agradéceles por s
 
 Los voluntarios y activistas mejoran la comunidad sin buscar recompensas. Un "Gracias por hacer la diferencia" es una excelente forma de reconocer su trabajo.
 
-- - -
+----
 
 ## Agradecimiento en eventos oficiales
 
@@ -199,7 +185,23 @@ Días como el Día del Policía o el Día del Maestro son oportunidades perfecta
 
 En situaciones de emergencia, un simple "Gracias" a los primeros en responder puede significar mucho.
 
-- - -
+----
+
+## Elementos clave para un agradecimiento efectivo
+
+Para que tu agradecimiento sea efectivo, hay ciertos **elementos clave** que debes tener en cuenta.
+
+### Sinceridad
+
+La **sinceridad** es crucial. Un agradecimiento que no viene del corazón se nota a kilómetros de distancia.
+
+### Claridad y concisión
+
+Sé claro y conciso. No es necesario un discurso largo; a veces, unas pocas palabras bien elegidas son suficientes.
+
+### Temporalidad
+
+El **momento adecuado** es crucial. No dejes pasar demasiado tiempo antes de expresar tu agradecimiento.
 
 ## Sigue dando frases de agradecimiento a las autoridades y a todos los que te ayudan
 
