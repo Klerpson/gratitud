@@ -22,7 +22,7 @@ permalink: frases-agradecimiento-graduacion
 
 Desde el punto de vista de quienes te han ayudado, expresar tu gratitud puede tener un impacto positivo tanto en ti como en quien recibe tus frases de agradecimiento.
 
-> N﻿o olvides que la gratitud mejora nuestro bienestar emocional y fortalece las relaciones sociales
+> No olvides que la gratitud mejora nuestro bienestar emocional y fortalece las relaciones sociales
 
 ## Palabras de agradecimiento: a quién y cómo agradecer en tu graduación
 
@@ -43,7 +43,8 @@ Agradéceles de manera que *refleje el impacto que han tenido en tu vida*. Puede
 Los amigos son la familia que elegimos. Han estado contigo en las buenas y en las malas, y la graduación es el momento perfecto para celebrar esa amistad.
 
 **Haz que tu agradecimiento de graduación sea memorable** al compartir anécdotas o momentos que solo ustedes entienden.
-{﻿:id="frases"}
+{:id="frases"}
+
 - - -
 
 ## Frases de agradecimiento listas para usar el día de tu grado
@@ -91,7 +92,7 @@ Si tus padres te han apoyado financieramente, este es el momento de reconocerlo.
 
 **Sé específico y sincero** en tu agradecimiento, ya que este es un tema delicado pero importante.
 
-### Agradecimiento a los hermanos: los héroes olvidados
+### Agradecimiento a los hermanos: los héroes olvidados de tu logro académico
 
 Los hermanos a menudo quedan en segundo plano, pero su apoyo es invaluable. Dedica un momento para regalarles palabras de agradecimiento por su amor incondicional y apoyo constante que te llevó en parte a tu graduación.
 
@@ -122,7 +123,7 @@ Puedes incluir clips de personas importantes en tu vida académica. Pídele a lo
 
 ### Cómo redactar un agradecimiento impactante en tu proyecto de grado
 
-Si estás presentando un proyecto de grado o una tesis, [el agradecimiento es una sección](https://trabajoescrito.com/agradecimientos-trabajo-escrito) que no debes pasar por alto.
+Si estás presentando un proyecto de grado o una tesis, [el agradecimiento es una sección]({{'agradecimientos-trabajo-escrito'|relative_url}} "Agradecimientos en un trabajo escrito") que no debes pasar por alto.
 
 **Sé específico sobre las contribuciones de cada persona** y cómo han impactado en tu proyecto.
 
@@ -176,10 +177,8 @@ Terminar un año escolar es un logro que merece ser celebrado.
 * "A mis maestros, su influencia va más allá del aula."
 * "A mis amigos, gracias por hacer de este año escolar una experiencia inolvidable."
 
-# Utiliza nuestras frases de agradecimiento en tu graduación
+## Utiliza nuestras frases de agradecimiento en tu graduación
 
-Deseamos sinceramente haberte ayudado con las frases que buscabas para el día de tu graduación. No dudes en explorar más contenido relevante en nuestro sitio web.
+Deseamos sinceramente haberte ayudado con las frases que buscabas para el día de tu graduación. No dudes en [explorar más contenido relevante en nuestro sitio web]({{'reflexiones'|relative_url}}).
 
-H﻿az clic en más categorías y aprovecha nuestra gran variedad de frases y palabras de agradecimiento. Y recuerda que en nuestra página inicio, todos los días encontrarás una frase nueva para meditar y poner en práctica en tu día a día.
-
- este artículo te ha ayudado a encontrar las palabras perfectas para tu agradecimiento de graduación, no dudes en explorar más contenido relevante en nuestro sitio web.
+Haz clic en más categorías y aprovecha nuestra gran variedad de frases y palabras de agradecimiento. [Y recuerda que en nuestra página inicio](/), todos los días encontrarás una frase nueva para meditar y poner en práctica en tu día a día.
