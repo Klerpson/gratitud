@@ -35,8 +35,6 @@ Aquí te dejo algunos ejemplos que puedes usar como inspiración o adaptar a tu 
 3. **A un político o funcionario público**: "Su trabajo ha hecho una diferencia en nuestra comunidad, gracias."
 {:class="seccion"}
 
-Claro, vamos a continuar con el artículo siguiendo la estructura original. Prepárate para un artículo bien jugoso y lleno de valor. 😊
-
 ----
 
 ## Cómo agradecer a autoridades municipales
