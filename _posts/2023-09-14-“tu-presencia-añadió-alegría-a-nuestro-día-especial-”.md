@@ -10,7 +10,7 @@ h1: “Tu presencia añadió alegría a nuestro día especial.”
 jpg: blog/tu-presencia-añadió-alegría-día-especial.jpg
 webp: blog/tu-presencia-añadió-alegría-día-especial.webp
 alt: Presencia añade alegría a nuestro día especial
-permalink: frases-agradecimiento-eventos/presencia/añadió/alegría/nuestro/día/especial
+permalink: frases-agradecimiento-eventos/presencia-anadio-alegria-nuestro-dia-especial
 ---
 # “Tu presencia añadió alegría a nuestro día especial.”
 
