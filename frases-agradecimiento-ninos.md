@@ -3,16 +3,14 @@ layout: verticales
 vertical: "true"
 boton_url: enlace
 date: 2023-09-22T03:43:05.805Z
-title: "Frases y Palabras de Agradecimiento para Niños: ¡Educa con Amor!"
-description: 👨‍👩‍👧‍👦 Aprende a enseñar gratitud a tus niños con frases y
-  palabras que marcan la diferencia. ¡Haz clic!
+title: "Frases de Agradecimiento para Niños: ¡Educa con Amor!"
+description: 👨‍👩‍👧‍👦 Aprende a enseñar gratitud a tus niños con frases y palabras que marcan la diferencia. ¡Haz clic!
 h1: "Enseñando gratitud a los pequeños: Cómo criar niños agradecidos y felices"
 jpg: blog/gratitud-ninos.jpg
 webp: blog/gratitud-ninos.webp
 alt: Gratitud para niños
 boton: Frases para niños
-excerpt: ¿Quieres que tus niños sean agradecidos? ¡Aquí te decimos cómo!
-  Descubre cómo enseñarles a ser agradecidos. ¡No te lo pierdas!
+excerpt: ¿Quieres que tus niños sean agradecidos? ¡Aquí te decimos cómo! Descubre cómo enseñarles a ser agradecidos. ¡No te lo pierdas!
 permalink: frases-agradecimiento-ninos
 ---
 ## ¿Por qué es importante enseñar gratitud a los niños?
@@ -24,7 +22,6 @@ Aprender a agradecer desde pequeños les ayuda a desarrollar una actitud positiv
 ### El impacto emocional de ser agradecido
 
 * **Beneficios emocionales**
-
   * Mejora el estado de ánimo
   * Reduce el estrés
   * Aumenta la autoestima
@@ -135,10 +132,6 @@ La gratitud es una forma de mostrar respeto hacia los demás, y este respeto es 
 
 ### Recursos adicionales para seguir aprendiendo
 
-Si te ha gustado este artículo y quieres seguir aprendiendo sobre cómo fomentar la gratitud en los niños, te invitamos a explorar más recursos en nuestra página web.
+Si te ha gustado este artículo y quieres seguir aprendiendo sobre cómo fomentar la gratitud en los niños, [te invitamos a explorar más recursos en nuestra página web]({{'reflexiones'|relative_url}}).
 
-### Invitación a compartir tus propias experiencias
-
-¿Tienes alguna historia o técnica que quieras compartir? Nos encantaría escucharla. Deja tus comentarios y sé parte de nuestra comunidad de padres y educadores comprometidos con criar niños agradecidos y felices.
-
-Claro, aquí te dejo una versión mejorada del artículo con cuadros y listas para hacerlo más interactivo y fácil de leer.
+Y no olvides que cada día te [dejamos una frase de agradecimiento en nuestra página de inicio.](/)
