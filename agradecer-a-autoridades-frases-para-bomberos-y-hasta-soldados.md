@@ -127,31 +127,15 @@ Un "Gracias por mantenernos seguros" es una forma simple pero poderosa de agrade
 2. "Gracias por su rápida respuesta en momentos críticos."
 3. "Aprecio su profesionalismo y dedicación al servicio."
 
+### Agradecimiento a la Guardia Civil
+
+La Guardia Civil también juega un papel crucial en la seguridad. Un agradecimiento podría ser: "Gracias por su valentía y dedicación."
+
 ### Ejemplos de frases para agradecer a la Guardia Civil
 
 1. "Su valentía es un ejemplo para todos nosotros."
 2. "Gracias por mantener el orden durante eventos públicos."
 3. "Aprecio su constante vigilancia y protección."
-
-## Agradecimiento a héroes de la comunidad
-
-### Ejemplos de frases para agradecer a bomberos
-
-1. "Su valentía salvó vidas, gracias."
-2. "Aprecio su rápida acción en situaciones de emergencia."
-3. "Gracias por su sacrificio y dedicación."
-
-### Ejemplos de frases para agradecer a soldados y veteranos
-
-1. "Su servicio al país es inigualable, gracias."
-2. "Aprecio su valentía y sacrificio."
-3. "Gracias por proteger nuestra libertad."
-
-- - -
-
-### Agradecimiento a la Guardia Civil
-
-La Guardia Civil también juega un papel crucial en la seguridad. Un agradecimiento podría ser: "Gracias por su valentía y dedicación."
 
 ### Cómo agradecer al ejército y fuerzas armadas
 
@@ -165,13 +149,27 @@ Los héroes de la comunidad son aquellos que hacen un esfuerzo adicional para me
 
 Los bomberos arriesgan sus vidas para mantenernos seguros. Un "Gracias por su valentía" es siempre bien recibido.
 
+### Ejemplos de frases para agradecer a bomberos
+
+1. "Su valentía salvó vidas, gracias."
+2. "Aprecio su rápida acción en situaciones de emergencia."
+3. "Gracias por su sacrificio y dedicación."
+
 ### Agradecimiento a soldados y veteranos
 
 Los soldados y veteranos han hecho sacrificios inimaginables. Agradéceles por su servicio y valentía.
 
+### Ejemplos de frases para agradecer a soldados y veteranos
+
+1. "Su servicio al país es inigualable, gracias."
+2. "Aprecio su valentía y sacrificio."
+3. "Gracias por proteger nuestra libertad."
+
 ### Cómo agradecer a voluntarios y activistas
 
 Los voluntarios y activistas mejoran la comunidad sin buscar recompensas. Un "Gracias por hacer la diferencia" es una excelente forma de reconocer su trabajo.
+
+- - -
 
 ## Agradecimiento en eventos oficiales
 
@@ -205,14 +203,10 @@ Días como el Día del Policía o el Día del Maestro son oportunidades perfecta
 
 En situaciones de emergencia, un simple "Gracias" a los primeros en responder puede significar mucho.
 
-## Conclusión y llamada a la acción
-
-Ahora que tienes todas las herramientas y ejemplos que necesitas para agradecer como un pro, es hora de poner estos consejos en práctica. Si quieres seguir aprendiendo y mejorando, no dudes en explorar más artículos en nuestro sitio web.
-
 - - -
 
-Espero que este artículo completo te sea de gran utilidad. ¿Qué te parece? ¿Hay algo más en lo que pueda ayudarte? 😊
+## Sigue dando frases de agradecimiento a las autoridades y a todos los que te ayudan
 
-## Conclusión y llamada a la acción
+Ahora que tienes las herramientas necesarias para agradecer a las autoridades de manera efectiva, es hora de ponerlo en práctica.
 
-Ahora que tienes las herramientas necesarias para agradecer a las autoridades de manera efectiva, es hora de ponerlo en práctica. No subestimes el poder de un buen agradecimiento. Si quieres aprender más sobre cómo mejorar tus habilidades de comunicación, sigue navegando por nuestro sitio web.
+No subestimes el poder de un buen agradecimiento. Si quieres aprender más sobre cómo mejorar tus habilidades de comunicación, [sigue navegando por nuestro sitio web.](/)
