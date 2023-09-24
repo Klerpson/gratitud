@@ -3,21 +3,19 @@ layout: verticales
 vertical: "true"
 boton_url: enlace
 date: 2023-09-24T20:23:59.011Z
-title: Frases de Agradecimiento para Novios 💖 De lo Cotidiano al Futuro
-description: Buscas la frase perfecta para agradecer a tu novio o novia? 🌹
-  Encuentra aquí frases y consejos únicos. ¡Haz clic y reafirma tu relación
-  ahora!
+title: Frases de Agradecimiento para Novios 💖 Fortalece el amor
+description: Buscas la frase perfecta para agradecer a tu novio o novia? 🌹 Encuentra aquí frases y consejos únicos. ¡Haz clic y reafirma tu relación ahora!
 h1: "Cómo expresar agradecimiento entre novios: Frases y mensajes que enamoran"
 jpg: blog/frases-gratitud-novios.jpg
 webp: blog/frases-gratitud-novios.webp
 alt: Novios agredeciendo con frases
 boton: Frases para enamorar
-excerpt: ¿Sabes por qué agradecer a tu pareja es vital en una relación entre
-  novios?  El agradecimiento es más que una cortesía, es un pilar en cualquier
-  **relación amorosa**.
+excerpt: ¿Sabes por qué agradecer a tu pareja es vital en una relación entre novios?  El agradecimiento es más que una cortesía, es un pilar en cualquier **relación amorosa**.
 permalink: frases-agradecimientos-novios
 ---
 ## Las frases de agradecimiento que enamoran más a los novios
+
+![{{page.alt}}]({{site.baseurl}}/img/{{page.webp}} "Agradecimiento enfermeros y doctores"){:width="320" height="320" loading="lazy"}
 
 Seguramente te han enseñado que agradecer es buena educación. Pero no podemos olvidar que es la mejor forma de *reconocer el valor que la otra persona tiene en tu vida*.
 
@@ -26,7 +24,7 @@ Cuando agradeces, estás diciendo: **"Valoro lo que haces por mí"**.
 ## El poder de las palabras: Frases que llegan al corazón de tu novio o novia
 
 Si eres de los que prefiere expresarse con palabras, aquí tienes algunas frases que pueden ayudarte:
-{﻿:id="frases"}
+{:id="frases"}
 
 ### Frases de agradecimiento por el apoyo emocional entre novios
 
@@ -36,6 +34,8 @@ Si eres de los que prefiere expresarse con palabras, aquí tienes algunas frases
 ### Palabras que resaltan a tu novio la importancia de los detalles
 
 * "**Esos pequeños detalles que tienes conmigo no pasan desapercibidos. Gracias por hacerme sentir especial**."
+
+----
 
 ## Agradecer a tu novio en los momentos difíciles
 
@@ -65,6 +65,8 @@ Las fechas especiales son una oportunidad perfecta para expresar tu gratitud:
 * "**Gracias por otro año increíble juntos**."
 * "**Cada día a tu lado es un día que vale la pena celebrar**."
 
+----
+
 ## Agradecimiento en la vida de novios: No esperes a una ocasión especial
 
 A veces, los momentos más comunes son los más significativos. Aquí te mostramos cómo agradecer en el día a día:
@@ -92,6 +94,8 @@ Si decides ir por la ruta digital, aquí tienes algunas frases que pueden hacer 
 
 * "**En un mundo lleno de instantáneas, tú eres mi cuadro perfecto. Gracias por ser tú**."
 
+----
+
 ## Agradecimiento y el futuro de la pareja de novios
 
 El agradecimiento no es un acto único, sino un hábito que puede ayudar a mantener viva la llama del amor.
@@ -117,6 +121,8 @@ Desde dejar una nota en el espejo hasta preparar el café como a tu pareja le gu
 
 Una cena sorpresa o un regalo sin motivo aparente pueden ser maneras emocionantes de mostrar tu agradecimiento. 
 
+----
+
 ## Cómo el agradecimiento fortalece los lazos emocionales entre novios
 
 Decir "gracias" puede parecer simple, pero tiene el poder de fortalecer la conexión emocional. Agradecer es también una forma de **validación emocional**, que puede hacer que tu pareja se sienta valorada y amada.
@@ -127,4 +133,4 @@ Si te ha gustado este artículo y quieres más consejos sobre cómo mantener una
 
 Espero que este artículo te haya dado las herramientas que necesitas para agradecer a tu pareja de una manera significativa. Ahora, ¿qué esperas para poner en práctica estos consejos?
 
-Haz clic para descubrir más formas de fortalecer tu relación amorosa.
+Haz clic para descubrir [más formas de fortalecer tu relación amorosa](/).
