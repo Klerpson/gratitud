@@ -13,44 +13,15 @@ boton: Frases para niños
 excerpt: ¿Quieres que tus niños sean agradecidos? ¡Aquí te decimos cómo! Descubre cómo enseñarles a ser agradecidos. ¡No te lo pierdas!
 permalink: frases-agradecimiento-ninos
 ---
-## ¿Por qué es importante enseñar gratitud a los niños?
-
-Ser agradecido no es solo un acto de cortesía, es una habilidad emocional que puede mejorar la calidad de vida de los niños.
-
-Aprender a agradecer desde pequeños les ayuda a desarrollar una actitud positiva ante la vida. Así que este es un aspecto necesario en su educación.
-
-### El impacto emocional de ser agradecido
-
-* **Beneficios emocionales**
-  * Mejora el estado de ánimo
-  * Reduce el estrés
-  * Aumenta la autoestima
-
-### Cómo la gratitud mejora la inteligencia emocional
-
-La gratitud está directamente relacionada con la inteligencia emocional. Cuando los niños aprenden a ser agradecidos, también aprenden a manejar sus emociones, a ser más empáticos y a mejorar sus habilidades sociales.
-
-> **Consejo rápido:** Fomentar la gratitud desde temprana edad puede ser una excelente manera de mejorar la inteligencia emocional de los niños.
-
-### La gratitud como antídoto al estrés
-
-En un mundo lleno de presiones, la gratitud actúa como un antídoto natural contra el estrés y la ansiedad. Enseñar a los niños a ser agradecidos les da una herramienta poderosa para enfrentar los desafíos emocionales.
-
-* **Herramientas contra el estrés**
-
-  * Respiración consciente
-  * Pensamiento positivo
-  * Expresión verbal del agradecimiento
-
 ## La ciencia detrás de la gratitud en la infancia
 
-### Estudios que respaldan la importancia de la gratitud
+### Estudios que respaldan la importancia de la gratitud en los niños
 
-Varios estudios han demostrado que la gratitud tiene un impacto positivo en el bienestar emocional y físico. No es solo una cuestión de buenos modales, es ciencia.
+![{{page.alt}}]({{site.baseurl}}/img/{{page.webp}} "{{page.alt}}"){:width="320" height="320" loading="lazy"}
 
-### Cómo el cerebro procesa el agradecimiento
+Varios estudios han demostrado que *la gratitud tiene un impacto positivo en el bienestar emocional y físico de los niños.* No es solo una cuestión de buenos modales, es ciencia.
 
-El cerebro libera dopamina cuando experimentamos gratitud. Esta "hormona de la felicidad" no solo nos hace sentir bien, sino que también mejora nuestra salud mental a largo plazo.
+El cerebro de los más chicos libera dopamina cuando experimentamos gratitud. Esta "hormona de la felicidad" no solo nos hace sentir bien, sino que también mejora nuestra salud mental a largo plazo.
 
 > **Dato curioso:** El cerebro libera dopamina, la "hormona de la felicidad", cuando experimentamos gratitud.
 
@@ -60,59 +31,80 @@ El cerebro libera dopamina cuando experimentamos gratitud. Esta "hormona de la f
 
 Una forma efectiva de enseñar gratitud es mediante un diario donde los niños puedan escribir cosas por las que están agradecidos. Esto les ayuda a ser conscientes de las cosas buenas en su vida.
 
-### Juegos y actividades para aprender a agradecer
+#### Pasos para crear un diario de gratitud
 
-Desde juegos de mesa hasta actividades al aire libre, hay muchas formas creativas de enseñar a los niños a ser agradecidos mientras se divierten.
+  1. Escoge un cuaderno bonito
+  2. Establece un horario para escribir
+  3. Haz que sea una actividad familiar
+{:id="frases"}
 
-- - -
+----
 
-## Frases de agradecimiento para niños
+## Utiliza nuestras frases de agradecimiento para niños
 
 ### Frases cortas y efectivas
 
-"Gracias por ayudarme", "Te agradezco por estar aquí", "Gracias por tu amor". Estas son frases simples pero poderosas que los niños pueden usar en su vida diaria para expresar gratitud.
+**"Gracias por ayudarme"**, **"Te agradezco por estar aquí"**, **"Gracias por tu amor"**, **"Gracias por ser mi amigo"**, **"Te agradezco por compartir"**, **"Gracias por escucharme"**. Estas son frases simples pero poderosas que los niños pueden usar en su vida diaria para expresar gratitud.
 
 ### Cómo usar las frases en el día a día
 
+Estas frases son perfectas para situaciones cotidianas: en el recreo, durante las comidas familiares o incluso en mensajes de texto. Son una forma rápida y efectiva de mostrar gratitud.
+
 Incorporar estas frases en la rutina diaria es más fácil de lo que parece. Puede ser durante la cena, antes de dormir o en cualquier momento que se presente la oportunidad de agradecer.
+
+### Frases de Agradecimiento para Niños que se Portan Bien o Hacen Favores
+
+1. **"Gracias por escuchar y seguir las instrucciones, eres un campeón."**
+2. **"Te agradezco por hacer tu tarea sin que te lo pida, eso muestra responsabilidad."**
+3. **"Gracias por compartir tus juguetes con tu hermano, eso es muy amable de tu parte."**
+4. **"Te agradezco por ayudarme a recoger la mesa, me has ahorrado tiempo."**
+5. **"Gracias por ser tan paciente mientras terminábamos de hablar, eso es muy maduro de tu parte."**
+{:class="seccion"}
+
+### Frases de Agradecimiento para Niños que son Colaboradores con la Familia
+
+1. **"Gracias por ayudar a tu hermana con su tarea, eso demuestra que eres un buen hermano."**
+2. **"Te agradezco por poner la mesa sin que nadie te lo pida, haces que todo sea más fácil para todos."**
+3. **"Gracias por cuidar de la mascota, se nota que te importa su bienestar."**
+4. **"Te agradezco por siempre estar dispuesto a ayudar en las tareas del hogar, eso nos ayuda mucho."**
+5. **"Gracias por ser tan considerado y preguntar cómo estuvo nuestro día, eso nos hace sentir muy queridos."**
+{:class="seccion"}
+
+Estas frases son una excelente manera de reforzar el comportamiento positivo y la colaboración en los niños. ¿Qué te parece? ¿Listo para implementarlas en tu día a día?
 
 ## Palabras de agradecimiento de un niño
 
-### Testimonios reales de niños agradecidos
-
-"Gracias, mamá, por cuidarme cuando estoy enfermo", "Gracias, profesor, por enseñarme cosas nuevas". Estos son ejemplos de cómo las palabras de agradecimiento de un niño pueden tener un impacto emocional en los adultos.
-
-### Cómo estas palabras impactan en los adultos
+"**Gracias, mamá, por cuidarme cuando estoy enfermo**", "**Gracias, profesor, por enseñarme cosas nuevas**". Estos son ejemplos de cómo las palabras de agradecimiento de un niño pueden tener un impacto emocional en los adultos.
 
 Cuando un niño muestra gratitud, no solo mejora su bienestar, sino que también afecta positivamente a los adultos a su alrededor. Es un ciclo virtuoso de emociones positivas.
 
-## Agradecimiento en la escuela
+----
 
-### La importancia del agradecimiento en el ámbito escolar
+## ¿Por qué es importante enseñar la gratitud a los niños?
 
-La escuela es un excelente lugar para practicar la gratitud. Agradecer a los maestros, compañeros y personal escolar crea un ambiente más positivo y colaborativo.
+Ser agradecido no es solo un acto de cortesía, es una habilidad emocional que puede mejorar la calidad de vida de los niños.
 
-### Actividades de agradecimiento para el aula
+Aprender a agradecer desde pequeños les ayuda a desarrollar una actitud positiva ante la vida. Así que este es un aspecto necesario en su educación.
 
-Desde escribir cartas de agradecimiento hasta crear murales de gratitud, hay muchas actividades que los maestros pueden implementar en el aula para fomentar este valor.
+* Mejora el estado de ánimo
+* Reduce el estrés
+* Aumenta la autoestima
 
-- - -
+### Cómo la gratitud mejora la inteligencia emocional
 
-## Frases de gratitud cortas para niños
+La gratitud está directamente relacionada con la inteligencia emocional. Cuando los niños aprenden a ser agradecidos, también aprenden a manejar sus emociones, a ser más empáticos y a mejorar sus habilidades sociales.
 
-### Frases que van al grano
+> **Consejo rápido:** Fomentar la gratitud desde temprana edad puede ser una excelente manera de mejorar la inteligencia emocional de los niños.
 
-"Gracias por ser mi amigo", "Te agradezco por compartir", "Gracias por escucharme". Estas son frases de gratitud que son cortas pero significativas, ideales para que los niños las utilicen en su día a día.
+#### La gratitud como antídoto al estrés
 
-### Cuándo y cómo usarlas
+En un mundo lleno de presiones, la gratitud actúa como un antídoto natural contra el estrés y la ansiedad. Enseñar a los niños a ser agradecidos les da una herramienta poderosa para enfrentar los desafíos emocionales.
 
-Estas frases son perfectas para situaciones cotidianas: en el recreo, durante las comidas familiares o incluso en mensajes de texto. Son una forma rápida y efectiva de mostrar gratitud.
+* **Herramientas contra el estrés**
 
-## Refranes y proverbios sobre la gratitud
-
-### Sabiduría popular en frases
-
-"Es de bien nacido ser agradecido". Los refranes y proverbios son una excelente manera de transmitir la importancia de la gratitud de generación en generación.
+  * Respiración consciente
+  * Pensamiento positivo
+  * Expresión verbal del agradecimiento
 
 ### Cómo los refranes enseñan gratitud
 
@@ -128,9 +120,9 @@ Ser agradecido no solo es bueno para uno mismo, sino que también fortalece las 
 
 La gratitud es una forma de mostrar respeto hacia los demás, y este respeto es la base de cualquier relación social saludable.
 
-## Llamada a la acción: Sigue cultivando la gratitud en tu hogar
+----
 
-### Recursos adicionales para seguir aprendiendo
+## Sigue cultivando la gratitud en tu hogar y con tus niños
 
 Si te ha gustado este artículo y quieres seguir aprendiendo sobre cómo fomentar la gratitud en los niños, [te invitamos a explorar más recursos en nuestra página web]({{'reflexiones'|relative_url}}).
 
