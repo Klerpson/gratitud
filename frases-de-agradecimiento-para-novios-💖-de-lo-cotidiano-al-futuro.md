@@ -27,14 +27,15 @@ Cuando agradeces, estás diciendo: **"Valoro lo que haces por mí"**.
 
 Si eres de los que prefiere expresarse con palabras, aquí tienes algunas frases que pueden ayudarte:
 {﻿:id="frases"}
+
 ### Frases de agradecimiento por el apoyo emocional
 
-* "Tu apoyo significa el mundo para mí."
-* "Gracias por estar siempre allí, en los buenos y malos momentos."
+* "**Tu apoyo significa el mundo para mí**."
+* "**Gracias por estar siempre allí, en los buenos y malos momentos**."
 
 ### Palabras que resaltan la importancia de los detalles
 
-* "Esos pequeños detalles que tienes conmigo no pasan desapercibidos. Gracias por hacerme sentir especial."
+* "**Esos pequeños detalles que tienes conmigo no pasan desapercibidos. Gracias por hacerme sentir especial**."
 
 ## Agradecer en los momentos difíciles
 
@@ -46,8 +47,8 @@ En tiempos difíciles, un simple "gracias" puede cambiar la atmósfera y aliviar
 
 ### Frases de agradecimiento para momentos de desafío
 
-* "Gracias por ser mi roca en este momento difícil."
-* "Tu apoyo incondicional me da la fuerza para seguir adelante."
+* "**Gracias por ser mi roca en este momento difícil**."
+* "**Tu apoyo incondicional me da la fuerza para seguir adelante**."
 
 ## Agradecimientos especiales: Aniversarios y fechas importantes
 
@@ -59,8 +60,8 @@ Las fechas especiales son una oportunidad perfecta para expresar tu gratitud:
 
 ### Frases de agradecimiento para fechas especiales
 
-* "Gracias por otro año increíble juntos."
-* "Cada día a tu lado es un día que vale la pena celebrar."
+* "**Gracias por otro año increíble juntos**."
+* "**Cada día a tu lado es un día que vale la pena celebrar**."
 
 ## Agradecimiento en la vida cotidiana: No esperes a una ocasión especial
 
@@ -72,8 +73,8 @@ Un "gracias" al final del día o un "te aprecio" antes de salir de casa pueden h
 
 ### Frases de agradecimiento para el día a día
 
-* "Gracias por hacer que cada día sea mejor."
-* "Tu amor hace que lo ordinario se convierta en extraordinario."
+* "**Gracias por hacer que cada día sea mejor**."
+* "**Tu amor hace que lo ordinario se convierta en extraordinario**."
 
 ## Agradecimiento y redes sociales: ¿Sí o no?
 
@@ -87,7 +88,7 @@ Mientras que algunos ven esto como una forma de compartir su amor con el mundo, 
 
 Si decides ir por la ruta digital, aquí tienes algunas frases que pueden hacer que tu mensaje destaque:
 
-* "En un mundo lleno de instantáneas, tú eres mi cuadro perfecto. Gracias por ser tú."
+* "**En un mundo lleno de instantáneas, tú eres mi cuadro perfecto. Gracias por ser tú**."
 
 ## Agradecimiento y el futuro: Mantener la llama viva
 
@@ -99,8 +100,8 @@ Un agradecimiento constante puede ser la clave para una relación duradera y fel
 
 ### Frases de agradecimiento que miran hacia el futuro
 
-* "Gracias por ser parte de mi futuro."
-* "Con cada 'gracias' que decimos, construimos un mañana más feliz."
+* "**Gracias por ser parte de mi futuro**."
+* "**Con cada 'gracias' que decimos, construimos un mañana más feliz**."
 
 ## Formas creativas de agradecer a tu pareja
 
