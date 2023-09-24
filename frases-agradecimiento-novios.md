@@ -11,7 +11,7 @@ webp: blog/frases-gratitud-novios.webp
 alt: Novios agredeciendo con frases
 boton: Frases para enamorar
 excerpt: ¿Sabes por qué agradecer a tu pareja es vital en una relación entre novios?  El agradecimiento es más que una cortesía, es un pilar en cualquier **relación amorosa**.
-permalink: frases-agradecimientos-novios
+permalink: frases-agradecimiento-novios
 ---
 ## Las frases de agradecimiento que enamoran más a los novios
 
