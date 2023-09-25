@@ -13,9 +13,9 @@ boton: Aplícalo con tu pareja
 boton_url: "cómo-aplicar-esta-frase-en-tu-vida-de-pareja"
 permalink: frases-agradecimiento-dios/gracias-mama-papa-por-siempre-estar-alli
 ---
-## Análisis de la frase
-
 ![{{page.alt}}]({{site.baseurl}}/img/{{page.webp}}){:width="320" height="320" loading="lazy"}
+
+## Análisis de la frase
 
 Esta frase es más que una simple combinación de palabras; es una **declaración de amor** y **gratitud** hacia dos de las personas más importantes en nuestras vidas: nuestros padres.
 

@@ -1,11 +1,6 @@
 [
   
     {
-      "title"    : "“Tu presencia añadió alegría a nuestro día especial.”",
-      "url"      : "/frases-agradecimiento-eventos/presencia-anadio-alegria-nuestro-dia-especial"
-      } ,
-  
-    {
       "title"    : "Frase:&#39;Gracias, mamá y papá, por siempre estar allí para mí&#39;",
       "url"      : "/frases-agradecimiento-dios/gracias-mama-papa-por-siempre-estar-alli"
       } ,
@@ -18,6 +13,11 @@
     {
       "title"    : "Frase: &quot;Gracias por estar siempre a mi lado&quot; | Compártela",
       "url"      : "/frases-agradecimiento-dios/gracias-por-estar-siempre-a-mi-lado-en-buenos-malos-momentos"
+      } ,
+  
+    {
+      "title"    : "“Tu presencia añadió alegría a nuestro día especial.”",
+      "url"      : "/frases-agradecimiento-eventos/presencia-anadio-alegria-nuestro-dia-especial"
       } ,
   
     {
@@ -215,8 +215,8 @@
   
    {
      
-        "title"    : "Agradecimiento a Invitados: De lo Genérico a lo Extraordinario",
-        "url"      : "/frases-agradecimientos-invitados"
+        "title"    : "Frases de Agradecimiento para Invitados ¡Haz que vuelvan!",
+        "url"      : "/frases-agradecimiento-invitados"
      
    } ,
   
@@ -236,7 +236,7 @@
   
    {
      
-        "title"    : "Frases de Agradecimiento para Niños: ¡Educa con Amor!",
+        "title"    : "Frases de Agradecimiento para Novios 💖 Fortalece el amor",
         "url"      : "/frases-agradecimiento-novios"
      
    } ,
@@ -245,6 +245,13 @@
      
         "title"    : "Frases de Agradecimiento: Profesionales de la Salud",
         "url"      : "/frases-agradecimiento-personal-salud"
+     
+   } ,
+  
+   {
+     
+        "title"    : "¿Cómo Decir Gracias en el Trabajo? Frases que Impactan",
+        "url"      : "/frases-agradecimiento-trabajo"
      
    } ,
   
@@ -259,6 +266,13 @@
      
         "title"    : "Agradece y Vive: Frases que Cambiarán Tu perspectiva de Vida",
         "url"      : "/frases-agradecimiento-vida"
+     
+   } ,
+  
+   {
+     
+        "title"    : "Mira Cómo Agradecer un Premio con las Palabras Correctas",
+        "url"      : "/frases-agradecimiento-premios"
      
    } ,
   

@@ -1,11 +1,9 @@
 ---
 layout: post
 json-post: "true"
-date: 2023-09-22T06:21:48.048Z
+date: 2023-09-14T06:21:48.048Z
 title: “Tu presencia añadió alegría a nuestro día especial.”
-description: Frase:“Tu presencia añadió alegría a nuestro día especial.”Aprende
-  cómo una simple frase de agradecimiento puede cambiar la dinámica de tu
-  ambiente laboral.
+description: Frase:“Tu presencia añadió alegría a nuestro día especial.”Aprende cómo una simple frase de agradecimiento puede cambiar la dinámica de tu ambiente laboral.
 h1: “Tu presencia añadió alegría a nuestro día especial.”
 jpg: blog/tu-presencia-añadió-alegría-día-especial.jpg
 webp: blog/tu-presencia-añadió-alegría-día-especial.webp
@@ -13,6 +11,8 @@ alt: Presencia añade alegría a nuestro día especial
 permalink: frases-agradecimiento-eventos/presencia-anadio-alegria-nuestro-dia-especial
 ---
 ## Análisis de la frase
+
+![{{page.alt}}]({{site.baseurl}}/img/{{page.webp}}){:width="320" height="320" loading="lazy"}
 
 Esta frase es más que un simple agradecimiento; es un reconocimiento del **impacto emocional** que alguien ha tenido en un evento importante. No solo estás agradeciendo la asistencia de la persona, sino que también estás valorando la **energía y la alegría** que su presencia aportó al ambiente. Es una forma de decir: "Tu presencia hizo que este día fuera aún más memorable".
 
