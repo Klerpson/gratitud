@@ -88,7 +88,7 @@ Si quieres ir más allá de los clichés, aquí algunas frases únicas de agrade
 
 Crear tus propias frases no es tan difícil como parece. Puedes empezar con una base y añadir elementos que lo hagan único para ti y tu evento.
 
-Por ejemplo, "Gracias por añadir chispas de alegría a nuestro mundo" podría ser una frase que refleje tanto la emoción como la temática de tu baby shower.
+Por ejemplo, **"Gracias por añadir chispas de alegría a nuestro mundo"** podría ser una frase que refleje tanto la emoción como la temática de tu baby shower.
 
 ## Plantillas y Ejemplos de Agradecimiento de Baby Shower
 
