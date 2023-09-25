@@ -36,7 +36,7 @@ Una forma efectiva de enseñar gratitud es mediante un diario donde los niños p
   1. Escoge un cuaderno bonito
   2. Establece un horario para escribir
   3. Haz que sea una actividad familiar
-{:id="frases"}
+{:id="enlace"}
 
 ----
 

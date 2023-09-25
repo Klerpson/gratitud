@@ -34,7 +34,7 @@ Además, el reconocimiento puede actuar como un motivador para que otros emplead
 ## Comparte estas frases de agradecimiento para los médicos
 
 Las palabras tienen poder, y una frase bien elegida puede expresar exactamente lo que sientes. Aquí te presento algunas frases que podrían ser de utilidad.
-{:id="frases"}
+{:id="enlace"}
 
 ### Palabras de agradecimiento para médicos generales
 

@@ -16,13 +16,13 @@ permalink: frases-agradecimiento-boda
 ![{{page.alt}}]({{site.baseurl}}/img/{{page.webp}} "{{page.alt}}"){:width="320" height="320" loading="lazy"}
 
 Cuando se trata de bodas, cada detalle cuenta, y las palabras de agradecimiento no son la excepción. No es solo un "gracias" lo que se necesita; es un mensaje que llegue al corazón de cada invitado. Aquí encontrarás todo lo que es necesario que sepas.
-{:id="enlace"}
 
 ## Frases emotivas que tocan el corazón en las bodas
 
 ### ¿Por qué son importantes?
 
 Las frases emotivas tienen el poder de conectar con las personas a un nivel más profundo. No solo agradeces su presencia, sino que también les haces saber lo significativos que son para ti.
+{:id="enlace"}
 
 ### Ejemplos para inspirarte
 

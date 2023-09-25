@@ -4,16 +4,13 @@ vertical: "true"
 boton_url: enlace
 date: 2023-09-21T04:29:23.280Z
 title: ¿Cómo Dar las Gracias en Tu Graduación? Frases, Textos y Más
-description: 🎉 ¿Quieres saber cómo agradecer de manera única en tu graduación?
-  ¡Haz clic para descubrirlo! ➡️
-h1: "Graduación y Gratitud: Cómo Expresar Agradecimiento de Manera Inolvidable
-  en Tu Día Especial"
+description: 🎉 ¿Quieres saber cómo agradecer de manera única en tu graduación? ¡Haz clic para descubrirlo! ➡️
+h1: "Graduación y Gratitud: Cómo Expresar Agradecimiento de Manera Inolvidable en Tu Día Especial"
 jpg: blog/frases-agradecimiento-graduacion.jpg
 webp: blog/frases-agradecimiento-graduacion.webp
 alt: Graduación. Agradecimientos a todos
 boton: Agradece en tu grado
-excerpt: El acto de agradecer no es solo una formalidad, es una forma de añadir
-  un toque personal y emotivo a tu ceremonia de graduación.
+excerpt: El acto de agradecer no es solo una formalidad, es una forma de añadir un toque personal y emotivo a tu ceremonia de graduación.
 permalink: frases-agradecimiento-graduacion
 ---
 ## Tus palabras de agradecimiento en tu grado: haz que te recuerden
@@ -43,7 +40,7 @@ Agradéceles de manera que *refleje el impacto que han tenido en tu vida*. Puede
 Los amigos son la familia que elegimos. Han estado contigo en las buenas y en las malas, y la graduación es el momento perfecto para celebrar esa amistad.
 
 **Haz que tu agradecimiento de graduación sea memorable** al compartir anécdotas o momentos que solo ustedes entienden.
-{:id="frases"}
+{:id="enlace"}
 
 - - -
 

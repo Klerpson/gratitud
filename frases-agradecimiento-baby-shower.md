@@ -19,6 +19,8 @@ Un simple "gracias" puede hacer maravillas. No solo muestra cortesía, sino que 
 
 Cuando agradeces, la gente se siente valorada y más dispuesta a contribuir en futuras celebraciones.
 
+![{{page.alt}}]({{site.baseurl}}/img/{{page.webp}} "{{page.alt}}"){:width="320" height="320" loading="lazy"}
+
 ### Tu Baby Shower Concluye Excelentemente: con Frases de Agradecimiento
 
 Decir "gracias" no cuesta nada, pero el impacto emocional es inmenso. Puede convertir una simple reunión en un momento memorable.
@@ -28,16 +30,17 @@ Además, el agradecimiento *genera una atmósfera positiva que se siente mucho d
 ## Agradecimiento para Diferentes Temáticas de Baby Shower
 
 Cada baby shower es único, y el agradecimiento debe adaptarse a la temática. No es lo mismo agradecer en un baby shower de superhéroes que en uno de princesas, ¿verdad?
+{:id="enlace"}
 
 ### Baby Shower de Niña
 
-Si estás celebrando la llegada de una niña, puedes usar frases como "Gracias por hacer este día más rosa y brillante".
+Si estás celebrando la llegada de una niña, puedes usar frases como **"Gracias por hacer este día más rosa y brillante"**.
 
 Personaliza tus agradecimientos para que se ajusten a la temática y al tono del evento.
 
 ### Baby Shower de Niño
 
-Para un baby shower de niño, podrías decir algo como "Gracias por añadir más azul a nuestro mundo". De nuevo, la clave está en la personalización y en hacer que cada invitado se sienta especial.
+Para un baby shower de niño, podrías decir algo como **"Gracias por añadir más azul a nuestro mundo"**. De nuevo, la clave está en la personalización y en hacer que cada invitado se sienta especial.
 
 ### Baby Shower Sorpresa: Cómo Agradecer una Sorpresa Inolvidable
 

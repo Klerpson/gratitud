@@ -24,7 +24,7 @@ Cuando agradeces, estás diciendo: **"Valoro lo que haces por mí"**.
 ## El poder de las palabras: Frases que llegan al corazón de tu novio o novia
 
 Si eres de los que prefiere expresarse con palabras, aquí tienes algunas frases que pueden ayudarte:
-{:id="frases"}
+{:id="enlace"}
 
 ### Frases de agradecimiento por el apoyo emocional entre novios
 

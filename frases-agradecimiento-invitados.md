@@ -20,7 +20,7 @@ permalink: frases-agradecimiento-invitados
 Agradecer activa el **circuito de recompensa** en nuestro cerebro. Es más que palabras; es una forma de mostrar respeto y aprecio.
 
 ¿Ahora imaginas **el efecto que puede tener agradecer a los invitados**, que además, ya disfrutaron de un buen acontecimiento?
-{id="frases"}
+{id="enlace"}
 
 ----
 

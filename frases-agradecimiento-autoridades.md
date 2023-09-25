@@ -17,6 +17,8 @@ permalink: frases-agradecimiento-autoridades
 
 Agradecer no es solo una cuestión de cortesía, sino también una forma de **construir relaciones sólidas**. Cuando se trata de autoridades, un simple "gracias" puede abrir puertas y **fortalecer vínculos profesionales**.
 
+![{{page.alt}}]({{site.baseurl}}/img/{{page.webp}} "{{page.alt}}"){:width="320" height="320" loading="lazy"}
+
 ### Reconocimiento mutuo
 
 Un agradecimiento bien hecho es una forma de **reconocimiento mutuo**. No solo estás agradeciendo por algo, sino que también estás reconociendo la importancia de la otra persona en tu vida o carrera.
@@ -24,7 +26,7 @@ Un agradecimiento bien hecho es una forma de **reconocimiento mutuo**. No solo e
 ### Crea una impresión duradera
 
 Un buen agradecimiento puede **marcar la diferencia** entre ser recordado o pasar desapercibido. Es una oportunidad para dejar una **impresión duradera**.
-{:id="frases"}
+{:id="enlace"}
 
 ## Ejemplos prácticos de agradecimientos a autoridades
 

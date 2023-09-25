@@ -26,7 +26,7 @@ permalink: frases-agradecimiento-premios
 *Ganar un premio no es un logro en solitario*. Detrás de ese trofeo o certificado, hay un equipo, mentores, amigos y familiares que han contribuido a tu éxito.
 
 Agradecer es también una forma de reconocer ese esfuerzo colectivo. Al hacerlo, no solo elevas tu propio estatus sino que también *validas el trabajo y apoyo de los demás*.
-{:id="frases"}
+{:id="enlace"}
 
 ## Frases de agradecimiento que debes incluir en tu discurso de premiación
 
