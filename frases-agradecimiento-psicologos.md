@@ -35,6 +35,7 @@ Cada que expresas tu agradecimiento a un piscólogo, estás reconociendo su comp
 ### Palabras de agradecimiento que tocan el alma
 
 A veces, un simple "gracias" puede no ser suficiente. Aquí te damos algunas ideas para que tus palabras realmente toquen el alma de tu psicóloga:
+{:id="enlaces"}
 
 * **"Gracias por devolverme la sonrisa y la oportunidad de soñar cuando creía que todo estaba perdido."**
 * **"Gracias por orientarme y ayudarme a descubrir cosas que desconocía de mí mismo(a) y que me ayudaron a crecer."**

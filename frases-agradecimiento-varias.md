@@ -4,16 +4,13 @@ vertical: "true"
 boton_url: enlace
 date: 2023-09-26T19:55:30.995Z
 title: "Eleva tu Gratitud: Frases de Agradecimiento que Impactan"
-description: ¿Buscas las palabras perfectas para agradecer? Haz clic y encuentra
-  frases que tocan el corazón. 🌹 Actúa ya!
+description: ¿Buscas las palabras perfectas para agradecer? Haz clic y encuentra frases que tocan el corazón. 🌹 Actúa ya!
 h1: Palabras y Frases Únicas para Agradecer en Diferentes Ocasiones
 jpg: blog/agradecimiento-varios-temas.jpg
 webp: blog/agradecimiento-varios-temas.webp
 alt: Frases de gratitud
 boton: Conoce las frases
-excerpt: '**¿Alguna vez te has preguntado cómo un simple "gracias" puede cambiar
-  el día de alguien?** Esta sección te dará las mejores frases de agradecimiento
-  para cada situación'
+excerpt: '**¿Alguna vez te has preguntado cómo un simple "gracias" puede cambiar el día de alguien?** Esta sección te dará las mejores frases de agradecimiento para cada situación'
 permalink: frases-agradecimiento-varias
 ---
 ## Frases para agradecer a distintos tipos de personas
@@ -24,7 +21,8 @@ Agradecer no es solo una cuestión de buenas maneras, es una habilidad social qu
 
 **La gratitud es la memoria del corazón**, como bien dice una frase popular. Y en la vida nos rodean muchas memorias en las que queremos permanecer para siempre.
 
-M﻿ira las siguientes situaciones y tipos de personas con las que puedes compartir una frase de agradecimiento.
+Mira las siguientes situaciones y tipos de personas con las que puedes compartir una frase de agradecimiento.
+{:id="enlace"}
 
 ### En el ámbito laboral
 

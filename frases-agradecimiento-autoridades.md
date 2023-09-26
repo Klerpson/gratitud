@@ -32,7 +32,7 @@ Un buen agradecimiento puede **marcar la diferencia** entre ser recordado o pasa
 
 Aquí te dejo algunos ejemplos que puedes usar como inspiración o adaptar a tu situación específica.
 
-1. **Agradecimiento a un profesor**: "Gracias por su dedicación y por inspirarme a ser mejor cada día."
+1. **Agradecimiento a un profesor**: "[Gracias por su dedicación y por inspirarme a ser mejor cada día.]()"
 2. **A un jefe o supervisor**: "Aprecio su liderazgo y la oportunidad de crecer en este equipo."
 3. **A un político o funcionario público**: "Su trabajo ha hecho una diferencia en nuestra comunidad, gracias."
 {:class="seccion"}
