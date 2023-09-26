@@ -3,17 +3,14 @@ layout: verticales
 vertical: "true"
 boton_url: enlace
 date: 2023-09-26T19:16:55.183Z
-title: "Agradecer a tu Psicóloga: Palabras y Frases que Tocan el Alma"
-description: 😇 Descubre frases y mensajes para expresar tu gratitud a tu
-  psicóloga.🎯¡Entra y encuentra la tuya!
+title: "Agradecer a tu Psicóloga: Palabras y Frases para el Alma"
+description: 😇 Descubre frases y mensajes para expresar tu gratitud a tu psicóloga.🎯¡Entra y encuentra la tuya!
 h1: "Agradece como un Pro: Palabras y Frases Impactantes para tu Psicólogo"
 jpg: blog/agradecimiento-sicologos.jpg
 webp: blog/agradecimiento-sicologos.webp
 alt: Agradecimiento a mi psicologa
 boton: Agredece sana-mente
-excerpt: ¿Buscas cómo agradecer a tu psicóloga? Aquí encontrarás las frases que
-  necesitas. Aprende a expresar tu gratitud con frases impactantes para tu
-  psicóloga.
+excerpt: ¿Buscas cómo agradecer a tu psicóloga? Aquí encontrarás las frases que necesitas. Aprende a expresar tu gratitud con frases impactantes para tu psicóloga.
 permalink: frases-agradecimiento-psicologos
 ---
 ## El mérito de compartir frases de agradecimiento a tu psicóloga
