@@ -18,6 +18,8 @@ permalink: frases-agradecimiento-psicologos
 ---
 ## El mérito de compartir frases de agradecimiento a tu psicóloga
 
+![{{page.alt}}]({{site.baseurl}}/img/{{page.webp}} "{{page.alt}}"){:width="320" height="320" loading="lazy"}
+
 **¿Alguna vez te has detenido a pensar en el impacto que tu psicóloga ha tenido en tu vida?** Si la respuesta es sí, esta sección es para ti.
 
 Aquí, no solo vamos a hablar sobre la importancia de la gratitud hacia estos profesionales, sino que también te daremos **consejos prácticos** para expresar tu agradecimiento de una manera significativa. 

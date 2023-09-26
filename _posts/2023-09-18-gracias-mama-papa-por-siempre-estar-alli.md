@@ -3,14 +3,14 @@ layout: post
 json-post: "true"
 date: 2023-09-18
 title: "Frase:'Gracias, mamá y papá, por siempre estar allí para mí'"
-description: 'Frase: "Gracias, mamá y papá, por siempre estar allí para mí". Descubre cómo una simple frase de agradecimiento puede cambiar tu aniversario'
-category: aniversarios
+description: 'Frase: "Gracias, mamá y papá, por siempre estar allí para mí". Descubre cómo una simple frase de agradecimiento puede aumentar el apoyo de tu familia'
+category: apoyo
 h1: "'Gracias, mamá y papá, por siempre estar allí para mí'"
 jpg: blog/gracias-mama-papa-por-siempre-estar-alli.jpg
 webp: blog/gracias-mama-papa-por-siempre-estar-alli.webp
-alt: Corazones de aniversario
-boton: Aplícalo con tu pareja
-boton_url: "cómo-aplicar-esta-frase-en-tu-vida-de-pareja"
+alt: Mamá y papá
+boton: Aplícalo en casa
+boton_url: "aplicación-práctica-la-importancia-del-apoyo-en-la-autoestima"
 permalink: frases-agradecimiento-dios/gracias-mama-papa-por-siempre-estar-alli
 ---
 ![{{page.alt}}]({{site.baseurl}}/img/{{page.webp}}){:width="320" height="320" loading="lazy"}
