@@ -11,7 +11,7 @@ webp: blog/gracias-por-ser-mi-roca-durante-todo-este-tiempo.webp
 alt: Corazones de aniversario
 boton: Aplícalo con tu pareja
 boton_url: "cómo-aplicar-esta-frase-en-tu-vida-de-pareja"
-permalink: frases-agradecimiento-dios/gracias-por-ser-mi-roca-durante-todo-este-tiempo
+permalink: frases-agradecimiento-aniversarios/gracias-por-ser-mi-roca-durante-todo-este-tiempo
 ---
 ## Análisis de la frase
 

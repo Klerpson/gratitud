@@ -11,7 +11,7 @@ webp: blog/gracias-mama-papa-por-siempre-estar-alli.webp
 alt: Mamá y papá
 boton: Aplícalo en casa
 boton_url: "aplicación-práctica-la-importancia-del-apoyo-en-la-autoestima"
-permalink: frases-agradecimiento-dios/gracias-mama-papa-por-siempre-estar-alli
+permalink: frases-agradecimiento-apoyo/gracias-mama-papa-por-siempre-estar-alli
 ---
 ![{{page.alt}}]({{site.baseurl}}/img/{{page.webp}}){:width="320" height="320" loading="lazy"}
 

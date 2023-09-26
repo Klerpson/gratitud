@@ -11,7 +11,7 @@ webp: blog/gracias-por-estar-siempre-a-mi-lado-en-buenos-malos-momentos.webp
 alt: Esposos agradecidos
 boton: Cómo aplicarlo hoy
 boton_url: "aplicación-práctica-el-poder-del-agradecimiento-en-la-relación-de-pareja"
-permalink: frases-agradecimiento-dios/gracias-por-estar-siempre-a-mi-lado-en-buenos-malos-momentos
+permalink: frases-agradecimiento-amor/gracias-por-estar-siempre-a-mi-lado-en-buenos-malos-momentos
 ---
 ## Análisis de la frase
 
