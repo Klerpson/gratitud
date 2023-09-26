@@ -35,9 +35,9 @@ Para hacer las cartas de agradecimiento, debes entender su propósito y aprender
 
 Pero, ¿qué las hace tan especiales?
 
-### El poder de la gratitud
-
-La gratitud es una emoción poderosa que puede tener un impacto profundo en nuestras vidas. Cuando expresamos gratitud, no sólo reconocemos el bien que otros han hecho por nosotros, sino que también nos abrimos a nuevas posibilidades y relaciones.
+> ### El poder de la gratitud
+>
+> La gratitud es una emoción poderosa que puede tener un impacto profundo en nuestras vidas. Cuando expresamos gratitud, n[o sólo reconocemos el bie](/)n que otros han hecho por nosotros, sino que también nos abrimos a nuevas posibilidades y relaciones.
 
 Las cartas de agradecimiento son una forma tangible de expresar esta gratitud y pueden tener un impacto duradero en el destinatario.
 
