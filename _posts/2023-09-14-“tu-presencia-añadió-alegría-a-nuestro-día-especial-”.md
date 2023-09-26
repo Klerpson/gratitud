@@ -5,7 +5,7 @@ date: 2023-09-14T06:21:48.048Z
 title: “Tu presencia añadió alegría a nuestro día especial.”
 description: Frase:“Tu presencia añadió alegría a nuestro día especial.”Aprende cómo una simple frase de agradecimiento puede cambiar la dinámica de tu ambiente laboral.
 h1: “Tu presencia añadió alegría a nuestro día especial.”
-category: eventos
+category: Eventos
 jpg: blog/tu-presencia-añadió-alegría-día-especial.jpg
 webp: blog/tu-presencia-añadió-alegría-día-especial.webp
 alt: Presencia añade alegría a nuestro día especial

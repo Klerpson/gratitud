@@ -7,7 +7,7 @@ description: 'Frase: "Las personas que más reciben bendiciones, saben que TODO 
 h1: "'Las personas que más reciben bendiciones, saben que TODO ES UNA BENDICIÓN'"
 jpg: blog/las-personas-que-mas-reciben-bendiciones.jpg
 webp: blog/las-personas-que-mas-reciben-bendiciones.webp
-category: dios
+category: Dios
 boton: Cómo aplicarlo hoy
 boton_url: "aporte-práctico"
 alt: Personas que reciben bendiciones

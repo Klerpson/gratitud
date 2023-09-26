@@ -34,7 +34,7 @@ Cada baby shower es único, y el agradecimiento debe adaptarse a la temática. N
 
 ### Baby Shower de Niña
 
-Si estás celebrando la llegada de una niña, puedes usar frases como **"Gracias por hacer este día más rosa y brillante"**.
+Si estás celebrando la llegada de una niña, puedes usar frases como **"[Gracias por hacer este día más rosa y brillante]({{'frases-agradecimiento-baby-shower/gracias-por-hacer-este-dia-mas-rosa-y-brillante'|relative_url}})"**.
 
 Personaliza tus agradecimientos para que se ajusten a la temática y al tono del evento.
 

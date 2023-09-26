@@ -2,7 +2,7 @@
 layout: post
 title: "Frase:'En los momentos más oscuros, tu amistad es mi luz'"
 description: "Frase: 'En los momentos más oscuros, tu amistad es mi luz' ¿Quieres saber cómo una simple frase puede hacer que tus días sean más brillantes?"
-category: "amigos"
+category: "Amigos"
 tags: [apoyar, soportar]
 h1: "'En los momentos más oscuros, tu amistad es mi luz'"
 boton: Cómo aplicarlo hoy

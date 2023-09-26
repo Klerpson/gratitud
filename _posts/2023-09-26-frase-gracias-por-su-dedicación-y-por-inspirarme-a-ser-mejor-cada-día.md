@@ -4,7 +4,7 @@ json-post: "true"
 date: 2023-09-26T20:10:07.589Z
 title: "'Gracias por su dedicación y por inspirarme a ser mejor'"
 description: "Frase: 'Gracias por su dedicación y por inspirarme a ser mejor cada día' ¿Quieres agradecer EL APOYO de ese docente especial?"
-category: autoridad
+category: Autoridad
 h1: "'Gracias por su dedicación y por inspirarme a ser mejor cada día'"
 jpg: blog/gracias-por-su-dedicacion-e-inspirarme.jpg
 webp: blog/gracias-por-su-dedicacion-e-inspirarme.webp

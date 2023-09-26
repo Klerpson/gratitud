@@ -3,8 +3,8 @@ layout: post
 json-post: "true"
 date: 2023-09-27T09:21:52.901Z
 title: "Frase: 'Gracias por hacer este día más rosa y brillante'"
-description: "Frase: 🍼 'Gracias por hacer este día más rosa y brillante' ¿Cómo
-  Dar las Gracias en tu Baby Shower? 👶"
+description: "Frase: 🍼 'Gracias por hacer este día más rosa y brillante' ¿Cómo Dar las Gracias en tu Baby Shower? 👶"
+category: Baby Shower
 h1: "'Gracias por hacer este día más rosa y brillante'"
 jpg: blog/gracias-por-hacer-este-dia-mas-rosa-y-brillante.jpg
 webp: blog/gracias-por-hacer-este-dia-mas-rosa-y-brillante.webp

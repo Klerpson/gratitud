@@ -2,7 +2,7 @@
 layout: post
 title: "'Gracias por estar siempre allí cuando te necesito'"
 description: "Frase: 'Gracias por estar siempre allí cuando te necesito' Aprende el valor del apoyo emocional entre docentes amigos. Este análisis te mostrará el camino."
-category: "amigos"
+category: "Amigos"
 jpg: gracias-por-estar-siempre-alli.jpg
 tags: [apoyar, ayudar]
 h1: "'Gracias por estar siempre allí cuando te necesito'"

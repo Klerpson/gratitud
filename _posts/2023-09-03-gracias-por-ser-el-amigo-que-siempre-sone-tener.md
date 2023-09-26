@@ -2,7 +2,7 @@
 layout: post
 title: "Frase: 'Gracias por ser el amigo que siempre soñé tener'"
 description: "Frase: 'Tu amistad es un regalo que atesoro cada día' ¿Quieres saber cómo una simple frase puede hacer que tus días sean más brillantes?"
-category: "amigos"
+category: "Amigos"
 h1: "'Gracias por ser el amigo que siempre soñé tener'"
 jpg: gracias-por-ser-el-amigo-que-siempre-sone-tener.jpg
 boton: Cómo aplicarlo hoy

@@ -2,7 +2,7 @@
 layout: post
 title: "Frase:'Tu apoyo incondicional significa el mundo para mí'"
 description: "Frase: 'Tu apoyo incondicional significa el mundo para mí' ¿Por qué decir gracias a tus amigos cambia todo?"
-category: "amigos"
+category: "Amigos"
 tags: [apoyar, incondicional]
 jpg: gracias-por-estar-siempre-alli.jpg
 h1: "'Tu apoyo incondicional significa el mundo para mí'"

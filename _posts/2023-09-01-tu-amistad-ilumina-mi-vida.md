@@ -2,7 +2,7 @@
 layout: post
 title: "'Tu amistad ilumina mi vida, gracias por ser tan especial'"
 description: "Frase: 'Tu amistad ilumina mi vida, gracias por ser tan especial': Cómo una frase puede fortalecer los lazos de una amistad que siempre está para ti"
-category: "amigos"
+category: "Amigos"
 tags: [especial, vida]
 jpg: tu-amistad-ilumina-mi-vida.jpg
 h1: "'Tu amistad ilumina mi vida, gracias por ser tan especial'"

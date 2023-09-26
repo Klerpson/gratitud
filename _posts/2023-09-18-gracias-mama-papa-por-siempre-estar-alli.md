@@ -4,7 +4,7 @@ json-post: "true"
 date: 2023-09-18
 title: "Frase:'Gracias, mamá y papá, por siempre estar allí para mí'"
 description: 'Frase: "Gracias, mamá y papá, por siempre estar allí para mí". Descubre cómo una simple frase de agradecimiento puede aumentar el apoyo de tu familia'
-category: apoyo
+category: Apoyo
 h1: "'Gracias, mamá y papá, por siempre estar allí para mí'"
 jpg: blog/gracias-mama-papa-por-siempre-estar-alli.jpg
 webp: blog/gracias-mama-papa-por-siempre-estar-alli.webp
