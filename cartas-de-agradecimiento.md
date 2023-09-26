@@ -1,23 +1,27 @@
 ---
 layout: verticales
 vertical: true
-boton_url: "enlace"
+boton_url: enlace
+date: 2023-09-26T17:22:41.247Z
 title: "💌 Cartas de Agradecimiento: Cuándo y Cómo Enviarlas"
-description: "¿Necesitas ayuda para escribir una carta de agradecimiento? Tenemos los consejos y ejemplos que necesitas. ¡Haz clic aquí para aprender más!"
+description: ¿Necesitas ayuda para escribir una carta de agradecimiento? Tenemos
+  los consejos y ejemplos que necesitas. ¡Haz clic aquí para aprender más!
 h1: "Cartas de agradecimiento: un arte que fortalece relaciones"
-webp: cartas-agradecimiento.webp
 jpg: cartas-agradecimiento.jpg
+webp: cartas-agradecimiento.webp
 alt: Dibujo de una carta de agradecimiento
 boton: Mira algunos modelos
+excerpt: En la era digital de hoy, la gratitud ha tomado un lugar central en
+  nuestras interacciones. ¿Y qué mejor manera de **expresar tu agradecimiento
+  que a través de una carta de agradecimiento** bien redactada?
 permalink: cartas-de-agradecimiento
-excerpt: "En la era digital de hoy, la gratitud ha tomado un lugar central en nuestras interacciones. ¿Y qué mejor manera de **expresar tu agradecimiento que a través de una carta de agradecimiento** bien redactada?"
 ---
 **Atajos:**
 
 * Do not remove this line (it will not be displayed)
-{:toc}
+  {:toc}
 
------
+- - -
 
 Quizá el motivo es una entrevista de trabajo, un regalo de un ser querido, o simplemente para agradecer la amabilidad de alguien, **una carta de agradecimiento puede dejar una impresión duradera**.
 
@@ -37,13 +41,13 @@ La gratitud es una emoción poderosa que puede tener un impacto profundo en nues
 
 Las cartas de agradecimiento son una forma tangible de expresar esta gratitud y pueden tener un impacto duradero en el destinatario.
 
-### El arte de la personalización
-
-Escribir una carta de agradecimiento requiere una cuidadosa consideración y personalización. No se trata simplemente de decir "gracias", sino de comunicar tu gratitud de una manera que sea personal y significativa para el destinatario.
+> ### El arte de la personalización
+>
+> Escribir una carta de agradecimiento requiere una cuidadosa consideración y personalización. No se trata simplemente de decir "gracias", sino de comunicar tu gratitud de una manera que sea personal y significativa para el destinatario.
 
 Esto puede implicar mencionar detalles específicos sobre el acto de bondad o compartir cómo te ha afectado positivamente.
 
------
+- - -
 
 ## ¿Cómo escribir una carta de agradecimiento?
 
@@ -71,7 +75,7 @@ Antes de cerrar tu carta, reitera tu agradecimiento. Esto refuerza tu mensaje y 
 
 Finalmente, cierra tu carta con una despedida cálida y tu firma. Esto redondea tu mensaje y proporciona un cierre adecuado a tu carta de agradecimiento.
 
------
+- - -
 
 ## ¿Cuándo enviar una carta de agradecimiento?
 
@@ -96,7 +100,7 @@ Si alguien te ha recomendado para un trabajo, una beca, o cualquier otra oportun
 No sólo demuestra tu aprecio, sino que también puede ayudar a fortalecer tu relación con esa persona.
 {:id="cartas"}
 
------
+- - -
 
 ## Ejemplos de cartas de agradecimiento
 
@@ -104,21 +108,21 @@ A veces, la mejor manera de aprender es a través de ejemplos. A continuación, 
 
 ### Ejemplo 1: carta de agradecimiento después de una entrevista de trabajo
 
-Estimado/a [Nombre del entrevistador],  
-Quiero expresar mi sincero agradecimiento por la oportunidad de entrevistarme para el puesto de [nombre del puesto] en [nombre de la empresa]. Fue un placer conocer más sobre su equipo y su trabajo, y estoy muy emocionado/a por la posibilidad de unirme a su organización.  
-Estoy especialmente agradecido/a por el tiempo que dedicó a explicarme [mencionar un detalle específico de la entrevista]. Esto me dio una valiosa visión de [nombre de la empresa] y reforzó mi deseo de contribuir a su equipo.  
-Gracias de nuevo por considerar mi candidatura. Espero tener la oportunidad de trabajar con usted en el futuro.  
+Estimado/a \[Nombre del entrevistador],\
+Quiero expresar mi sincero agradecimiento por la oportunidad de entrevistarme para el puesto de \[nombre del puesto] en \[nombre de la empresa]. Fue un placer conocer más sobre su equipo y su trabajo, y estoy muy emocionado/a por la posibilidad de unirme a su organización.\
+Estoy especialmente agradecido/a por el tiempo que dedicó a explicarme \[mencionar un detalle específico de la entrevista]. Esto me dio una valiosa visión de \[nombre de la empresa] y reforzó mi deseo de contribuir a su equipo.\
+Gracias de nuevo por considerar mi candidatura. Espero tener la oportunidad de trabajar con usted en el futuro.\
 Con gratitud,
-[Tu nombre]
+\[Tu nombre]
 {:class="seccion"}
 
 ### Ejemplo 2: carta de agradecimiento por un regalo
 
-Querido/a [Nombre del donante],  
-Espero que este mensaje te encuentre bien. Quería tomarme un momento para agradecerte por el [mencionar el regalo]. Fue una verdadera sorpresa y estoy [mencionar cómo te sientes o cómo has usado el regalo].  
-Tu generosidad y amabilidad son verdaderamente apreciadas. Gracias de nuevo por pensar en mí.  
-Con cariño,  
-[Tu nombre]
+Querido/a \[Nombre del donante],\
+Espero que este mensaje te encuentre bien. Quería tomarme un momento para agradecerte por el \[mencionar el regalo]. Fue una verdadera sorpresa y estoy \[mencionar cómo te sientes o cómo has usado el regalo].\
+Tu generosidad y amabilidad son verdaderamente apreciadas. Gracias de nuevo por pensar en mí.\
+Con cariño,\
+\[Tu nombre]
 {:class="seccion"}
 
 ## Consejos para escribir una carta de agradecimiento efectiva
