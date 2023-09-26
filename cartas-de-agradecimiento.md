@@ -41,9 +41,9 @@ La gratitud es una emoción poderosa que puede tener un impacto profundo en nues
 
 Las cartas de agradecimiento son una forma tangible de expresar esta gratitud y pueden tener un impacto duradero en el destinatario.
 
-> ### El arte de la personalización
->
-> Escribir una carta de agradecimiento requiere una cuidadosa consideración y personalización. No se trata simplemente de decir "gracias", sino de comunicar tu gratitud de una manera que sea personal y significativa para el destinatario.
+### El arte de la personalización
+
+Escribir una carta de agradecimiento requiere una cuidadosa consideración y personalización. No se trata simplemente de decir "gracias", sino de comunicar tu gratitud de una manera que sea personal y significativa para el destinatario.
 
 Esto puede implicar mencionar detalles específicos sobre el acto de bondad o compartir cómo te ha afectado positivamente.
 
