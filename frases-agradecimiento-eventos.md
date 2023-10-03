@@ -31,26 +31,6 @@ Un simple "gracias" puede cambiar la dinámica de una relación. *Si tu evento e
 
 >Según un estudio de la Universidad de Pensilvania, los empleados que reciben agradecimientos regulares son más productivos y satisfechos en su trabajo.
 
-## Métodos tradicionales de agradecimiento por un evento
-
-Los métodos clásicos tienen un encanto que nunca pasa de moda. "El agradecimiento es la memoria del corazón", dice un proverbio chino, y estos métodos ayudan a que esa memoria perdure con todos los invitados.
-
-### Tarjetas escritas a mano para los anfitriones del evento
-
-Una tarjeta escrita a mano lleva implícito **el tiempo y el esfuerzo** que has dedicado, lo que la convierte en un gesto significativo.
-
-### Discursos y brindis en una boda o evento empresarial
-
-Un discurso bien elaborado puede convertirse en el momento más memorable del evento. Como dijo John F. Kennedy, "debemos encontrar tiempo para detenernos y agradecer a las personas que hacen una diferencia en nuestras vidas."
-
-### Regalos simbólicos por la participación en el evento
-
-Un regalo, por pequeño que sea, puede tener un gran impacto.
-
-Puedes obsequiar un libro, decorar y regalar una planta; cualquiera se el objeto, este se convierte **en un recordatorio físico de un momento especial**.
-
-----
-
 ## Expresando el agradecimiento por un evento de manera innovadora
 
 La innovación en el agradecimiento puede hacer que tu evento destaque y se recuerde durante mucho tiempo. Por esta razón, intenta utilizar los siguientes métodos para conseguirlo.
@@ -80,7 +60,7 @@ Con esto en mente, analiza y **utiliza cualquiera de las siguientes frases de ag
 
 ### Frases que tocan el corazón
 
-* "Tu presencia añadió alegría a nuestro día especial."
+* "[Tu presencia añadió alegría a nuestro día especial]({{'frases-agradecimiento-eventos/tu-presencia-anadio-alegria-a-nuestro-dia-especial'|relative_url}})."
 * "Tu apoyo y amor nos han mostrado el verdadero significado de la amistad y la familia."
 
 ### Frases divertidas y originales
@@ -149,7 +129,25 @@ También, puedes hacer una recopilación de las frases de esta página y armar t
 
 Ahora que tienes todas las herramientas y el conocimiento, es hora de ponerlos en práctica. No pierdas la oportunidad de hacer que tu agradecimiento cuente.
 
-> "La gratitud puede transformar días comunes en agradecimientos, cambiar trabajos rutinarios en alegría y cambiar oportunidades ordinarias en bendiciones", dijo el autor William Arthur Ward. 
+## Métodos tradicionales de agradecimiento por un evento
+
+Los métodos clásicos tienen un encanto que nunca pasa de moda. "El agradecimiento es la memoria del corazón", dice un proverbio chino, y estos métodos ayudan a que esa memoria perdure con todos los invitados.
+
+### Tarjetas escritas a mano para los anfitriones del evento
+
+Una tarjeta escrita a mano lleva implícito **el tiempo y el esfuerzo** que has dedicado, lo que la convierte en un gesto significativo.
+
+### Discursos y brindis en una boda o evento empresarial
+
+Un discurso bien elaborado puede convertirse en el momento más memorable del evento. Como dijo John F. Kennedy, "debemos encontrar tiempo para detenernos y agradecer a las personas que hacen una diferencia en nuestras vidas."
+
+### Regalos simbólicos por la participación en el evento
+
+Un regalo, por pequeño que sea, puede tener un gran impacto.
+
+Puedes obsequiar un libro, decorar y regalar una planta; cualquiera se el objeto, este se convierte **en un recordatorio físico de un momento especial**.
+
+> "La gratitud puede transformar días comunes en agradecimientos, cambiar trabajos rutinarios en alegría y cambiar oportunidades ordinarias en bendiciones", dijo el autor William Arthur Ward.
 
 ### Pasos a seguir
 
