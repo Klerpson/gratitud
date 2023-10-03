@@ -1,7 +1,7 @@
 ---
 layout: verticales
 vertical: "true"
-boton_url: enlace
+boton_url: frases
 date: 2023-09-26T19:16:55.183Z
 title: "Agradecer a tu Psicóloga: Palabras y Frases para el Alma"
 description: 😇 Descubre frases y mensajes para expresar tu gratitud a tu psicóloga.🎯¡Entra y encuentra la tuya!
@@ -26,13 +26,13 @@ Aquí, no solo vamos a hablar sobre la importancia de la gratitud hacia estos pr
 La labor de un psicólogo va más allá de la consulta. Se extiende a la **investigación**, la **docencia**, y la **promoción de la salud mental**.
 
 Cada que expresas tu agradecimiento a un piscólogo, estás reconociendo su compromiso con el bienestar emocional y su papel crucial en la construcción de una comunidad más saludable y empática.
+{:id="frases"}
 
 ## Cómo expresar agradecimiento a un psicólogo
 
 ### Palabras de agradecimiento que tocan el alma
 
 A veces, un simple "gracias" puede no ser suficiente. Aquí te damos algunas ideas para que tus palabras realmente toquen el alma de tu psicóloga:
-{:id="enlaces"}
 
 * **"Gracias por devolverme la sonrisa y la oportunidad de soñar cuando creía que todo estaba perdido."**
 * **"Gracias por orientarme y ayudarme a descubrir cosas que desconocía de mí mismo(a) y que me ayudaron a crecer."**
