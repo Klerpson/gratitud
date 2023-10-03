@@ -31,27 +31,6 @@ Antes de lanzarte a escribir esa nota de agradecimiento, es vital que sepas qué
 - **Sé específico**: Evita el genérico "gracias por todo" y opta por detalles que resalten su contribución. Si bien la remuneración es importante, la gratitud de los estudiantes puede ser igualmente gratificante. *Un agradecimiento sincero puede llenar el vacío emocional que a veces el salario no puede cubrir*.
 - **Expresa el impacto**: ¿Cómo te ha ayudado en tu formación académica o emocional? Agradecer a tu profesor no solo beneficia al educador, sino que también fortalece tu relación con él. *Una relación positiva con un profesor puede abrir puertas a oportunidades académicas y personales*.
 
-## Tipos de agradecimientos que puedes ofrecer
-
-No todos los agradecimientos tienen que ser verbales o escritos. Hay muchas maneras creativas y significativas de mostrar tu gratitud hacia un profesor que ha tenido un impacto en tu vida.
-
-### Agradecimiento verbal
-
-Un simple "gracias" en persona puede ser increíblemente poderoso. **La sinceridad en tu voz y la mirada en tus ojos pueden transmitir más que cualquier carta.**
-
-### Notas o cartas escritas
-
-Si te resulta difícil expresar tus sentimientos en persona, una nota escrita puede ser igualmente efectiva. **Una carta manuscrita tiene un toque personal que los correos electrónicos y los mensajes de texto simplemente no pueden igualar.**
-
-### Regalos simbólicos
-
-No tiene que ser algo caro. Un dibujo, una planta o incluso una simple taza de café pueden transmitir un mensaje fuerte de gratitud. **Lo que cuenta es el gesto, no el valor material del regalo.**
-
-### Reconocimiento público
-
-Agradecer a tu profesor frente a tus compañeros o en un evento escolar puede ser una forma poderosa de reconocimiento. **Este acto no solo valida su duro trabajo sino que también puede inspirar a otros a mostrar su gratitud.**
-{id="frases"}
-
 ## Consejos prácticos para expresar gratitud
 
 - **Sé específico**: Menciona una acción o consejo que te haya dado y cómo te ayudó.
@@ -63,6 +42,7 @@ Agradecer a tu profesor frente a tus compañeros o en un evento escolar puede se
 ## Frases de agradecimiento para profesores de preescolar
 
 Los maestros de preescolar son los primeros guías en el viaje educativo de un niño. Su labor va más allá de enseñar números y letras; también inculcan valores y habilidades sociales. Aquí tienes algunas frases para agradecer a estos héroes sin capa.
+{:id="frases"}
 
 ### Para la maestra que es inolvidable
 
@@ -593,6 +573,26 @@ Aquí te dejo algunos mensajes de agradecimiento especialmente diseñados para e
 - "Gracias por prepararme no solo para los exámenes sino para la vida."
 
 Estas frases son una excelente manera de mostrar tu aprecio y respeto hacia los profesores que han tenido un impacto significativo en tu vida universitaria.
+
+## Tipos de agradecimientos que puedes ofrecer
+
+No todos los agradecimientos tienen que ser verbales o escritos. Hay muchas maneras creativas y significativas de mostrar tu gratitud hacia un profesor que ha tenido un impacto en tu vida.
+
+### Agradecimiento verbal
+
+Un simple "gracias" en persona puede ser increíblemente poderoso. **La sinceridad en tu voz y la mirada en tus ojos pueden transmitir más que cualquier carta.**
+
+### Notas o cartas escritas
+
+Si te resulta difícil expresar tus sentimientos en persona, una nota escrita puede ser igualmente efectiva. **Una carta manuscrita tiene un toque personal que los correos electrónicos y los mensajes de texto simplemente no pueden igualar.**
+
+### Regalos simbólicos
+
+No tiene que ser algo caro. Un dibujo, una planta o incluso una simple taza de café pueden transmitir un mensaje fuerte de gratitud. **Lo que cuenta es el gesto, no el valor material del regalo.**
+
+### Reconocimiento público
+
+Agradecer a tu profesor frente a tus compañeros o en un evento escolar puede ser una forma poderosa de reconocimiento. **Este acto no solo valida su duro trabajo sino que también puede inspirar a otros a mostrar su gratitud.**
 
 ## Decir gracias a una maestro: un reconocimiento para toda la vida
 
