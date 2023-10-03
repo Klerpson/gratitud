@@ -30,6 +30,7 @@ Una frase de agradecimiento al esposo o esposa transforma *momentos ordinarios e
 A veces, las palabras más sencillas son las que más impacto tienen en tu esposo o esposa. No necesitas un discurso largo para mostrar tu agradecimiento.
 
 Un simple "gracias por estar aquí" o "te amo y agradezco todo lo que haces" puede ser más que suficiente. La clave está en *la sinceridad de tus palabras* y en *el momento* en que decides compartirlas.
+{:id="frases"}
 
 ### Frases cortas pero impactantes
 
