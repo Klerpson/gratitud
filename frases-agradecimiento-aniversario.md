@@ -26,6 +26,7 @@ En el contexto de aniversarios, **agradecer** se convierte en un acto de reconoc
 ### Cómo agradecer a tu pareja en su aniversario
 
 Agradecer a tu pareja en el aniversario de bodas puede hacerse de muchas maneras: una carta escrita a mano, un regalo pensado especialmente para él o ella, o incluso un simple pero significativo **"te amo y gracias por otro año juntos"**.
+{:id="frases"}
 
 ### Frases de agradecimiento para tu cónyuge
 
@@ -69,7 +70,6 @@ Si estás celebrando el aniversario de tu colegio o de alguna institución que h
 ## Frases y Palabras para Agradecer en Cualquier Aniversario
 
 >Si las frases no son lo tuyo, a veces una sola palabra puede transmitir un mundo de emociones: "Gracias", "Amor", "Juntos".
-{:id="frases"}
 
 ### Frases con palabras cortas pero significativas
 
