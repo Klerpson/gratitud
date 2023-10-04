@@ -120,7 +120,7 @@ Puedes incluir clips de personas importantes en tu vida académica. Pídele a lo
 
 ### Cómo redactar un agradecimiento impactante en tu proyecto de grado
 
-Si estás presentando un proyecto de grado o una tesis, [el agradecimiento es una sección]({{'agradecimientos-trabajo-escrito'|relative_url}} "Agradecimientos en un trabajo escrito") que no debes pasar por alto.
+Si estás presentando un proyecto de grado o una tesis, [el agradecimiento es una sección](https://trabajoescrito.com/agradecimientos-trabajo-escrito "Agradecimientos en un trabajo escrito") que no debes pasar por alto.
 
 **Sé específico sobre las contribuciones de cada persona** y cómo han impactado en tu proyecto.
 
