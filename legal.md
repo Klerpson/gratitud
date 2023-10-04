@@ -1,6 +1,6 @@
 ---
 layout: page-basic
-title: Términos y Codiciones de Uso | diariogratitud.com
+title: Términos y Condiciones de Uso | diariogratitud.com
 description: Condiciones de uso de la página diariogratitud.com
 h1: Término y condiciones, privacidad y aspectos legales del uso de diariogratitud.com
 noindex: true
@@ -59,7 +59,7 @@ Julian Franco informa a los usuarios, que los datos personales recabados podrán
 
 El usuario es el único responsable de la precisión y veracidad de los datos. Julian Franco queda eximido de toda responsabilidad a este respecto. Serán los usuarios quienes garantizarán que los datos proporcionados sean auténticos, precisos, no hayan cambiado y continúen siendo los mismos. Adquirirán también el compromiso de mantenerlos actualizados.
 
-El usuario proporcionará información completa y correcta cuando se le sociliten para el registro. Julian Franco no se hará responsable de la veracidad de información de terceros ni de informaciones que citen otras fuentes. Tampoco se hará responsable de los hipotéticos daños que la utilización de dicha información pudiere causar.
+El usuario proporcionará información completa y correcta cuando se le soliciten para el registro. Julian Franco no se hará responsable de la veracidad de información de terceros ni de informaciones que citen otras fuentes. Tampoco se hará responsable de los hipotéticos daños que la utilización de dicha información pudiere causar.
 
 Julian Franco se reserva el derecho de actualizar, modificar o borrar la información su Sitio Web, así como el derecho de restringir o prohibir el acceso a ellas. Si la información viene de fuentes ajenas a la empresa, Julian Franco no será responsable de ningún daño que el usuario pueda sufrir como resultado de errores, fallos u omisiones en dicha información.
 
