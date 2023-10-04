@@ -61,7 +61,7 @@ Estas frases son perfectas para aquellos que quieren expresar su gratitud a Dios
 
 ### Imágenes con Mensajes para Amigos
 
-Las imágenes con mensajes de agradecimiento son una forma creativa y visual de expresar tu gratitud. Puedes encontrar una variedad de imágenes en sitios como [agradecimientos.org](https://agradecimientos.org/frases/amigos/) que puedes compartir en redes sociales o enviar directamente a tus amigos.
+Las imágenes con mensajes de agradecimiento son una forma creativa y visual de expresar tu gratitud. Puedes encontrar una variedad de imágenes en sitios como agradecimientos.org que puedes compartir en redes sociales o enviar directamente a tus amigos.
 
 ### Imágenes de Agradecimiento para Redes Sociales
 
@@ -106,7 +106,7 @@ Estas palabras son ideales para agradecer a tus amigos de trabajo que hacen que 
 
 ### Reflexiones sobre la Gratitud en la Amistad
 
-La gratitud en la amistad no es solo acerca de decir "gracias". Es una actitud y una forma de vivir. La gratitud nos permite apreciar plenamente lo que tenemos y fortalece nuestras relaciones. Como menciona [norfipc.com](https://norfipc.com/amor/mensajes-para-corresponder-agradecer-buena-amistad.php), la gratitud es una forma de amor, y en la amistad, ese amor se refleja y crece.
+La gratitud en la amistad no es solo acerca de decir "gracias". Es una actitud y una forma de vivir. La gratitud nos permite apreciar plenamente lo que tenemos y fortalece nuestras relaciones. Como menciona [norfipc.com](https://norfipc.com/amor/mensajes-para-corresponder-agradecer-buena-amistad.php){:rel="nofollow noopener noreferrer" target="_blank"}, la gratitud es una forma de amor, y en la amistad, ese amor se refleja y crece.
 
 ## Videos y Multimedia para Expresar Agradecimiento
 
