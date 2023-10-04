@@ -26,7 +26,7 @@ Las frases emotivas tienen el poder de conectar con las personas a un nivel más
 
 ### Ejemplos para inspirarte
 
-1. "Tu presencia hizo este día aún más especial. Gracias por estar aquí."
+1. "[Tu presencia hizo este día aún más especial. Gracias por estar aquí]({{'frases-agradecimiento-bodas/tu-presencia-hizo-este-dia-aun-mas-especial'|relative_url}})."
 2. "Gracias por ser parte de este capítulo tan importante en nuestras vidas."
 3. "Tu compañía en nuestra boda es el mejor regalo que podríamos haber recibido."
 

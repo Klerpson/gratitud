@@ -24,24 +24,13 @@ Por eso, te ofrecemos una colección exhaustiva de **frases de despedida y agrad
 
 ----
 
-## Elementos esenciales en un mensaje de despedida: Más allá de las palabras
-
-Un mensaje de despedida efectivo va más allá de las simples palabras; es una combinación de varios elementos que lo hacen genuino y memorable.
-
-Aquí te detallamos los componentes clave que hacen que tu **mensaje de despedida y agradecimiento** resuene en el corazón de quien lo recibe.
-
-* **Sinceridad**: Este es el pilar fundamental de cualquier mensaje de despedida, pues le *agrega autenticidad a tus frases de despedida y agradecimiento*.
-* **Gratitud**: La gratitud es el elemento que añade profundidad y significado a tus palabras, así logras transformar un simple adiós en un mensaje de agradecimiento memorable.
-* **Toque personal**: Es la firma única en tu mensaje. *Con un toque personal tu mensaje se destacará*. Puede ser una anécdota, un chiste interno o incluso un simple gesto que solo tenga significado para ti y la otra persona.
-{:class="seccion"}
-
 ## Frases para despedidas: Palabras que dejan huella
 
 ### Ejemplos para despedidas laborales: De la oficina al corazón
 
 #### A un jefe: Reconocimiento y crecimiento
 
-* "Gracias por ser más que un jefe, por ser un mentor que ha influido significativamente en mi **desarrollo profesional y personal**."
+* "[Gracias por ser más que un jefe, por ser un mentor que ha influido significativamente en mi **desarrollo profesional y personal**]({{'frases-agradecimiento-despedidas/gracias-por-ser-mas-que-un-jefe-por-ser-un-mentor'|relative_url}})."
 
 #### A Compañeros de Trabajo: Compañerismo y Aprendizaje
 
@@ -115,6 +104,17 @@ Un mensaje de despedida efectivo es aquel que es claro y directo. Aquí algunos 
 
 * **Sé claro**: Utiliza un lenguaje sencillo y directo, con las palabras que acostumbras utilizar en el día a día.
 * **Evita ambigüedades**: Asegúrate de que tu mensaje no pueda ser malinterpretado. Recuerda la [tercer sugerencias sobre ser específicos](#3-se-específico-en-tus-frases-la-claridad-al-despedirte).
+
+## Elementos esenciales en un mensaje de despedida: Más allá de las palabras
+
+Un mensaje de despedida efectivo va más allá de las simples palabras; es una combinación de varios elementos que lo hacen genuino y memorable.
+
+Aquí te detallamos los componentes clave que hacen que tu **mensaje de despedida y agradecimiento** resuene en el corazón de quien lo recibe.
+
+* **Sinceridad**: Este es el pilar fundamental de cualquier mensaje de despedida, pues le *agrega autenticidad a tus frases de despedida y agradecimiento*.
+* **Gratitud**: La gratitud es el elemento que añade profundidad y significado a tus palabras, así logras transformar un simple adiós en un mensaje de agradecimiento memorable.
+* **Toque personal**: Es la firma única en tu mensaje. *Con un toque personal tu mensaje se destacará*. Puede ser una anécdota, un chiste interno o incluso un simple gesto que solo tenga significado para ti y la otra persona.
+{:class="seccion"}
 
 ## El Poder de las palabras en despedidas y agradecimientos
 

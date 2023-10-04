@@ -20,26 +20,19 @@ Si estás aquí, es porque sabes que la familia es el pilar fundamental en nuest
 El agradecimiento es más que una simple palabra; es una actitud que fortalece los lazos familiares.
 
 **Ser agradecido** no solo mejora tu bienestar emocional, sino que también crea un ambiente positivo en el hogar.
-{:id="frases"}
-
-### ¿Por qué el Agradecimiento es el Ingrediente Secreto para una Familia Unida?
-
-- **Estrecha los Lazos Familiares**: Al expresar gratitud, no solo reconoces los esfuerzos y bondades de los demás, sino que también fortaleces la cohesión y unidad dentro del núcleo familiar.
-- **Catalizador de Conversaciones Sinceras**: Agradecer abre canales de comunicación, permitiendo que cada miembro de la familia se sienta valorado y escuchado. Esto fomenta un diálogo abierto y honesto, esencial para cualquier relación saludable.
-- **Crea un Entorno de Amor y Respeto Mutuo**: Cuando la gratitud se convierte en una práctica común en el hogar, se genera un ambiente en el que el amor y el respeto florecen. Esto, a su vez, contribuye a un bienestar emocional y mental para todos los miembros de la familia.
-{:class="seccion"}
 
 ## Agradecimiento a los padres: Más allá de las palabras
 
 Los padres son nuestros primeros maestros, protectores y guías en la vida. Agradecerles va más allá de un simple "gracias"; es un reconocimiento profundo de todo lo que han hecho por nosotros.
 
 Toma nota de las siguientes frases para que tus padres sientan lo especiales que son para ti.
+{:id="frases"}
 
 ### Frases de agradecimiento a los padres
 
 Las frases son una forma rápida y efectiva de transmitir lo que sentimos. Aquí tienes algunas que pueden ayudarte a expresar tu gratitud:
 
-- "Padres, son mi roca y mi refugio. Gracias por ser inquebrantables."
+- "[Padres, son mi roca y mi refugio. Gracias por ser inquebrantables]({{'frases-agradecimiento-familia/padres-son-mi-roca-y-mi-refugio'|relative_url}})."
 - "Gracias por darme raíces para crecer y alas para volar."
 - "En este mundo lleno de incertidumbre, su amor y apoyo son mis únicas constantes."
 {:class="seccion"}
@@ -234,6 +227,13 @@ Los compadres y otros parientes cercanos también merecen un reconocimiento espe
 3. **A través de las redes sociales**: Un post dedicado a ellos puede ser una bonita sorpresa.
 
 Espero que estas sugerencias te ayuden a encontrar la forma perfecta de *expresar tu gratitud a esos familiares que hacen la vida un poco más dulce*. ¿Y tú, cómo sueles dar las gracias a los tuyos?
+
+### ¿Por qué el Agradecimiento es el Ingrediente Secreto para una Familia Unida?
+
+- **Estrecha los Lazos Familiares**: Al expresar gratitud, no solo reconoces los esfuerzos y bondades de los demás, sino que también fortaleces la cohesión y unidad dentro del núcleo familiar.
+- **Catalizador de Conversaciones Sinceras**: Agradecer abre canales de comunicación, permitiendo que cada miembro de la familia se sienta valorado y escuchado. Esto fomenta un diálogo abierto y honesto, esencial para cualquier relación saludable.
+- **Crea un Entorno de Amor y Respeto Mutuo**: Cuando la gratitud se convierte en una práctica común en el hogar, se genera un ambiente en el que el amor y el respeto florecen. Esto, a su vez, contribuye a un bienestar emocional y mental para todos los miembros de la familia.
+{:class="seccion"}
 
 ----
 

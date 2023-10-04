@@ -31,14 +31,6 @@ Antes de lanzarte a escribir esa nota de agradecimiento, es vital que sepas qué
 - **Sé específico**: Evita el genérico "gracias por todo" y opta por detalles que resalten su contribución. Si bien la remuneración es importante, la gratitud de los estudiantes puede ser igualmente gratificante. *Un agradecimiento sincero puede llenar el vacío emocional que a veces el salario no puede cubrir*.
 - **Expresa el impacto**: ¿Cómo te ha ayudado en tu formación académica o emocional? Agradecer a tu profesor no solo beneficia al educador, sino que también fortalece tu relación con él. *Una relación positiva con un profesor puede abrir puertas a oportunidades académicas y personales*.
 
-## Consejos prácticos para expresar gratitud
-
-- **Sé específico**: Menciona una acción o consejo que te haya dado y cómo te ayudó.
-- **Sé sincero**: La autenticidad siempre brilla.
-- **No esperes**: No dejes el agradecimiento para el último día del semestre; hazlo cuando sientas que es el momento adecuado.
-- **Revisa y corrige**: Antes de entregar tu mensaje, asegúrate de que esté bien escrito. Un mensaje descuidado podría desviar la atención del contenido emocional.
-{:class="seccion"}
-
 ## Frases de agradecimiento para profesores de preescolar
 
 Los maestros de preescolar son los primeros guías en el viaje educativo de un niño. Su labor va más allá de enseñar números y letras; también inculcan valores y habilidades sociales. Aquí tienes algunas frases para agradecer a estos héroes sin capa.
@@ -46,7 +38,7 @@ Los maestros de preescolar son los primeros guías en el viaje educativo de un n
 
 ### Para la maestra que es inolvidable
 
-- "Gracias por hacer que cada día en el aula sea una aventura llena de amor."
+- "[Gracias por hacer que cada día en el aula sea una aventura llena de amor]({{'frases-agradecimiento-maestros/gracias-por-hacer-que-cada-dia-en-el-aula-sea-una-aventura'|relative_url}})."
 - "Gracias por cuidar de mi hijo como si fuera tuyo."
 
 ### Para el maestro que enseña con amor
@@ -366,6 +358,14 @@ Aquí te dejo algunas frases de agradecimiento que puedes personalizar según el
 Recuerda, estas son solo plantillas. Lo más impactante es personalizar tu mensaje para que se ajuste a la singularidad de tu profesor.
 
 ----
+
+## Consejos prácticos para expresar gratitud
+
+- **Sé específico**: Menciona una acción o consejo que te haya dado y cómo te ayudó.
+- **Sé sincero**: La autenticidad siempre brilla.
+- **No esperes**: No dejes el agradecimiento para el último día del semestre; hazlo cuando sientas que es el momento adecuado.
+- **Revisa y corrige**: Antes de entregar tu mensaje, asegúrate de que esté bien escrito. Un mensaje descuidado podría desviar la atención del contenido emocional.
+{:class="seccion"}
 
 ## Errores comunes al agradecer a un profesor y cómo evitarlos
 
