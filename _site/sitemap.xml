@@ -201,6 +201,30 @@
   
   
       <url>
+        <loc>http://localhost:4000/frases-agradecimiento-trabajo/tu-dedicacion-imprescindible-para-empresa</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+      <url>
+        <loc>http://localhost:4000/frases-agradecimiento-familia/padres-son-mi-roca-y-mi-refugio</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+      <url>
+        <loc>http://localhost:4000/frases-agradecimiento-maestros/gracias-por-hacer-que-cada-dia-en-el-aula-sea-una-aventura</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+      <url>
+        <loc>http://localhost:4000/frases-agradecimiento-despedidas/gracias-por-ser-mas-que-un-jefe-por-ser-un-mentor</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+      <url>
         <loc>http://localhost:4000/frases-agradecimiento-bodas/tu-presencia-hizo-este-dia-aun-mas-especial</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>

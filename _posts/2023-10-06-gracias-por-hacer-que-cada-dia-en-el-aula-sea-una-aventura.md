@@ -13,6 +13,8 @@ permalink: frases-agradecimiento-maestros/gracias-por-hacer-que-cada-dia-en-el-a
 ---
 ## Análisis de la frase 📚
 
+![{{page.alt}}]({{site.baseurl}}/img/{{page.webp}} "{{page.alt}}"){:width="320" height="320" loading="lazy"}
+
 Esta frase es como un abrazo en palabras, ¿verdad? **"Gracias por hacer que cada día en el aula sea una aventura llena de amor"**.
 
 Aquí hay mucho más que un simple agradecimiento. Estamos hablando de una conexión emocional profunda entre el alumno y el maestro.

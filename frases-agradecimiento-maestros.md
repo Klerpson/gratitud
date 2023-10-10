@@ -17,13 +17,13 @@ excerpt: ¿Quieres fidelizar a tus clientes? Conoce las mejores frases de agrade
 
 Tenemos frases emotivas o ideas de regalos simbólicos. Lo cubriremos todo. **Sigue leyendo para descubrir cómo puedes hacer que ese maestro especial se sienta valorado.**
 
-## ¿Por qué es importante agradecer a un profesor?
+## Todos deberíamos agradecer a los maestros
 
 Los profesores no son solo transmisores de conocimiento; son formadores de carácter, guías en la vida y, a menudo, nuestros mayores apoyos.
 
 Agradecer a un profesor va más allá de la mera cortesía; es una forma de **reconocimiento que puede tener un impacto profundo en su bienestar emocional y profesional.**
 
-## ¿Qué decir al agradecer?
+## Puntos para tener en cuenta al decir frases de agradecimiento a maestros
 
 Antes de lanzarte a escribir esa nota de agradecimiento, es vital que sepas qué quieres comunicar. Aquí hay algunas pautas:
 

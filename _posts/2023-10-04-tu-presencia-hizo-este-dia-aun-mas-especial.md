@@ -13,6 +13,8 @@ permalink: frases-agradecimiento-bodas/tu-presencia-hizo-este-dia-aun-mas-especi
 ---
 ## Análisis de la frase: el poder de la gratitud en un día inolvidable
 
+![{{page.alt}}]({{site.baseurl}}/img/{{page.webp}} "{{page.alt}}"){:width="320" height="320" loading="lazy"}
+
 Esta frase es una joya en el mundo de las **bodas**. No solo expresa **gratitud**, sino que también resalta la importancia de la **presencia** de alguien en un evento tan significativo.
 
 Es como decir: "Este día ya era especial, pero tú lo hiciste aún más mágico". Es una frase que va más allá de un simple "gracias", ya que añade un valor emocional y sentimental al agradecimiento.

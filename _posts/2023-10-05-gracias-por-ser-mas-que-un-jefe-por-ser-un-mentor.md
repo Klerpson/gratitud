@@ -13,6 +13,8 @@ permalink: frases-agradecimiento-despedidas/gracias-por-ser-mas-que-un-jefe-por-
 ---
 ## Análisis de la frase: más que un jefe, un mentor
 
+![{{page.alt}}]({{site.baseurl}}/img/{{page.webp}} "{{page.alt}}"){:width="320" height="320" loading="lazy"}
+
 Esta frase es un tesoro en el mundo de las **despedidas laborales**. No solo expresa **gratitud**, sino que también va más allá al reconocer la influencia positiva que un jefe puede tener en el **desarrollo profesional y personal** de un empleado.
 
 Es como decir: "No solo me has dirigido en el trabajo, sino que también has sido una guía en mi vida". Es una frase que añade una capa de **emoción y reconocimiento** que va más allá de un simple adiós.

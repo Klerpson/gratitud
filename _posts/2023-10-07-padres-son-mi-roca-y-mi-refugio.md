@@ -13,6 +13,8 @@ permalink: frases-agradecimiento-familia/padres-son-mi-roca-y-mi-refugio
 ---
 ## Análisis de la frase 🤔
 
+![{{page.alt}}]({{site.baseurl}}/img/{{page.webp}} "{{page.alt}}"){:width="320" height="320" loading="lazy"}
+
 La frase "Padres, son mi roca y mi refugio. Gracias por ser inquebrantables" es una **joya emocional** que nos habla directamente al corazón.
 
 Aquí, la palabra "roca" simboliza la **fortaleza** y la **estabilidad** que nuestros padres nos brindan.

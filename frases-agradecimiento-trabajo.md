@@ -36,7 +36,7 @@ Ahora que sabes por qué es crucial, hablemos de cómo hacerlo efectivamente. Ut
 
 ### Frases de agradecimiento para jefes y gerentes
 
-* **"Tu dedicación es imprescindible para el crecimiento de nuestra empresa. Gracias por tus esfuerzos."**
+* **"[Tu dedicación es imprescindible para el crecimiento de nuestra empresa. Gracias por tus esfuerzos.]({{'frases-agradecimiento-trabajo/tu-dedicacion-imprescindible-para-empresa'|relative_url}})"**
 * **"El trabajo duro de un empleado es el combustible para una gran cultura empresarial. Gracias por agregar millas adicionales a la nuestra."**
 
 ### Frases para compañeros de trabajo
