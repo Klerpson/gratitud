@@ -1,7 +1,7 @@
 ---
 layout: post
 json-post: "true"
-date: 2023-10-05
+date: 2023-10-06
 title: "🌟Gracias por hacer que cada día en el aula sea una aventura"
 description: "Frase: 'Gracias por hacer QUE CADA DÍA EN EL AULA sea una aventura llena de amor' 🌟 ¡Haz clic para emocionarte! ❤️"
 category: Maestros
