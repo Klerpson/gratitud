@@ -13,9 +13,7 @@ boton: Agradecimiento por premio recibido
 excerpt: ¿Quieres que tus palabrasde agradecimiento en tu premiación sean memorables? Encuentra los mejores consejos y técnicas aquí. No dejes tu discurso de agradecimiento al azar.
 permalink: frases-agradecimiento-premios
 ---
-## Por qué es crucial agradecer al recibir un premio
-
-### Destaca también con palabras de agradecimiento por el premio recibido
+## Escoge tus Palabras de Agradecimiento por un Premio Recibido
 
 *Agradecer un premio te posiciona como una persona humilde y consciente del esfuerzo colectivo* que hay detrás de cualquier logro. Y por otra parte, la gratitud genera una **conexión emocional** con tu audiencia, lo que puede abrir puertas para futuras oportunidades.
 
@@ -28,11 +26,11 @@ permalink: frases-agradecimiento-premios
 Agradecer es también una forma de reconocer ese esfuerzo colectivo. Al hacerlo, no solo elevas tu propio estatus sino que también *validas el trabajo y apoyo de los demás*.
 {:id="enlace"}
 
-## Frases de agradecimiento que debes incluir en tu discurso de premiación
+## Frases de agradecimiento por ganar un premio
 
 ### Agradecimiento al jurado que otorga el premio
 
-Este es un momento crucial en tu discurso. Agradecer al jurado no solo es cortés sino también estratégico. Utiliza frases como **"Estoy profundamente honrado por este reconocimiento y agradezco al jurado por considerar mi trabajo digno de este premio"**. Esto muestra tu *respeto hacia el proceso de selección* y hacia quienes tomaron la decisión.
+Este es un momento crucial en tu discurso. Agradecer al jurado no solo es cortés sino también estratégico. Utiliza frases como **"[Estoy profundamente honrado por este reconocimiento y agradezco al jurado por considerar mi trabajo digno de este premio]({% post_url 2023-10-16-honrado-por-este-reconocimiento %})"**. Esto muestra tu *respeto hacia el proceso de selección* y hacia quienes tomaron la decisión.
 
 #### Ejemplos de agradecimiento al jurado
 
