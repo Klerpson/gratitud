@@ -9,7 +9,7 @@ h1: "'Estoy profundamente honrado por este reconocimiento y agradezco al jurado'
 jpg: blog/honrado-por-este-reconocimiento.jpg
 webp: blog/honrado-por-este-reconocimiento.avif
 alt: Gracias por el reconocimiento
-permalink: frases-agradecimiento-trabajo/honrado-por-este-reconocimiento-para-empresa
+permalink: frases-agradecimiento-premios/honrado-por-este-reconocimiento
 ---
 ![{{page.alt}}]({{site.baseurl}}/img/{{page.webp}} "{{page.alt}}"){:width="320" height="320" loading="lazy"}
 
