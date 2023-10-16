@@ -50,14 +50,13 @@ Practica la gratitud diaria, visualiza tus sueños con claridad y eleva tu vibra
 - 🎀 [Curso intermedio El PODER DE LA GRATITUD](https://go.hotmart.com/E86509352B){:rel="nofollow noopener sponsored" target="_blank" action="/gracias"}
 {:class="seccion"}
 
-## ¿Qué más podemos hacer por ti?
+## Sigue llenando tu vida de gratitud
 
-Escríbenos para sugerirnos cómo podemos seguir aportándote más valor. Además, puedes dejarnos tus inquietudes también.
+Déjanos tu email y tu nombre. Así podrás recibir todas las frases que iremos agregando a nuestro blog. ¡Inscríbete!
 
 {% include formulario.html %}
 
 ¡Esperamos escuchar de ti pronto!
 
-El equipo de diariogratitud.com
-
-----
+Equipo diariogratitud.com
+{:style="font-family: var(--fuenteTitulos); font-size: 2em;"}
