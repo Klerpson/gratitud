@@ -393,7 +393,7 @@ hr:before {
 }
 
 .more .gallery-slider{
-  width: min(100%, 620px);
+  width: min(90%, 620px);
 }
 
 .seccion_frases{

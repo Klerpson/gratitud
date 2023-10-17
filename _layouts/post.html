@@ -9,11 +9,15 @@ layout: default
       <a id="copiar" onclick="copiarUrl()" class="boton boton_2" >💌 Copiar</a>
     </section>
     {{ content }}
-    {% include related.html %}
     <section class="share">
       {% include share.html %}
     </section>
   </article>
+  <div class="more">
+      {% include related.html %}
+      <h3>Encuentra más frases de agradecimiento por temas</h3>
+      {% include slider.html %}
+    </div>
   {% include comentarios.html %}
 </main>
 {% include cta.html %}

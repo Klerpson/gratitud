@@ -2,7 +2,7 @@
   position: relative;
   display: flex;
   align-items: center;
-  width: min(100%, 440px);
+  width: min(90%, 440px);
   border-radius: 8px;
 }
 
@@ -18,11 +18,11 @@
 }
 
 .gallery-slider span:first-child {
-  left: -20px;
+  left: -16px;
 }
 
 .gallery-slider span:last-child {
-  right: -20px;
+  right: -16px;
 }
 
 .gallery-slider .slide-container{
