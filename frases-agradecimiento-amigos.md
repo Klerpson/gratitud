@@ -19,7 +19,7 @@ En esta sección, te ofrecemos una **colección completa de frases, imágenes, y
 
 Utiliza estos enlaces para encontrar **frases más específicas para tus amigos:**
 
-[Por la amistad]({{site.baseurl}}{{page.url}}/por-amistad){:class="boton boton_1"} [Por la amistad]({{'por-la-amistad'|relative_url}}){:class="boton boton_1"} [Por la amistad]({{'por-la-amistad'|relative_url}}){:class="boton boton_1"} [Por la amistad]({{'por-la-amistad'|relative_url}}){:class="boton boton_1"} [Por la amistad]({{'por-la-amistad'|relative_url}}){:class="boton boton_1"} [Por la amistad]({{'por-la-amistad'|relative_url}})
+[Por la amistad]({{site.baseurl}}{{page.url}}/por-amistad){:class="boton boton_1"} 
 {:class="seccion_frases"}
 
 ### Frases cortas para agradecer a un amigo
