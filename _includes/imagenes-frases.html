@@ -1,0 +1,13 @@
+<div class="seccion_imagenes">
+  {% for imgs in site.data.frases.amigos %}
+  {% for img in imgs %}
+  <article>
+    <img src="{{site.baseurl}}/img/frases-{{page.tema|downcase}}/{{img[0]}}" alt="Frases {{page.tema}} {% increment var %}" loading="lazy" width="280">
+    <div>
+      <h4>{{img[1]}}</h4>
+      <a href="{{site.baseurl}}/img/frases-{{page.tema|downcase}}/{{img[0]}}" title="Descargar" download="{{img[0]}}">Abre y descarga la imagen en otra pestaña</a>
+    </div>
+  </article>
+  {% endfor %}
+  {% endfor %}
+</div>

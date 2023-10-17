@@ -397,6 +397,9 @@ hr:before {
 }
 
 .seccion_frases{
+  background-color: var(--secundario);
+  box-shadow: 0 0 0 100vmax var(--secundario);
+  clip-path: inset(0 -100vmax); 
   display: flex;
   flex-wrap: wrap;
   gap: 1em;
@@ -405,17 +408,37 @@ hr:before {
   justify-content: center;
 }
 
-.seccion_frases li{
-  list-style: none;
-  color: var(--complemento2);
-  font-weight: bolder;
-  font-size: 1.5em;
-  padding: 1em;
-  border: 1px solid var(--complemento1);
-  width: 100%;
-  background-color: white;
-  box-shadow: var(--shadow);
+.seccion_imagenes article{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1em;
+  margin-bottom: 2em;
+}
+
+.seccion_imagenes div{
+  flex: 0 1 600px;
+  max-width: 100%;
+  display: grid;
+  align-items: center;
+  justify-content: right;
+}
+
+.seccion_imagenes div h4{
+  background-color: var(--secundario);
+  font-family: var(--fuenteTitulos);
+  font-size: 1.2em;
+  padding: 16px;
   border-radius: var(--radius);
+}
+
+.seccion_imagenes div a{
+  font-size: 1.2rem;
+  text-decoration: none;
+  padding: 8px 16px;
+  border: 2px solid var(--accion);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  text-align: center;
 }
 
   /* 
