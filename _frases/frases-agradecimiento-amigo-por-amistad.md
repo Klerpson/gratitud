@@ -4,7 +4,7 @@ title: "Frases de Agradecimiento a un Amigo por su Amistad | Descárgalas"
 h1: "Frases de Agradecimiento a un Amigo por su Amistad"
 description: ¿Buscas la manera de agradecer a un amigo especial? Descubre frases que tocan el alma. ¡Haz clic y emociona a tus amigos!
 tema: Amigos
-avif: 
+avif: amistad.avif
 alt: Frases agradecimiento amigos
 permalink: frases-agradecimiento-amigos/por-amistad
 ---
