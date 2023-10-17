@@ -97,3 +97,14 @@ header {
   flex: 1 0 480px;
   max-width: 100%;
 }
+
+.hero_frase{
+  background: #FFE381;
+  background: -webkit-linear-gradient(to right, #783F8E, #FFE381);
+  background: linear-gradient(to right, #783F8E, #FFE381);
+}
+
+.hero_frase h1{
+  max-width: 720px;
+  color: white;
+}

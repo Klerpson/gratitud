@@ -1,37 +1,20 @@
 <aside class="related">
 <h3>Inspírate con más frases de gratitud</h3>
-  {% assign maxRelated = 4 %}
-  {% assign minCommonTags =  1 %}
-  {% assign maxRelatedCounter = 0 %}
-
-
-  {% for post in site.posts %}
-
-
-    {% assign sameTagCount = 0 %}
-    {% assign commonTags = '' %}
-
-    {% for tag in post.tags %}
-      {% if post.url != page.url %}
-        {% if page.tags contains tag %}
-          {% assign sameTagCount = sameTagCount | plus: 1 %}
-          {% capture tagmarkup %} <span class="label label-default">{{ tag }}</span> {% endcapture %}
-          {% assign commonTags = commonTags | append: tagmarkup %}
-        {% endif %}
-      {% endif %}
-    {% endfor %}
-
-    {% if sameTagCount >= minCommonTags %}
-
-          <a href="{{ site.baseurl }}{{ post.url }}" class="flow">
-            <img src="{{site.baseurl}}/img/blog/{{post.img}}" alt="{{post.alt}}" loading="lazy">
-            <h5>{{ post.title }}</h5>
-          </a>
-
-      {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
-      {% if maxRelatedCounter >= maxRelated %}
-        {% break %}
-      {% endif %}
-    {% endif %}
+{% assign posts = site.posts | where_exp:"post", "post.url != page.url" | sample:4 %}
+  {% for post in site.posts | limit: 5 %}
+    <a href="{{ site.baseurl }}{{ post.url }}" class="flow">
+      {% assign foundImage = 0 %}
+          {% assign images = post.content | split:"<img " %}
+              {% for image in images %}
+                {% if image contains 'src' %}
+                    {% if foundImage == 0 %}
+                    {% assign html = image | split:"/>" | first %}
+                    <img width="250" {{ html }} />
+                     {% assign foundImage = 1 %}
+                    {% endif %}
+                 {% endif %}
+             {% endfor %}
+      <h5>{{ post.title }}</h5>
+    </a>
   {% endfor %}
 </aside>

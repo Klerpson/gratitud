@@ -15,23 +15,12 @@ La amistad es un tesoro invaluable que todos tenemos el privilegio de disfrutar.
 
 En esta sección, te ofrecemos una **colección completa de frases, imágenes, y mensajes de agradecimiento especialmente diseñados para tus amigos**. Además, exploraremos la importancia del agradecimiento en la amistad y cómo puedes aplicarlo en tu vida diaria.
 
-## La Importancia del agradecimiento en la amistad
-
-![{{page.alt}}]({{site.baseurl}}/img/{{page.webp}} "Palabras de agradecimiento amigos"){:width="320" height="320" loading="lazy"}
-
-### ¿Por qué agradecer fortalece los lazos?
-
-Agradecer no es solo una cortesía; es una expresión genuina de aprecio y reconocimiento. Cuando agradeces a tus amigos, les estás mostrando que valoras su presencia y esfuerzos en tu vida.
-
-Esta es la mejor manera de crear un vínculo más fuerte y una conexión más profunda. El agradecimiento puede ser un puente que une corazones y fortalece la amistad.
-
-### Beneficios Emocionales del Agradecimiento
-
-La gratitud tiene un impacto positivo en nuestras emociones. Nos hace sentir más felices, más conectados y más satisfechos con nuestras vidas.
-
-El agradecimiento puede reducir el estrés y aumentar la empatía hacia los demás. En la amistad, esto se traduce en una relación más saludable y armoniosa.
-
 ## Frases de agradecimiento para amigos
+
+Utiliza estos enlaces para encontrar **frases más específicas para tus amigos:**
+
+[Por la amistad]({{site.baseurl}}{{page.url}}/por-amistad){:class="boton boton_1"} [Por la amistad]({{'por-la-amistad'|relative_url}}){:class="boton boton_1"} [Por la amistad]({{'por-la-amistad'|relative_url}}){:class="boton boton_1"} [Por la amistad]({{'por-la-amistad'|relative_url}}){:class="boton boton_1"} [Por la amistad]({{'por-la-amistad'|relative_url}}){:class="boton boton_1"} [Por la amistad]({{'por-la-amistad'|relative_url}})
+{:class="seccion_frases"}
 
 ### Frases cortas para agradecer a un amigo
 
@@ -94,7 +83,7 @@ Estos mensajes reflejan una profunda apreciación por la amistad incondicional y
 
 Estos mensajes son perfectos para agradecer esos pequeños gestos cotidianos que hacen que la amistad sea especial.
 
-## Palabras y Reflexiones sobre el Agradecimiento
+## Palabras y Reflexiones sobre el Agradecimiento para los Amigos
 
 ### Palabras de Agradecimiento para Amigos de Trabajo
 
@@ -108,7 +97,23 @@ Estas palabras son ideales para agradecer a tus amigos de trabajo que hacen que 
 
 La gratitud en la amistad no es solo acerca de decir "gracias". Es una actitud y una forma de vivir. La gratitud nos permite apreciar plenamente lo que tenemos y fortalece nuestras relaciones. Como menciona [norfipc.com](https://norfipc.com/amor/mensajes-para-corresponder-agradecer-buena-amistad.php){:rel="nofollow noopener noreferrer" target="_blank"}, la gratitud es una forma de amor, y en la amistad, ese amor se refleja y crece.
 
-## Videos y Multimedia para Expresar Agradecimiento
+## La Importancia del agradecimiento en la amistad
+
+![{{page.alt}}]({{site.baseurl}}/img/{{page.webp}} "Palabras de agradecimiento amigos"){:width="320" height="320" loading="lazy"}
+
+### ¿Por qué agradecer fortalece los lazos?
+
+Agradecer no es solo una cortesía; es una expresión genuina de aprecio y reconocimiento. Cuando agradeces a tus amigos, les estás mostrando que valoras su presencia y esfuerzos en tu vida.
+
+Esta es la mejor manera de crear un vínculo más fuerte y una conexión más profunda. El agradecimiento puede ser un puente que une corazones y fortalece la amistad.
+
+### Beneficios Emocionales del Agradecimiento
+
+La gratitud tiene un impacto positivo en nuestras emociones. Nos hace sentir más felices, más conectados y más satisfechos con nuestras vidas.
+
+El agradecimiento puede reducir el estrés y aumentar la empatía hacia los demás. En la amistad, esto se traduce en una relación más saludable y armoniosa.
+
+## Videos y Multimedia para Expresar Agradecimiento a los Amigos
 
 ### Videos con Mensajes de Agradecimiento
 
@@ -118,7 +123,7 @@ Los videos son una forma dinámica y emocional de expresar gratitud. Puedes enco
 
 La música tiene el poder de transmitir emociones y sentimientos. Dedica una canción a tus amigos para agradecerles y mostrarles cuánto significan para ti.
 
-## Agradecimiento en Diferentes Culturas y Tradiciones
+## Agradecimiento Entre Amigos en Diferentes Culturas y Tradiciones
 
 ### Tradiciones de Agradecimiento alrededor del Mundo
 

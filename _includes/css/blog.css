@@ -142,12 +142,12 @@
   text-align: center;
 }
 
-.copiar h2{
+.copiar h3{
   color: var(--complemento2);
 }
 
 .copiar span{
-  font-size: 1.6em;
+  font-size: 1.2em;
   line-height: 1.2;
 }
 

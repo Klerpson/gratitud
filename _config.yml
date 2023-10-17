@@ -25,3 +25,7 @@ compress_html:
     blanklines: false
     profile: false
     startings: []
+
+collections:
+  frases:
+    output: true

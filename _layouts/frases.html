@@ -1,0 +1,24 @@
+---
+layout: compress
+---
+{% include head.html %}
+<body>
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PWMLDRLX"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+  {% include nav.html %}
+  <header class="hero_frase">
+    <h1>{{page.h1}}</h1>
+    <img src="/img/agradecimiento-amor.jpg" alt="">
+  </header>
+  <main class="wrapper flow">
+    {{ content }}
+  </main>
+  {% include cta.html %}
+  {% include footer.html %}
+  <a href="#">{% include boton-up.html %}</a>
+  
+</body>
+
+</html>

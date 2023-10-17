@@ -289,7 +289,7 @@ hr:before {
 }
 
 .wrapper{
-  width: min((100% - 2rem), 1024px);
+  width: min((100% - 2rem), 992px);
   margin-inline: auto;
   padding: 6rem 0;
 }
@@ -357,7 +357,6 @@ hr:before {
 }
 
 .seccion{
-  background-image: url("/bg.png");
   background-color: var(--complemento2);
   box-shadow: 0 0 0 100vmax var(--complemento2);
   clip-path: inset(0 -100vmax); 
@@ -395,6 +394,28 @@ hr:before {
 
 .more .gallery-slider{
   width: min(100%, 620px);
+}
+
+.seccion_frases{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1em;
+  padding: 2em 0;
+  text-align: center;
+  justify-content: center;
+}
+
+.seccion_frases li{
+  list-style: none;
+  color: var(--complemento2);
+  font-weight: bolder;
+  font-size: 1.5em;
+  padding: 1em;
+  border: 1px solid var(--complemento1);
+  width: 100%;
+  background-color: white;
+  box-shadow: var(--shadow);
+  border-radius: var(--radius);
 }
 
   /* 
