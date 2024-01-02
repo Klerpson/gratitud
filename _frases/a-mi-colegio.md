@@ -1,12 +1,12 @@
 ---
 layout: frases
-title: "Frases de Agradecimiento a un Amigo por su Amistad | Descárgalas"
-h1: "Frases de Agradecimiento a un Amigo por su Amistad"
-description: ¿Buscas la manera de agradecer a un amigo especial? Descubre frases que tocan el alma. ¡Haz clic y emociona a tus amigos!
-tema: Amigos
-avif: amistad.avif
-alt: Frases agradecimiento amigos
-permalink: frases-agradecimiento-amigos/por-amistad
+title: "Palabras de Agradecimiento a mi Colegio por su Aniversario"
+h1: "Palabras de Agradecimiento a mi Colegio por su Aniversario"
+description: Agradece a tu colegio en su día especial con nuestras frases inolvidables. ¡Haz clic y encuentra la tuya! ❤️
+galeria: aniversarios
+avif: a-mi-colegio.avif
+alt: Frases gratitud al colegio
+permalink: frases-agradecimiento-aniversario/a-mi-colegio
 ---
 ## Ejemplos de {{page.h1}}
 
@@ -14,7 +14,7 @@ permalink: frases-agradecimiento-amigos/por-amistad
 
 Estas frases son como pequeñas obras de arte, diseñadas para capturar la esencia de lo que significa ser un verdadero amigo. Así que si estás buscando algo especial para decir, estás en el lugar correcto.
 
-[Aquí tienes más frases para {{page.tema}}]({{'frases-agradecimiento-amigos'|relative_url}}){:class="boton boton_2"}
+[Aquí tienes más frases para {{page.tema}}]({{'frases-agradecimiento-aniversario'|relative_url}}){:class="boton boton_2"}
 
 ### Frases e Imágenes de {{page.h1}}
 
@@ -22,7 +22,7 @@ Si eres de los que piensa que una imagen vale más que mil palabras, entonces te
 
 Tambien hay imágenes que son perfectas para **Instagram**, **WhatsApp** o cualquier otra red social donde quieras expresar tu gratitud.
 
-{% include imagenes-frases.html %}
+{% include imagenes-frases.html tema="colegio" %}
 
 ## Comparte las {{page.h1}}
 

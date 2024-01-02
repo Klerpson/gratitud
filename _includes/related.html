@@ -1,7 +1,7 @@
 <aside class="related">
 <h3>Inspírate con más frases de gratitud</h3>
-{% assign posts = site.posts | where_exp:"post", "post.url != page.url" | sample:4 %}
-  {% for post in site.posts | limit: 5 %}
+{% assign posts = site.frases | where_exp:"post", "post.url != page.url" | sample:4 %}
+  {% for post in site.frases | limit: 5 %}
     <a href="{{ site.baseurl }}{{ post.url }}" class="flow">
       {% assign foundImage = 0 %}
           {% assign images = post.content | split:"<img " %}

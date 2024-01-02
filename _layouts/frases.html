@@ -1,29 +1,28 @@
 ---
 layout: compress
 ---
-{% include head.html %}
-<body>
-  <!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PWMLDRLX"
-  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-  <!-- End Google Tag Manager (noscript) -->
-  {% include nav.html %}
-  <header class="hero_frase">
-    <h1>{{page.h1}}</h1>
-    <img src="/img/{{page.avif}}" alt="{{page.alt}}" width="320" height="320">
-  </header>
-  <main class="wrapper flow">
-    {{ content }}
-    <div class="more">
-      {% include related.html %}
-      <h3>Encuentra más frases de agradecimiento por temas</h3>
-      {% include slider.html %}
-    </div>
-  </main>
-  {% include cta.html %}
-  {% include footer.html %}
-  <a href="#">{% include boton-up.html %}</a>
-  
-</body>
-
+  {% include head.html %}
+  <body>
+    <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PWMLDRLX"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    {% include nav.html %}
+    <header class="hero_frase">
+      <h1>{{page.h1}}</h1>
+      <img src="/img/{{page.avif}}" alt="{{page.alt}}" width="320" height="320">
+    </header>
+    <main class="wrapper flow">
+      {% include imagenes-frases.html %}
+      {{ content }}
+      <div class="more">
+        {% include related.html %}
+        <h3>Encuentra más frases de agradecimiento por temas</h3>
+        {% include slider.html %}
+      </div>
+    </main>
+    {% include cta.html %}
+    {% include footer.html %}
+    <a href="#">{% include boton-up.html %}</a>
+  </body>
 </html>

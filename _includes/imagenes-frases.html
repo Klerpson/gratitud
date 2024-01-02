@@ -1,13 +1,12 @@
 <div class="seccion_imagenes">
-  {% for imgs in site.data.frases.amigos %}
-  {% for img in imgs %}
-  <article>
-    <img src="{{site.baseurl}}/img/frases-{{page.tema|downcase}}/{{img[0]}}" alt="Frases {{page.tema}} {% increment var %}" loading="lazy" width="280">
-    <div>
-      <h4>{{img[1]}}</h4>
-      <a href="{{site.baseurl}}/img/frases-{{page.tema|downcase}}/{{img[0]}}" title="Descargar" download="{{img[0]}}">Abre y descarga la imagen en otra pestaña</a>
-    </div>
-  </article>
-  {% endfor %}
-  {% endfor %}
+  {% assign myData = page.galeria %}
+      {% for data in site.data.frases[myData] %}
+      <article>
+        <img src="{{site.baseurl}}/img/frases-{{page.galeria|downcase}}/{{data[0]}}" alt="Frases {{page.tema}} {% increment var %}" loading="lazy" width="280">
+        <div>
+          <h4>{{data[1]}}</h4>
+          <a href="{{site.baseurl}}/img/frases-{{page.galeria|downcase}}/{{data[0]}}" title="Descargar" download="{{data[0]}}">Descarga y comparte la imagen</a>
+        </div>
+      </article>
+      {% endfor %}
 </div>

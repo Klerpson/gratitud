@@ -21,7 +21,10 @@ En el contexto de aniversarios, **agradecer** se convierte en un acto de reconoc
 
 ## Agradecimientos en aniversarios de bodas
 
-![{{page.alt}}]({{site.baseurl}}/img/{{page.webp}} "Agradecimiento amor"){:width="320" height="320" loading="lazy"}
+Utiliza estos enlaces para encontrar **frases más específicas para tus amigos:**
+
+[Para mi Colegio]({{site.baseurl}}{{page.url}}/a-mi-colegio){:class="boton boton_1"}
+{:class="seccion_frases"}
 
 ### Cómo agradecer a tu pareja en su aniversario
 
@@ -48,6 +51,8 @@ El aniversario de una empresa es un hito importante que no sería posible sin el
 Los clientes son el pilar de cualquier negocio. En el aniversario de tu empresa, es crucial tomar un momento para agradecerles. Esto no solo muestra buena voluntad sino que también fortalece la relación cliente-empresa.
 
 ----
+
+![{{page.alt}}]({{site.baseurl}}/img/{{page.webp}} "Agradecimiento amor"){:width="320" height="320" loading="lazy"}
 
 ## Agradecimientos en aniversarios familiares
 
